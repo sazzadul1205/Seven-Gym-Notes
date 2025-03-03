@@ -25,18 +25,15 @@ function formatName(name) {
   return name.replace(/\s+/g, "_");
 }
 
-// Main function to generate trainer schedule using availableDays array and given start/end times
+// Main function to generate trainer schedule
 function generateTrainerSchedule(trainer, startTime, endTime) {
   const { name: trainerName, classTypes, availableDays } = trainer;
-
-  // Format trainer name to replace spaces with underscores
   const formattedName = formatName(trainerName);
 
-  // Parse the given start and end time strings
   const start = parseTime(startTime);
   const end = parseTime(endTime);
 
-  // Generate hourly time slots from start to end (inclusive) in 24-hr format
+  // Generate hourly time slots from start to end
   const timeSlots = [];
   for (let currentHour = start.hour; currentHour <= end.hour; currentHour++) {
     const formattedHour = currentHour.toString().padStart(2, "0");
@@ -49,13 +46,10 @@ function generateTrainerSchedule(trainer, startTime, endTime) {
   availableDays.forEach((day) => {
     schedule[day] = {};
     timeSlots.forEach((slot) => {
-      // Use the slot string (e.g., "09:00") directly as the key
       const timeKey = slot;
-
-      // Choose a random class type from the input array
       const classType = randomElement(classTypes);
 
-      // Determine participant limit based on class type
+      // Determine participant limit
       let participantLimit;
       if (classType.toLowerCase().includes("online")) {
         participantLimit = "No limit";
@@ -69,13 +63,13 @@ function generateTrainerSchedule(trainer, startTime, endTime) {
         participantLimit = getRandomInt(10, 20);
       }
 
-      // Generate classPrice: 50% chance free; if not, a random number between 10 and 50
+      // Generate classPrice
       const classPrice = Math.random() < 0.5 ? "free" : getRandomInt(10, 50);
 
       // Generate unique id without random number
       const id = `${formattedName}-${day}-${timeKey}`;
 
-      // Build the time slot object for this class
+      // Build the time slot object
       schedule[day][timeKey] = {
         id: id,
         classType: classType,
@@ -83,12 +77,11 @@ function generateTrainerSchedule(trainer, startTime, endTime) {
         participantLimit: participantLimit,
         classPrice: classPrice,
         start: slot,
-        end: `${slot.slice(0, 2)}:59`, // Assuming class ends at the 59th minute of the hour
+        end: `${slot.slice(0, 2)}:59`,
       };
     });
   });
 
-  // Return the final schedule object for this trainer
   return {
     trainerName: trainerName,
     trainerSchedule: schedule,
@@ -96,36 +89,45 @@ function generateTrainerSchedule(trainer, startTime, endTime) {
 }
 
 // ----- Example usage with multiple trainers -----
-// Input data for trainers
 const trainers = [
   {
-    name: "Mike Tyson",
-    specialization: "Boxing Instructor",
+    name: "Jack Rogers",
+    specialization: "CrossFit Instructor",
     availableDays: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
-    classTypes: ["Drop-In Class", "Private Session"],
+    classTypes: ["Private Session", "Partner Workout"],
   },
   {
-    name: "James Woods",
-    specialization: "Boxing Instructor",
-    availableDays: ["Saturday", "Sunday", "Monday", "Tuesday", "Wednesday"],
-    classTypes: ["Private Session", "Outdoor Class"],
-  },
-  {
-    name: "Chris Knight",
-    specialization: "Boxing Instructor",
-    availableDays: ["Saturday", "Sunday", "Monday", "Tuesday", "Wednesday"],
-    classTypes: ["Partner Workout", "Open Gym Class"],
-  },
-  {
-    name: "Anna Cruz",
-    specialization: "Boxing Instructor",
+    name: "Linda Brown",
+    specialization: "CrossFit Instructor",
     availableDays: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
     classTypes: [
-      "Drop-In Class",
+      "Semi-Private Training",
       "Private Session",
-      "Open Gym Class",
+      "Partner Workout",
       "Outdoor Class",
+    ],
+  },
+  {
+    name: "Steve Moore",
+    specialization: "CrossFit Instructor",
+    availableDays: ["Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    classTypes: [
+      "Partner Workout",
+      "Outdoor Class",
+      "Drop-In Class",
       "Workshops",
+    ],
+  },
+  {
+    name: "Maria Lopez",
+    specialization: "CrossFit Instructor",
+    availableDays: ["Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    classTypes: [
+      "Open Gym Class",
+      "Workshops",
+      "Group Class",
+      "Online Class",
+      "Outdoor Class",
     ],
   },
 ];
@@ -151,10 +153,36 @@ const scheduleGroup2 = group2.map((trainer) =>
 // Combine both group schedules
 const finalSchedule = [...scheduleGroup1, ...scheduleGroup2];
 
-// Write the output to a JSON file in the same folder
+// Write the output to a JSON file
 fs.writeFileSync(
   "generatedTrainersSchedule.json",
   JSON.stringify(finalSchedule, null, 2),
   "utf8"
 );
 console.log("Schedule data has been saved to generatedTrainersSchedule.json");
+
+// ----- CHECK FOR MISSING DAYS -----
+const allDays = [
+  "Monday",
+  "Tuesday",
+  "Wednesday",
+  "Thursday",
+  "Friday",
+  "Saturday",
+  "Sunday",
+];
+const scheduledDays = new Set();
+
+// Collect all scheduled days
+finalSchedule.forEach(({ trainerSchedule }) => {
+  Object.keys(trainerSchedule).forEach((day) => scheduledDays.add(day));
+});
+
+// Find missing days
+const missingDays = allDays.filter((day) => !scheduledDays.has(day));
+
+if (missingDays.length > 0) {
+  console.log("Missing days in the schedule:", missingDays.join(", "));
+} else {
+  console.log("All days of the week are covered in the schedule.");
+}

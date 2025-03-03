@@ -1,0 +1,1142 @@
+[
+    {
+      "trainerName": "Jack Rogers",
+      "trainerSchedule": {
+        "Monday": {
+          "08:00": {
+            "id": "Jack_Rogers-Monday-08:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": 50,
+            "start": "08:00",
+            "end": "08:59"
+          },
+          "09:00": {
+            "id": "Jack_Rogers-Monday-09:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 3,
+            "classPrice": "free",
+            "start": "09:00",
+            "end": "09:59"
+          },
+          "10:00": {
+            "id": "Jack_Rogers-Monday-10:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 3,
+            "classPrice": 43,
+            "start": "10:00",
+            "end": "10:59"
+          },
+          "11:00": {
+            "id": "Jack_Rogers-Monday-11:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": "free",
+            "start": "11:00",
+            "end": "11:59"
+          },
+          "12:00": {
+            "id": "Jack_Rogers-Monday-12:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": 37,
+            "start": "12:00",
+            "end": "12:59"
+          },
+          "13:00": {
+            "id": "Jack_Rogers-Monday-13:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 3,
+            "classPrice": "free",
+            "start": "13:00",
+            "end": "13:59"
+          }
+        },
+        "Tuesday": {
+          "08:00": {
+            "id": "Jack_Rogers-Tuesday-08:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 3,
+            "classPrice": "free",
+            "start": "08:00",
+            "end": "08:59"
+          },
+          "09:00": {
+            "id": "Jack_Rogers-Tuesday-09:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": "free",
+            "start": "09:00",
+            "end": "09:59"
+          },
+          "10:00": {
+            "id": "Jack_Rogers-Tuesday-10:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 2,
+            "classPrice": 30,
+            "start": "10:00",
+            "end": "10:59"
+          },
+          "11:00": {
+            "id": "Jack_Rogers-Tuesday-11:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": 44,
+            "start": "11:00",
+            "end": "11:59"
+          },
+          "12:00": {
+            "id": "Jack_Rogers-Tuesday-12:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 3,
+            "classPrice": "free",
+            "start": "12:00",
+            "end": "12:59"
+          },
+          "13:00": {
+            "id": "Jack_Rogers-Tuesday-13:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 3,
+            "classPrice": 33,
+            "start": "13:00",
+            "end": "13:59"
+          }
+        },
+        "Wednesday": {
+          "08:00": {
+            "id": "Jack_Rogers-Wednesday-08:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": "free",
+            "start": "08:00",
+            "end": "08:59"
+          },
+          "09:00": {
+            "id": "Jack_Rogers-Wednesday-09:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 2,
+            "classPrice": 12,
+            "start": "09:00",
+            "end": "09:59"
+          },
+          "10:00": {
+            "id": "Jack_Rogers-Wednesday-10:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": "free",
+            "start": "10:00",
+            "end": "10:59"
+          },
+          "11:00": {
+            "id": "Jack_Rogers-Wednesday-11:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": 21,
+            "start": "11:00",
+            "end": "11:59"
+          },
+          "12:00": {
+            "id": "Jack_Rogers-Wednesday-12:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 2,
+            "classPrice": "free",
+            "start": "12:00",
+            "end": "12:59"
+          },
+          "13:00": {
+            "id": "Jack_Rogers-Wednesday-13:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": 37,
+            "start": "13:00",
+            "end": "13:59"
+          }
+        },
+        "Thursday": {
+          "08:00": {
+            "id": "Jack_Rogers-Thursday-08:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": 45,
+            "start": "08:00",
+            "end": "08:59"
+          },
+          "09:00": {
+            "id": "Jack_Rogers-Thursday-09:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": 29,
+            "start": "09:00",
+            "end": "09:59"
+          },
+          "10:00": {
+            "id": "Jack_Rogers-Thursday-10:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 2,
+            "classPrice": "free",
+            "start": "10:00",
+            "end": "10:59"
+          },
+          "11:00": {
+            "id": "Jack_Rogers-Thursday-11:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": "free",
+            "start": "11:00",
+            "end": "11:59"
+          },
+          "12:00": {
+            "id": "Jack_Rogers-Thursday-12:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": "free",
+            "start": "12:00",
+            "end": "12:59"
+          },
+          "13:00": {
+            "id": "Jack_Rogers-Thursday-13:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": "free",
+            "start": "13:00",
+            "end": "13:59"
+          }
+        },
+        "Friday": {
+          "08:00": {
+            "id": "Jack_Rogers-Friday-08:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": 17,
+            "start": "08:00",
+            "end": "08:59"
+          },
+          "09:00": {
+            "id": "Jack_Rogers-Friday-09:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 3,
+            "classPrice": "free",
+            "start": "09:00",
+            "end": "09:59"
+          },
+          "10:00": {
+            "id": "Jack_Rogers-Friday-10:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": 38,
+            "start": "10:00",
+            "end": "10:59"
+          },
+          "11:00": {
+            "id": "Jack_Rogers-Friday-11:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 2,
+            "classPrice": "free",
+            "start": "11:00",
+            "end": "11:59"
+          },
+          "12:00": {
+            "id": "Jack_Rogers-Friday-12:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 3,
+            "classPrice": "free",
+            "start": "12:00",
+            "end": "12:59"
+          },
+          "13:00": {
+            "id": "Jack_Rogers-Friday-13:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": "free",
+            "start": "13:00",
+            "end": "13:59"
+          }
+        }
+      }
+    },
+    {
+      "trainerName": "Linda Brown",
+      "trainerSchedule": {
+        "Monday": {
+          "08:00": {
+            "id": "Linda_Brown-Monday-08:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": 37,
+            "start": "08:00",
+            "end": "08:59"
+          },
+          "09:00": {
+            "id": "Linda_Brown-Monday-09:00",
+            "classType": "Semi-Private Training",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": "free",
+            "start": "09:00",
+            "end": "09:59"
+          },
+          "10:00": {
+            "id": "Linda_Brown-Monday-10:00",
+            "classType": "Semi-Private Training",
+            "participant": {},
+            "participantLimit": 3,
+            "classPrice": "free",
+            "start": "10:00",
+            "end": "10:59"
+          },
+          "11:00": {
+            "id": "Linda_Brown-Monday-11:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 3,
+            "classPrice": 43,
+            "start": "11:00",
+            "end": "11:59"
+          },
+          "12:00": {
+            "id": "Linda_Brown-Monday-12:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 19,
+            "classPrice": 16,
+            "start": "12:00",
+            "end": "12:59"
+          },
+          "13:00": {
+            "id": "Linda_Brown-Monday-13:00",
+            "classType": "Semi-Private Training",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": "free",
+            "start": "13:00",
+            "end": "13:59"
+          }
+        },
+        "Tuesday": {
+          "08:00": {
+            "id": "Linda_Brown-Tuesday-08:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 18,
+            "classPrice": 26,
+            "start": "08:00",
+            "end": "08:59"
+          },
+          "09:00": {
+            "id": "Linda_Brown-Tuesday-09:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 2,
+            "classPrice": 50,
+            "start": "09:00",
+            "end": "09:59"
+          },
+          "10:00": {
+            "id": "Linda_Brown-Tuesday-10:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 18,
+            "classPrice": 18,
+            "start": "10:00",
+            "end": "10:59"
+          },
+          "11:00": {
+            "id": "Linda_Brown-Tuesday-11:00",
+            "classType": "Semi-Private Training",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": 33,
+            "start": "11:00",
+            "end": "11:59"
+          },
+          "12:00": {
+            "id": "Linda_Brown-Tuesday-12:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": 34,
+            "start": "12:00",
+            "end": "12:59"
+          },
+          "13:00": {
+            "id": "Linda_Brown-Tuesday-13:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 2,
+            "classPrice": 30,
+            "start": "13:00",
+            "end": "13:59"
+          }
+        },
+        "Wednesday": {
+          "08:00": {
+            "id": "Linda_Brown-Wednesday-08:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 17,
+            "classPrice": 15,
+            "start": "08:00",
+            "end": "08:59"
+          },
+          "09:00": {
+            "id": "Linda_Brown-Wednesday-09:00",
+            "classType": "Semi-Private Training",
+            "participant": {},
+            "participantLimit": 2,
+            "classPrice": "free",
+            "start": "09:00",
+            "end": "09:59"
+          },
+          "10:00": {
+            "id": "Linda_Brown-Wednesday-10:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": "free",
+            "start": "10:00",
+            "end": "10:59"
+          },
+          "11:00": {
+            "id": "Linda_Brown-Wednesday-11:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 3,
+            "classPrice": 46,
+            "start": "11:00",
+            "end": "11:59"
+          },
+          "12:00": {
+            "id": "Linda_Brown-Wednesday-12:00",
+            "classType": "Semi-Private Training",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": 24,
+            "start": "12:00",
+            "end": "12:59"
+          },
+          "13:00": {
+            "id": "Linda_Brown-Wednesday-13:00",
+            "classType": "Semi-Private Training",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": "free",
+            "start": "13:00",
+            "end": "13:59"
+          }
+        },
+        "Thursday": {
+          "08:00": {
+            "id": "Linda_Brown-Thursday-08:00",
+            "classType": "Semi-Private Training",
+            "participant": {},
+            "participantLimit": 3,
+            "classPrice": "free",
+            "start": "08:00",
+            "end": "08:59"
+          },
+          "09:00": {
+            "id": "Linda_Brown-Thursday-09:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": 35,
+            "start": "09:00",
+            "end": "09:59"
+          },
+          "10:00": {
+            "id": "Linda_Brown-Thursday-10:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 11,
+            "classPrice": 10,
+            "start": "10:00",
+            "end": "10:59"
+          },
+          "11:00": {
+            "id": "Linda_Brown-Thursday-11:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 2,
+            "classPrice": 39,
+            "start": "11:00",
+            "end": "11:59"
+          },
+          "12:00": {
+            "id": "Linda_Brown-Thursday-12:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 2,
+            "classPrice": 43,
+            "start": "12:00",
+            "end": "12:59"
+          },
+          "13:00": {
+            "id": "Linda_Brown-Thursday-13:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 16,
+            "classPrice": "free",
+            "start": "13:00",
+            "end": "13:59"
+          }
+        },
+        "Friday": {
+          "08:00": {
+            "id": "Linda_Brown-Friday-08:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 2,
+            "classPrice": 30,
+            "start": "08:00",
+            "end": "08:59"
+          },
+          "09:00": {
+            "id": "Linda_Brown-Friday-09:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": "free",
+            "start": "09:00",
+            "end": "09:59"
+          },
+          "10:00": {
+            "id": "Linda_Brown-Friday-10:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": 37,
+            "start": "10:00",
+            "end": "10:59"
+          },
+          "11:00": {
+            "id": "Linda_Brown-Friday-11:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 20,
+            "classPrice": "free",
+            "start": "11:00",
+            "end": "11:59"
+          },
+          "12:00": {
+            "id": "Linda_Brown-Friday-12:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 2,
+            "classPrice": 48,
+            "start": "12:00",
+            "end": "12:59"
+          },
+          "13:00": {
+            "id": "Linda_Brown-Friday-13:00",
+            "classType": "Semi-Private Training",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": 15,
+            "start": "13:00",
+            "end": "13:59"
+          }
+        }
+      }
+    },
+    {
+      "trainerName": "Steve Moore",
+      "trainerSchedule": {
+        "Wednesday": {
+          "14:00": {
+            "id": "Steve_Moore-Wednesday-14:00",
+            "classType": "Drop-In Class",
+            "participant": {},
+            "participantLimit": 13,
+            "classPrice": "free",
+            "start": "14:00",
+            "end": "14:59"
+          },
+          "15:00": {
+            "id": "Steve_Moore-Wednesday-15:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": 10,
+            "start": "15:00",
+            "end": "15:59"
+          },
+          "16:00": {
+            "id": "Steve_Moore-Wednesday-16:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 13,
+            "classPrice": 30,
+            "start": "16:00",
+            "end": "16:59"
+          },
+          "17:00": {
+            "id": "Steve_Moore-Wednesday-17:00",
+            "classType": "Drop-In Class",
+            "participant": {},
+            "participantLimit": 14,
+            "classPrice": 29,
+            "start": "17:00",
+            "end": "17:59"
+          },
+          "18:00": {
+            "id": "Steve_Moore-Wednesday-18:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": 30,
+            "start": "18:00",
+            "end": "18:59"
+          },
+          "19:00": {
+            "id": "Steve_Moore-Wednesday-19:00",
+            "classType": "Drop-In Class",
+            "participant": {},
+            "participantLimit": 15,
+            "classPrice": "free",
+            "start": "19:00",
+            "end": "19:59"
+          }
+        },
+        "Thursday": {
+          "14:00": {
+            "id": "Steve_Moore-Thursday-14:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 10,
+            "classPrice": 11,
+            "start": "14:00",
+            "end": "14:59"
+          },
+          "15:00": {
+            "id": "Steve_Moore-Thursday-15:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 11,
+            "classPrice": "free",
+            "start": "15:00",
+            "end": "15:59"
+          },
+          "16:00": {
+            "id": "Steve_Moore-Thursday-16:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 20,
+            "classPrice": "free",
+            "start": "16:00",
+            "end": "16:59"
+          },
+          "17:00": {
+            "id": "Steve_Moore-Thursday-17:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": 44,
+            "start": "17:00",
+            "end": "17:59"
+          },
+          "18:00": {
+            "id": "Steve_Moore-Thursday-18:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 12,
+            "classPrice": 26,
+            "start": "18:00",
+            "end": "18:59"
+          },
+          "19:00": {
+            "id": "Steve_Moore-Thursday-19:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": 18,
+            "start": "19:00",
+            "end": "19:59"
+          }
+        },
+        "Friday": {
+          "14:00": {
+            "id": "Steve_Moore-Friday-14:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 15,
+            "classPrice": 20,
+            "start": "14:00",
+            "end": "14:59"
+          },
+          "15:00": {
+            "id": "Steve_Moore-Friday-15:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 15,
+            "classPrice": "free",
+            "start": "15:00",
+            "end": "15:59"
+          },
+          "16:00": {
+            "id": "Steve_Moore-Friday-16:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 19,
+            "classPrice": "free",
+            "start": "16:00",
+            "end": "16:59"
+          },
+          "17:00": {
+            "id": "Steve_Moore-Friday-17:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 11,
+            "classPrice": 17,
+            "start": "17:00",
+            "end": "17:59"
+          },
+          "18:00": {
+            "id": "Steve_Moore-Friday-18:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 18,
+            "classPrice": 34,
+            "start": "18:00",
+            "end": "18:59"
+          },
+          "19:00": {
+            "id": "Steve_Moore-Friday-19:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 13,
+            "classPrice": 24,
+            "start": "19:00",
+            "end": "19:59"
+          }
+        },
+        "Saturday": {
+          "14:00": {
+            "id": "Steve_Moore-Saturday-14:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 10,
+            "classPrice": "free",
+            "start": "14:00",
+            "end": "14:59"
+          },
+          "15:00": {
+            "id": "Steve_Moore-Saturday-15:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 20,
+            "classPrice": "free",
+            "start": "15:00",
+            "end": "15:59"
+          },
+          "16:00": {
+            "id": "Steve_Moore-Saturday-16:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": 24,
+            "start": "16:00",
+            "end": "16:59"
+          },
+          "17:00": {
+            "id": "Steve_Moore-Saturday-17:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 2,
+            "classPrice": 34,
+            "start": "17:00",
+            "end": "17:59"
+          },
+          "18:00": {
+            "id": "Steve_Moore-Saturday-18:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 12,
+            "classPrice": "free",
+            "start": "18:00",
+            "end": "18:59"
+          },
+          "19:00": {
+            "id": "Steve_Moore-Saturday-19:00",
+            "classType": "Drop-In Class",
+            "participant": {},
+            "participantLimit": 20,
+            "classPrice": 19,
+            "start": "19:00",
+            "end": "19:59"
+          }
+        },
+        "Sunday": {
+          "14:00": {
+            "id": "Steve_Moore-Sunday-14:00",
+            "classType": "Drop-In Class",
+            "participant": {},
+            "participantLimit": 10,
+            "classPrice": "free",
+            "start": "14:00",
+            "end": "14:59"
+          },
+          "15:00": {
+            "id": "Steve_Moore-Sunday-15:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": 41,
+            "start": "15:00",
+            "end": "15:59"
+          },
+          "16:00": {
+            "id": "Steve_Moore-Sunday-16:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 17,
+            "classPrice": "free",
+            "start": "16:00",
+            "end": "16:59"
+          },
+          "17:00": {
+            "id": "Steve_Moore-Sunday-17:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 20,
+            "classPrice": "free",
+            "start": "17:00",
+            "end": "17:59"
+          },
+          "18:00": {
+            "id": "Steve_Moore-Sunday-18:00",
+            "classType": "Drop-In Class",
+            "participant": {},
+            "participantLimit": 16,
+            "classPrice": 29,
+            "start": "18:00",
+            "end": "18:59"
+          },
+          "19:00": {
+            "id": "Steve_Moore-Sunday-19:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": "free",
+            "start": "19:00",
+            "end": "19:59"
+          }
+        }
+      }
+    },
+    {
+      "trainerName": "Maria Lopez",
+      "trainerSchedule": {
+        "Wednesday": {
+          "14:00": {
+            "id": "Maria_Lopez-Wednesday-14:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 20,
+            "classPrice": 37,
+            "start": "14:00",
+            "end": "14:59"
+          },
+          "15:00": {
+            "id": "Maria_Lopez-Wednesday-15:00",
+            "classType": "Online Class",
+            "participant": {},
+            "participantLimit": "No limit",
+            "classPrice": "free",
+            "start": "15:00",
+            "end": "15:59"
+          },
+          "16:00": {
+            "id": "Maria_Lopez-Wednesday-16:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 10,
+            "classPrice": 33,
+            "start": "16:00",
+            "end": "16:59"
+          },
+          "17:00": {
+            "id": "Maria_Lopez-Wednesday-17:00",
+            "classType": "Online Class",
+            "participant": {},
+            "participantLimit": "No limit",
+            "classPrice": 36,
+            "start": "17:00",
+            "end": "17:59"
+          },
+          "18:00": {
+            "id": "Maria_Lopez-Wednesday-18:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 16,
+            "classPrice": "free",
+            "start": "18:00",
+            "end": "18:59"
+          },
+          "19:00": {
+            "id": "Maria_Lopez-Wednesday-19:00",
+            "classType": "Online Class",
+            "participant": {},
+            "participantLimit": "No limit",
+            "classPrice": "free",
+            "start": "19:00",
+            "end": "19:59"
+          }
+        },
+        "Thursday": {
+          "14:00": {
+            "id": "Maria_Lopez-Thursday-14:00",
+            "classType": "Group Class",
+            "participant": {},
+            "participantLimit": 19,
+            "classPrice": 35,
+            "start": "14:00",
+            "end": "14:59"
+          },
+          "15:00": {
+            "id": "Maria_Lopez-Thursday-15:00",
+            "classType": "Online Class",
+            "participant": {},
+            "participantLimit": "No limit",
+            "classPrice": "free",
+            "start": "15:00",
+            "end": "15:59"
+          },
+          "16:00": {
+            "id": "Maria_Lopez-Thursday-16:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 14,
+            "classPrice": "free",
+            "start": "16:00",
+            "end": "16:59"
+          },
+          "17:00": {
+            "id": "Maria_Lopez-Thursday-17:00",
+            "classType": "Online Class",
+            "participant": {},
+            "participantLimit": "No limit",
+            "classPrice": "free",
+            "start": "17:00",
+            "end": "17:59"
+          },
+          "18:00": {
+            "id": "Maria_Lopez-Thursday-18:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 11,
+            "classPrice": 15,
+            "start": "18:00",
+            "end": "18:59"
+          },
+          "19:00": {
+            "id": "Maria_Lopez-Thursday-19:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 20,
+            "classPrice": "free",
+            "start": "19:00",
+            "end": "19:59"
+          }
+        },
+        "Friday": {
+          "14:00": {
+            "id": "Maria_Lopez-Friday-14:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 20,
+            "classPrice": "free",
+            "start": "14:00",
+            "end": "14:59"
+          },
+          "15:00": {
+            "id": "Maria_Lopez-Friday-15:00",
+            "classType": "Group Class",
+            "participant": {},
+            "participantLimit": 15,
+            "classPrice": 22,
+            "start": "15:00",
+            "end": "15:59"
+          },
+          "16:00": {
+            "id": "Maria_Lopez-Friday-16:00",
+            "classType": "Open Gym Class",
+            "participant": {},
+            "participantLimit": 11,
+            "classPrice": 18,
+            "start": "16:00",
+            "end": "16:59"
+          },
+          "17:00": {
+            "id": "Maria_Lopez-Friday-17:00",
+            "classType": "Group Class",
+            "participant": {},
+            "participantLimit": 19,
+            "classPrice": "free",
+            "start": "17:00",
+            "end": "17:59"
+          },
+          "18:00": {
+            "id": "Maria_Lopez-Friday-18:00",
+            "classType": "Group Class",
+            "participant": {},
+            "participantLimit": 14,
+            "classPrice": 50,
+            "start": "18:00",
+            "end": "18:59"
+          },
+          "19:00": {
+            "id": "Maria_Lopez-Friday-19:00",
+            "classType": "Group Class",
+            "participant": {},
+            "participantLimit": 12,
+            "classPrice": "free",
+            "start": "19:00",
+            "end": "19:59"
+          }
+        },
+        "Saturday": {
+          "14:00": {
+            "id": "Maria_Lopez-Saturday-14:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 16,
+            "classPrice": 24,
+            "start": "14:00",
+            "end": "14:59"
+          },
+          "15:00": {
+            "id": "Maria_Lopez-Saturday-15:00",
+            "classType": "Open Gym Class",
+            "participant": {},
+            "participantLimit": 17,
+            "classPrice": "free",
+            "start": "15:00",
+            "end": "15:59"
+          },
+          "16:00": {
+            "id": "Maria_Lopez-Saturday-16:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 18,
+            "classPrice": 21,
+            "start": "16:00",
+            "end": "16:59"
+          },
+          "17:00": {
+            "id": "Maria_Lopez-Saturday-17:00",
+            "classType": "Online Class",
+            "participant": {},
+            "participantLimit": "No limit",
+            "classPrice": 21,
+            "start": "17:00",
+            "end": "17:59"
+          },
+          "18:00": {
+            "id": "Maria_Lopez-Saturday-18:00",
+            "classType": "Online Class",
+            "participant": {},
+            "participantLimit": "No limit",
+            "classPrice": 26,
+            "start": "18:00",
+            "end": "18:59"
+          },
+          "19:00": {
+            "id": "Maria_Lopez-Saturday-19:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 15,
+            "classPrice": 30,
+            "start": "19:00",
+            "end": "19:59"
+          }
+        },
+        "Sunday": {
+          "14:00": {
+            "id": "Maria_Lopez-Sunday-14:00",
+            "classType": "Open Gym Class",
+            "participant": {},
+            "participantLimit": 19,
+            "classPrice": "free",
+            "start": "14:00",
+            "end": "14:59"
+          },
+          "15:00": {
+            "id": "Maria_Lopez-Sunday-15:00",
+            "classType": "Open Gym Class",
+            "participant": {},
+            "participantLimit": 11,
+            "classPrice": "free",
+            "start": "15:00",
+            "end": "15:59"
+          },
+          "16:00": {
+            "id": "Maria_Lopez-Sunday-16:00",
+            "classType": "Online Class",
+            "participant": {},
+            "participantLimit": "No limit",
+            "classPrice": 48,
+            "start": "16:00",
+            "end": "16:59"
+          },
+          "17:00": {
+            "id": "Maria_Lopez-Sunday-17:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 15,
+            "classPrice": "free",
+            "start": "17:00",
+            "end": "17:59"
+          },
+          "18:00": {
+            "id": "Maria_Lopez-Sunday-18:00",
+            "classType": "Open Gym Class",
+            "participant": {},
+            "participantLimit": 11,
+            "classPrice": 24,
+            "start": "18:00",
+            "end": "18:59"
+          },
+          "19:00": {
+            "id": "Maria_Lopez-Sunday-19:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 11,
+            "classPrice": 43,
+            "start": "19:00",
+            "end": "19:59"
+          }
+        }
+      }
+    }
+  ]
