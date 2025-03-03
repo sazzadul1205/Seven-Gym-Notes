@@ -1,0 +1,3450 @@
+[
+  {
+    "_id": "676e9791205adb04706021f2",
+    "email": "johndavis@gmail.com",
+    "name": "John Davis",
+    "specialization": "Spin Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Gold",
+    "gender": "Male",
+    "age": 34,
+    "experience": 9,
+    "availableDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "contact": {
+      "phone": "+1 345 678 112",
+      "email": "john.davis@example.com",
+      "website": "https://johndavis-spin.com",
+      "linkedin": "https://linkedin.com/in/johndavis",
+      "instagram": "https://instagram.com/johndavis_spin",
+      "facebook": "https://facebook.com/johndavisfitness"
+    },
+    "bio": "John Davis is a passionate Spin Instructor with 9 years of experience leading high-intensity indoor cycling classes. Known for his motivational coaching and dynamic routines, John specializes in endurance training, interval workouts, and calorie-burning sessions.",
+    "certifications": [
+      "Certified Spin Instructor",
+      "Certified Group Fitness Instructor",
+      "CPR & First Aid Certified",
+      "Sports Performance Specialist"
+    ],
+    "awards": [
+      {
+        "title": "Top Spin Instructor",
+        "year": 2021,
+        "organization": "Fitness Leaders Awards"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Alex Taylor",
+        "email": "alex.taylor@example.com",
+        "testimonial": "John's spin classes are next-level! His energy keeps me going, and I've seen great improvements in my stamina and strength.",
+        "rating": 5
+      },
+      {
+        "clientName": "Emily Wright",
+        "email": "emily.wright@example.com",
+        "testimonial": "I love John's classes! The music, the routines, and his enthusiasm make every session amazing.",
+        "rating": 4.8
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Endurance Training",
+        "High-Intensity Workouts",
+        "Weight Loss",
+        "Core Strength",
+        "Cardio Conditioning"
+      ],
+      "classTypes": [
+        "Drop-In Class",
+        "Private Session",
+        "Online Class",
+        "Workshops",
+        "Open Gym Class"
+      ]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Personalized cycling plans",
+      "Performance tracking",
+      "Nutrition advice",
+      "Endurance coaching"
+    ],
+    "equipmentUsed": [
+      "Indoor Cycling Bikes",
+      "Heart Rate Monitors",
+      "Resistance Bands"
+    ],
+    "partnerships": [
+      {
+        "partnerName": "Cycle Power Studio",
+        "website": "https://cyclepowerstudio.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021da",
+    "email": "alicejohnson@gmail.com",
+    "name": "Alice Johnson",
+    "specialization": "Aerobics Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Gold",
+    "gender": "Female",
+    "age": 30,
+    "experience": 8,
+    "availableDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "contact": {
+      "phone": "+1 345 678 901",
+      "email": "alice.johnson@example.com",
+      "website": "https://alicejohnson-aerobics.com",
+      "linkedin": "https://linkedin.com/in/alicejohnson",
+      "instagram": "https://instagram.com/alicejohnson_aerobics",
+      "facebook": "https://facebook.com/alicejohnsonfitness"
+    },
+    "bio": "Alice Johnson is a certified Aerobics Instructor with 8 years of experience in leading high-energy classes that improve cardiovascular health and overall fitness. Known for her motivating teaching style, Alice specializes in strength conditioning, flexibility training, and endurance building.",
+    "certifications": [
+      "Certified Aerobics Instructor",
+      "Certified Group Fitness Instructor",
+      "CPR & First Aid Certified",
+      "Fitness Nutrition Specialist"
+    ],
+    "awards": [
+      {
+        "title": "Best Aerobics Instructor",
+        "year": 2020,
+        "organization": "Fitness Excellence Awards"
+      },
+      {
+        "title": "Top Group Fitness Leader",
+        "year": 2022,
+        "organization": "National Fitness Association"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Sophia Williams",
+        "email": "sophia.williams@example.com",
+        "testimonial": "Alice is amazing! Her aerobics classes are so fun, and I’ve seen a huge improvement in my endurance and overall fitness. She makes every class a rewarding experience.",
+        "rating": 5
+      },
+      {
+        "clientName": "Ethan Scott",
+        "email": "ethan.scott@example.com",
+        "testimonial": "Alice's energy is contagious! Her classes push me to do my best, and I always leave feeling stronger and more energized. Highly recommended!",
+        "rating": 4.9
+      },
+      {
+        "clientName": "Olivia Brown",
+        "email": "olivia.brown@example.com",
+        "testimonial": "I’ve been taking Alice’s classes for months now. The variety and intensity of the routines are fantastic. She’s truly an inspiring instructor.",
+        "rating": 5
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Cardio Endurance",
+        "Strength Training",
+        "Flexibility",
+        "Core Stability",
+        "Body Toning",
+        "Weight Loss"
+      ],
+      "classTypes": ["Private Session", "Workshops", "Open Gym Class"]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Personalized fitness plans",
+      "Bootcamp sessions",
+      "Weight loss coaching",
+      "Nutrition advice"
+    ],
+    "equipmentUsed": [
+      "Step Platforms",
+      "Aerobics Mats",
+      "Resistance Bands",
+      "Free Weights",
+      "Kettlebells"
+    ],
+    "partnerships": [
+      {
+        "partnerName": "Fit Life Gym",
+        "website": "https://fitlifegym.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021f9",
+    "email": "gracescott@gmail.com",
+    "name": "Grace Scott",
+    "specialization": "Strength Training Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Platinum",
+    "gender": "Female",
+    "age": 33,
+    "experience": 11,
+    "availableDays": ["Saturday", "Sunday", "Monday", "Tuesday", "Wednesday"],
+    "contact": {
+      "phone": "+1 678 901 456",
+      "email": "grace.scott@example.com",
+      "website": "https://gracescott-strength.com",
+      "linkedin": "https://linkedin.com/in/gracescott",
+      "instagram": "https://instagram.com/gracescott_strength",
+      "facebook": "https://facebook.com/gracescottfitness"
+    },
+    "bio": "Grace Scott is a Platinum-tier Strength Training Instructor with 11 years of experience in advanced fitness coaching. She excels in helping clients achieve their fitness goals through disciplined routines and motivational coaching.",
+    "certifications": [
+      "Certified Strength Trainer",
+      "Advanced Weightlifting Certification",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [
+      {
+        "title": "Elite Strength Trainer",
+        "year": 2019,
+        "organization": "National Fitness Awards"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Emma Taylor",
+        "email": "emma.taylor@example.com",
+        "testimonial": "Grace has been instrumental in helping me reach my fitness goals. Her expertise is unmatched.",
+        "rating": 5
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Strength and Endurance",
+        "Core Conditioning",
+        "Injury Prevention",
+        "Functional Fitness"
+      ],
+      "classTypes": [
+        "Drop-In Class",
+        "Semi-Private Training",
+        "Outdoor Class",
+        "Group Class",
+        "Workshops"
+      ]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Customized strength programs",
+      "Nutrition advice",
+      "Personalized coaching"
+    ],
+    "equipmentUsed": [
+      "Free Weights",
+      "Barbells",
+      "Kettlebells",
+      "Resistance Bands"
+    ],
+    "partnerships": [
+      {
+        "partnerName": "Ultimate Strength Gym",
+        "website": "https://ultimatestrengthgym.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb0470602200",
+    "email": "mialewis@gmail.com",
+    "name": "Mia Lewis",
+    "specialization": "Yoga Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Gold",
+    "gender": "Female",
+    "age": 31,
+    "experience": 9,
+    "availableDays": ["Monday", "Tuesday", "Wednesday", "Saturday", "Sunday"],
+    "contact": {
+      "phone": "+1 456 789 012",
+      "email": "mia.lewis@example.com",
+      "website": "https://mialewis-yoga.com",
+      "linkedin": "https://linkedin.com/in/mialewis",
+      "instagram": "https://instagram.com/mialewis_yoga",
+      "facebook": "https://facebook.com/mialewisyoga"
+    },
+    "bio": "Mia Lewis is a Gold-tier Yoga Instructor with 9 years of experience. Her focus is on holistic yoga practices that enhance flexibility, posture, and inner peace.",
+    "certifications": [
+      "Certified Yoga Instructor",
+      "Certified Pranayama Specialist",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [
+      {
+        "title": "Yoga Teacher of the Year",
+        "year": 2019,
+        "organization": "Yoga Professionals Awards"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Ella Walker",
+        "email": "ella.walker@example.com",
+        "testimonial": "Mia’s yoga sessions have brought a lot of calm and flexibility into my life. She’s a wonderful guide.",
+        "rating": 4.8
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Flexibility",
+        "Mindfulness",
+        "Posture Improvement",
+        "Core Stability"
+      ],
+      "classTypes": [
+        "Partner Workout",
+        "Drop-In Class",
+        "Private Session",
+        "Open Gym Class"
+      ]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Meditation training",
+      "Holistic yoga routines",
+      "Stress relief programs"
+    ],
+    "equipmentUsed": ["Yoga Mats", "Bolsters", "Straps", "Blocks"],
+    "partnerships": [
+      {
+        "partnerName": "Zen Wellness Studio",
+        "website": "https://zenwellnessstudio.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021d6",
+    "email": "thomasking@gmail.com",
+    "name": "Thomas King",
+    "specialization": "Dance Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Gold",
+    "gender": "Male",
+    "age": 35,
+    "experience": 10,
+    "availableDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "contact": {
+      "phone": "+1 345 678 901",
+      "email": "thomasking@example.com",
+      "website": "https://thomasking-dance.com",
+      "linkedin": "https://linkedin.com/in/thomasking",
+      "instagram": "https://instagram.com/thomasking_dance",
+      "facebook": "https://facebook.com/thomaskingdance"
+    },
+    "bio": "Thomas King is a professional dance instructor with over 10 years of experience in teaching various dance styles including Hip Hop, Contemporary, and Ballroom. He helps students improve their rhythm, flexibility, and coordination, while encouraging self-expression through dance.",
+    "certifications": [
+      "Certified Dance Instructor",
+      "Hip Hop Dance Certification",
+      "Ballroom Dance Certified",
+      "CPR & First Aid Certified",
+      "Certified Zumba Instructor"
+    ],
+    "awards": [
+      {
+        "title": "National Dance Championship Winner",
+        "year": 2015,
+        "organization": "National Dance Federation"
+      },
+      {
+        "title": "Best Dance Performance Award",
+        "year": 2018,
+        "organization": "California Dance Academy"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Robert Lee",
+        "email": "robert.lee@example.com",
+        "testimonial": "Thomas' dance classes are full of energy! He makes learning fun and I've seen incredible progress in my moves.",
+        "rating": 5
+      },
+      {
+        "clientName": "Sophia Turner",
+        "email": "sophia.turner@example.com",
+        "testimonial": "An exceptional instructor who tailors each class to suit the student's level. Highly recommend his group classes.",
+        "rating": 5
+      },
+      {
+        "clientName": "David Brown",
+        "email": "david.brown@example.com",
+        "testimonial": "Thomas' dance style is unique and expressive. His choreography is always creative and inspiring!",
+        "rating": 4.8
+      },
+      {
+        "clientName": "Emily Wilson",
+        "email": "emily.wilson@example.com",
+        "testimonial": "Private sessions with Thomas have greatly improved my flexibility and dance technique. I feel more confident on the dance floor.",
+        "rating": 5
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Hip Hop",
+        "Contemporary",
+        "Ballroom",
+        "Choreography",
+        "Rhythm and Coordination",
+        "Dance Flexibility"
+      ],
+      "classTypes": ["Private Training", "Group Classes"]
+    },
+    "languagesSpoken": ["English", "Spanish", "French"],
+    "additionalServices": [
+      "Choreography for events",
+      "Dance fitness classes",
+      "Private lessons for competitions"
+    ],
+    "equipmentUsed": [
+      "Dance Floors",
+      "Mirrored Walls",
+      "Barres",
+      "Dance Mats",
+      "Stretch Bands"
+    ],
+    "partnerships": [
+      {
+        "partnerName": "Global Dance Academy",
+        "website": "https://globaldanceacademy.com"
+      },
+      {
+        "partnerName": "Elite Dance Studios",
+        "website": "https://elitedancestudios.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021d9",
+    "email": "oliviataylor@gmail.com",
+    "name": "Olivia Taylor",
+    "specialization": "Dance Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Silver",
+    "gender": "Female",
+    "age": 28,
+    "experience": 6,
+    "availableDays": ["Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    "contact": {
+      "phone": "+1 234 567 890",
+      "email": "olivia.taylor@example.com",
+      "website": "https://oliviataylor-dance.com",
+      "linkedin": "https://linkedin.com/in/oliviataylor",
+      "instagram": "https://instagram.com/oliviataylor_dance",
+      "facebook": "https://facebook.com/oliviataylordance"
+    },
+    "bio": "Olivia Taylor is a passionate and dedicated dance instructor with 6 years of experience in teaching diverse dance styles. Known for her attention to detail, Olivia specializes in ballet, contemporary, and jazz, fostering growth in students' technical skills while nurturing creativity and self-expression.",
+    "certifications": [
+      "Certified Dance Instructor",
+      "Jazz Dance Certification",
+      "Ballet Teacher Certified",
+      "Contemporary Dance Certified",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [
+      {
+        "title": "Best New Dance Instructor",
+        "year": 2019,
+        "organization": "Dance Excellence Awards"
+      },
+      {
+        "title": "Top Dance Teacher of the Year",
+        "year": 2021,
+        "organization": "National Dance Federation"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Emma White",
+        "email": "emma.white@example.com",
+        "testimonial": "Olivia is an outstanding teacher! Her contemporary dance classes are fun and challenging. I've improved my flexibility and confidence tremendously under her guidance.",
+        "rating": 5
+      },
+      {
+        "clientName": "Liam Clark",
+        "email": "liam.clark@example.com",
+        "testimonial": "Her ballet classes are top-notch. Olivia breaks down each move step by step, making it easy to learn and refine. Highly recommend!",
+        "rating": 5
+      },
+      {
+        "clientName": "Mia Davis",
+        "email": "mia.davis@example.com",
+        "testimonial": "Olivia is a patient and motivating instructor. I feel so much stronger and more confident in my dance abilities after working with her.",
+        "rating": 4.8
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Ballet",
+        "Contemporary",
+        "Jazz",
+        "Dance Technique",
+        "Flexibility",
+        "Dance Performance"
+      ],
+      "classTypes": [
+        "Private Training",
+        "Semi-Private Training",
+        "Group Classes",
+        "Workshops"
+      ]
+    },
+    "languagesSpoken": ["English", "Spanish"],
+    "additionalServices": [
+      "Choreography for performances",
+      "Dance fitness classes",
+      "Private coaching for competitions"
+    ],
+    "equipmentUsed": [
+      "Dance Floors",
+      "Mirrored Walls",
+      "Barres",
+      "Stretch Bands",
+      "Dance Mats"
+    ],
+    "partnerships": [
+      {
+        "partnerName": "Dance Academy of Excellence",
+        "website": "https://danceacademyofexcellence.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb0470602201",
+    "email": "lucasmitchell@gmail.com",
+    "name": "Lucas Mitchell",
+    "specialization": "Yoga Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Silver",
+    "gender": "Male",
+    "age": 33,
+    "experience": 8,
+    "availableDays": ["Monday", "Tuesday", "Wednesday", "Saturday", "Sunday"],
+    "contact": {
+      "phone": "+1 567 890 123",
+      "email": "lucas.mitchell@example.com",
+      "website": "https://lucasmitchell-yoga.com",
+      "linkedin": "https://linkedin.com/in/lucasmitchell",
+      "instagram": "https://instagram.com/lucasmitchell_yoga",
+      "facebook": "https://facebook.com/lucasmitchellfitness"
+    },
+    "bio": "Lucas Mitchell is a professional Yoga Instructor with 8 years of experience. He specializes in restorative yoga and stress management techniques.",
+    "certifications": [
+      "Certified Yoga Trainer",
+      "Certified Stress Management Specialist",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [],
+    "testimonials": [
+      {
+        "clientName": "Noah Carter",
+        "email": "noah.carter@example.com",
+        "testimonial": "Lucas’s yoga classes have been a game-changer for me. His calm approach helps me stay focused and relaxed.",
+        "rating": 5
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Stress Relief",
+        "Flexibility",
+        "Restorative Yoga",
+        "Mindfulness"
+      ],
+      "classTypes": ["Private Session", "Outdoor Class"]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Yoga for stress relief",
+      "Customized restorative yoga plans"
+    ],
+    "equipmentUsed": ["Yoga Mats", "Blocks", "Bolsters", "Straps"],
+    "partnerships": [
+      {
+        "partnerName": "Calm Yoga Center",
+        "website": "https://calmyogacenter.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021f1",
+    "email": "lucaslee@gmail.com",
+    "name": "Lucas Lee",
+    "specialization": "Pilates Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Platinum",
+    "gender": "Male",
+    "age": 40,
+    "experience": 12,
+    "availableDays": ["Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    "contact": {
+      "phone": "+1 345 678 432",
+      "email": "lucas.lee@example.com",
+      "website": "https://lucaslee-pilates.com",
+      "linkedin": "https://linkedin.com/in/lucaslee",
+      "instagram": "https://instagram.com/lucaslee_pilates",
+      "facebook": "https://facebook.com/lucasleepilates"
+    },
+    "bio": "Lucas Lee is a seasoned Pilates Instructor with over 12 years of experience. He specializes in advanced Pilates techniques, injury rehabilitation, and strength conditioning. Lucas is known for his dynamic and engaging teaching style.",
+    "certifications": [
+      "Certified Pilates Instructor",
+      "Certified Advanced Pilates Specialist",
+      "CPR & First Aid Certified",
+      "Sports Rehabilitation Specialist"
+    ],
+    "awards": [
+      {
+        "title": "Pilates Educator of the Year",
+        "year": 2021,
+        "organization": "Pilates Academy Awards"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Sophia Knight",
+        "email": "sophia.knight@example.com",
+        "testimonial": "Lucas is an expert in Pilates. His sessions have helped me recover from an injury and regain full mobility.",
+        "rating": 5
+      },
+      {
+        "clientName": "John Doe",
+        "email": "john.doe@example.com",
+        "testimonial": "I’ve never felt stronger or more centered. Lucas’ Pilates classes are intense but very rewarding.",
+        "rating": 5
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Injury Rehabilitation",
+        "Core Strength",
+        "Flexibility",
+        "Strength Conditioning",
+        "Mobility"
+      ],
+      "classTypes": [
+        "Private Session",
+        "Outdoor Class",
+        "Semi-Private Training"
+      ]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Post-injury rehabilitation",
+      "Strength training",
+      "Flexibility coaching",
+      "Mobility exercises"
+    ],
+    "equipmentUsed": ["Pilates Reformer", "Cadillac", "Mat", "Foam Rollers"],
+    "partnerships": [
+      {
+        "partnerName": "Core Strength Studio",
+        "website": "https://corestrengthstudio.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021ff",
+    "email": "benjaminharris@gmail.com",
+    "name": "Benjamin Harris",
+    "specialization": "Yoga Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Silver",
+    "gender": "Male",
+    "age": 35,
+    "experience": 10,
+    "availableDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "contact": {
+      "phone": "+1 345 678 902",
+      "email": "benjamin.harris@example.com",
+      "website": "https://benjaminharris-yoga.com",
+      "linkedin": "https://linkedin.com/in/benjaminharris",
+      "instagram": "https://instagram.com/benjaminharris_yoga",
+      "facebook": "https://facebook.com/benjaminharrisfitness"
+    },
+    "bio": "Benjamin Harris brings 10 years of yoga teaching experience to help clients build strength, flexibility, and mindfulness. His classes blend traditional yoga practices with modern techniques for holistic wellness.",
+    "certifications": [
+      "Certified Yoga Trainer",
+      "Advanced Yoga Therapy Specialist",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [],
+    "testimonials": [
+      {
+        "clientName": "Ava Thompson",
+        "email": "ava.thompson@example.com",
+        "testimonial": "Benjamin's expertise is exceptional. His yoga classes have helped me recover from injuries and improve my overall fitness.",
+        "rating": 5
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Flexibility",
+        "Core Stability",
+        "Strength Training",
+        "Posture Correction"
+      ],
+      "classTypes": [
+        "Semi-Private Training",
+        "Workshops",
+        "Drop-In Class",
+        "Outdoor Class"
+      ]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Yoga therapy",
+      "Customized yoga plans",
+      "Mindfulness coaching"
+    ],
+    "equipmentUsed": ["Yoga Mats", "Blocks", "Straps"],
+    "partnerships": [
+      {
+        "partnerName": "Harmony Wellness Center",
+        "website": "https://harmonywellnesscenter.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021dc",
+    "email": "carlalee@gmail.com",
+    "name": "Carla Lee",
+    "specialization": "Aerobics Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Gold",
+    "gender": "Female",
+    "age": 32,
+    "experience": 7,
+    "availableDays": ["Monday", "Wednesday", "Friday", "Saturday", "Sunday"],
+    "contact": {
+      "phone": "+1 567 890 123",
+      "email": "carla.lee@example.com",
+      "website": "https://carlalee-aerobics.com",
+      "linkedin": "https://linkedin.com/in/carlalee",
+      "instagram": "https://instagram.com/carlalee_aerobics",
+      "facebook": "https://facebook.com/carlaleeaerobics"
+    },
+    "bio": "Carla Lee is a passionate Aerobics Instructor with 7 years of experience teaching a variety of aerobic classes. Known for her positive attitude and creative choreography, she helps clients improve their cardiovascular health, coordination, and fitness while having fun in every class.",
+    "certifications": [
+      "Certified Aerobics Instructor",
+      "Certified Group Fitness Instructor",
+      "CPR & First Aid Certified",
+      "Dance Aerobics Certified"
+    ],
+    "awards": [
+      {
+        "title": "Top Aerobics Teacher",
+        "year": 2020,
+        "organization": "Fitness Excellence Awards"
+      },
+      {
+        "title": "Best Group Fitness Instructor",
+        "year": 2021,
+        "organization": "Global Fitness"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Sophia Adams",
+        "email": "sophia.adams@example.com",
+        "testimonial": "Carla’s aerobics classes are the highlight of my week! Her energy is contagious, and I always leave feeling stronger and more energized.",
+        "rating": 5
+      },
+      {
+        "clientName": "Lily James",
+        "email": "lily.james@example.com",
+        "testimonial": "I love Carla’s dance aerobics classes. They’re so much fun, and I’ve noticed a significant improvement in my stamina and fitness level.",
+        "rating": 5
+      },
+      {
+        "clientName": "David Martin",
+        "email": "david.martin@example.com",
+        "testimonial": "Carla is an incredible aerobics instructor! Her choreography is always fresh, and her classes push me to work hard every time.",
+        "rating": 4.8
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Cardio",
+        "Weight Loss",
+        "Coordination",
+        "Flexibility",
+        "Fun Dance Moves"
+      ],
+      "classTypes": [
+        "Partner Workout",
+        "Open Gym Class",
+        "Workshops",
+        "Private Session",
+        "Online Class"
+      ]
+    },
+    "languagesSpoken": ["English", "Spanish"],
+    "additionalServices": [
+      "Private aerobics sessions",
+      "Dance choreography for aerobics",
+      "Group fitness classes",
+      "Weight loss aerobics"
+    ],
+    "equipmentUsed": [
+      "Step Platforms",
+      "Resistance Bands",
+      "Hand Weights",
+      "Exercise Balls",
+      "Music & Speakers"
+    ],
+    "partnerships": [
+      {
+        "partnerName": "Dynamic Fitness Studio",
+        "website": "https://dynamicfitness.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021e6",
+    "email": "jackrogers@gmail.com",
+    "name": "Jack Rogers",
+    "specialization": "CrossFit Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Platinum",
+    "gender": "Male",
+    "age": 35,
+    "experience": 12,
+    "availableDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "contact": {
+      "phone": "+1 456 789 012",
+      "email": "jack.rogers@example.com",
+      "website": "https://jackrogersstrength.com",
+      "linkedin": "https://linkedin.com/in/jackrogers",
+      "instagram": "https://instagram.com/jackrogers_fitness",
+      "facebook": "https://facebook.com/jackrogersfitness"
+    },
+    "bio": "Jack Rogers is a seasoned Strength Coach with 12 years of experience helping clients achieve their strength and fitness goals. He specializes in powerlifting, muscle building, and functional strength training.",
+    "certifications": [
+      "Certified Strength and Conditioning Specialist",
+      "Certified Personal Trainer",
+      "CPR & First Aid Certified",
+      "Nutrition and Performance Specialist"
+    ],
+    "awards": [
+      {
+        "title": "Top Strength Coach",
+        "year": 2021,
+        "organization": "National Fitness Association"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Ryan Turner",
+        "email": "ryan.turner@example.com",
+        "testimonial": "Jack helped me achieve my powerlifting goals and improve my overall strength. His coaching is top-notch.",
+        "rating": 5
+      }
+    ],
+    "preferences": {
+      "focusAreas": ["Strength Training", "Powerlifting", "Functional Fitness"],
+      "classTypes": ["Private Session", "Partner Workout"]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Strength coaching programs",
+      "Competition preparation",
+      "Muscle gain guidance"
+    ],
+    "equipmentUsed": [
+      "Barbells",
+      "Dumbbells",
+      "Resistance Bands",
+      "Weight Machines"
+    ],
+    "partnerships": [
+      {
+        "partnerName": "PowerFit Gym",
+        "website": "https://powerfitgym.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021e8",
+    "email": "stevemoore@gmail.com",
+    "name": "Steve Moore",
+    "specialization": "CrossFit Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Silver",
+    "gender": "Male",
+    "age": 32,
+    "experience": 7,
+    "availableDays": ["Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    "contact": {
+      "phone": "+1 678 901 234",
+      "email": "steve.moore@example.com",
+      "website": "https://stevemoorefitness.com",
+      "linkedin": "https://linkedin.com/in/stevemoore",
+      "instagram": "https://instagram.com/stevemoore_fitness",
+      "facebook": "https://facebook.com/stevemoorefitness"
+    },
+    "bio": "Steve Moore is an experienced Personal Trainer who specializes in creating tailored fitness plans to help clients achieve their unique fitness goals.",
+    "certifications": [
+      "Certified Personal Trainer",
+      "CPR & First Aid Certified",
+      "Strength and Conditioning Specialist"
+    ],
+    "awards": [
+      {
+        "title": "Outstanding Personal Trainer",
+        "year": 2021,
+        "organization": "Fitness Professionals Awards"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Chris Adams",
+        "email": "chris.adams@example.com",
+        "testimonial": "Steve is an exceptional trainer who pushes me to achieve my best while ensuring I maintain proper form and technique.",
+        "rating": 5
+      }
+    ],
+    "preferences": {
+      "focusAreas": ["Weight Loss", "Muscle Gain", "General Fitness"],
+      "classTypes": [
+        "Partner Workout",
+        "Outdoor Class",
+        "Drop-In Class",
+        "Workshops"
+      ]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Personalized fitness plans",
+      "Nutrition advice",
+      "Weight management coaching"
+    ],
+    "equipmentUsed": [
+      "Dumbbells",
+      "Kettlebells",
+      "Resistance Bands",
+      "Treadmills"
+    ],
+    "partnerships": [
+      {
+        "partnerName": "FitPro Gym",
+        "website": "https://fitprogym.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021eb",
+    "email": "sophiaevans@gmail.com",
+    "name": "Sophia Evans",
+    "specialization": "HIIT Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Gold",
+    "gender": "Female",
+    "age": 28,
+    "experience": 6,
+    "availableDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "contact": {
+      "phone": "+1 345 678 123",
+      "email": "sophia.evans@example.com",
+      "website": "https://sophiaevans-yoga.com",
+      "linkedin": "https://linkedin.com/in/sophiaevans",
+      "instagram": "https://instagram.com/sophiaevans_yoga",
+      "facebook": "https://facebook.com/sophiaevansfitness"
+    },
+    "bio": "Sophia Evans is a passionate Yoga Instructor with 6 years of experience in guiding individuals towards mindfulness and physical wellness. Her sessions emphasize flexibility, core stability, and stress relief.",
+    "certifications": [
+      "Certified Yoga Instructor",
+      "Meditation and Mindfulness Certification",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [
+      {
+        "title": "Best Yoga Instructor",
+        "year": 2022,
+        "organization": "Wellness Awards"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Emma Johnson",
+        "email": "emma.johnson@example.com",
+        "testimonial": "Sophia’s yoga sessions are life-changing. She’s patient, knowledgeable, and truly inspiring.",
+        "rating": 5
+      }
+    ],
+    "preferences": {
+      "focusAreas": ["Flexibility", "Mindfulness", "Core Strength"],
+      "classTypes": [
+        "Private Session",
+        "Online Class",
+        "Open Gym Class",
+        "Group Class",
+        "Workshops"
+      ]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Meditation workshops",
+      "Stress management",
+      "Prenatal yoga"
+    ],
+    "equipmentUsed": ["Yoga Mats", "Blocks", "Straps"],
+    "partnerships": [
+      {
+        "partnerName": "Zen Wellness Studio",
+        "website": "https://zenwellness.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021f7",
+    "email": "hannahclark@gmail.com",
+    "name": "Hannah Clark",
+    "specialization": "Strength Training Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Silver",
+    "gender": "Female",
+    "age": 29,
+    "experience": 7,
+    "availableDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "contact": {
+      "phone": "+1 456 789 234",
+      "email": "hannah.clark@example.com",
+      "website": "https://hannahclark-strength.com",
+      "linkedin": "https://linkedin.com/in/hannahclark",
+      "instagram": "https://instagram.com/hannahclark_strength",
+      "facebook": "https://facebook.com/hannahclarkfitness"
+    },
+    "bio": "Hannah Clark is an experienced Strength Training Instructor with a passion for helping individuals achieve their fitness goals through tailored programs. Her specialties include resistance training, weight management, and functional fitness.",
+    "certifications": [
+      "Certified Strength Trainer",
+      "CPR & First Aid Certified",
+      "Functional Training Specialist"
+    ],
+    "awards": [],
+    "testimonials": [
+      {
+        "clientName": "Sophia Williams",
+        "email": "sophia.williams@example.com",
+        "testimonial": "Hannah has been incredible in helping me tone and strengthen my body. Her sessions are challenging but rewarding.",
+        "rating": 5
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Strength Conditioning",
+        "Weight Loss",
+        "Core Stability",
+        "Flexibility",
+        "Injury Prevention"
+      ],
+      "classTypes": [
+        "Workshops",
+        "Group Class",
+        "Outdoor Class",
+        "Online Class",
+        "Drop-In Class"
+      ]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Weight management coaching",
+      "Flexibility training",
+      "Nutrition planning"
+    ],
+    "equipmentUsed": [
+      "Resistance Bands",
+      "Kettlebells",
+      "Free Weights",
+      "Barbells"
+    ],
+    "partnerships": [
+      {
+        "partnerName": "Core Strength Studio",
+        "website": "https://corestrengthstudio.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb0470602204",
+    "email": "rachelclark@gmail.com",
+    "name": "Rachel Clark",
+    "specialization": "Zumba Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Gold",
+    "gender": "Female",
+    "age": 29,
+    "experience": 7,
+    "availableDays": ["Monday", "Tuesday", "Wednesday", "Saturday", "Sunday"],
+    "contact": {
+      "phone": "+1 456 789 012",
+      "email": "rachel.clark@example.com",
+      "website": "https://rachelclark-zumba.com",
+      "linkedin": "https://linkedin.com/in/rachelclark",
+      "instagram": "https://instagram.com/rachelclark_zumba",
+      "facebook": "https://facebook.com/rachelclarkfitness"
+    },
+    "bio": "Rachel Clark is a certified Zumba Instructor with a passion for helping people achieve their fitness goals through dance. Her 7 years of experience make her classes fun, challenging, and highly effective.",
+    "certifications": [
+      "Certified Zumba Instructor",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [],
+    "testimonials": [
+      {
+        "clientName": "Charlotte Green",
+        "email": "charlotte.green@example.com",
+        "testimonial": "Rachel's classes are a blast! She makes everyone feel welcome, and her routines are super effective.",
+        "rating": 5
+      }
+    ],
+    "preferences": {
+      "focusAreas": ["Dance Fitness", "Core Stability", "Weight Loss"],
+      "classTypes": [
+        "Private Session",
+        "Open Gym Class",
+        "Drop-In Class",
+        "Semi-Private Training"
+      ]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": ["One-on-one coaching", "Customized fitness plans"],
+    "equipmentUsed": ["Zumba Weights", "Dance Mats"],
+    "partnerships": [
+      {
+        "partnerName": "Dance Revolution Studio",
+        "website": "https://dancerevolutionstudio.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021d7",
+    "email": "ryanhall@gmail.com",
+    "name": "Ryan Hall",
+    "specialization": "Dance Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Silver",
+    "gender": "Male",
+    "age": 28,
+    "experience": 6,
+    "availableDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "contact": {
+      "phone": "+1 987 654 321",
+      "email": "ryanhall@example.com",
+      "website": "https://ryanhall-dance.com",
+      "linkedin": "https://linkedin.com/in/ryanhall",
+      "instagram": "https://instagram.com/ryanhall_dance",
+      "facebook": "https://facebook.com/ryanhall.dance"
+    },
+    "bio": "Ryan Hall is a dedicated assistant dance instructor with over 6 years of experience in teaching Hip Hop and Contemporary dance styles. He collaborates with Thomas King to help students achieve their dance goals in a supportive and energetic environment.",
+    "certifications": [
+      "Certified Dance Instructor",
+      "Hip Hop Dance Certification",
+      "Contemporary Dance Certification",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [
+      {
+        "title": "Regional Dance Performer of the Year",
+        "year": 2017,
+        "organization": "East Coast Dance Association"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Jessica Miller",
+        "email": "jessica.miller@example.com",
+        "testimonial": "Ryan's classes are so much fun! He brings energy to every session and has a great way of making dance feel easy to learn.",
+        "rating": 5
+      },
+      {
+        "clientName": "Oliver Harris",
+        "email": "oliver.harris@example.com",
+        "testimonial": "Ryan has helped me develop my dance technique significantly. I appreciate how he gives individual attention in group settings.",
+        "rating": 5
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Hip Hop",
+        "Contemporary",
+        "Dance Technique",
+        "Rhythm and Coordination"
+      ],
+      "classTypes": ["Workshops", "Group Classes"]
+    },
+    "languagesSpoken": ["English", "Spanish"],
+    "additionalServices": [
+      "Group Dance Choreography",
+      "Dance Competitions Preparation",
+      "Rhythm and Coordination Classes"
+    ],
+    "equipmentUsed": [
+      "Dance Floors",
+      "Mirrored Walls",
+      "Speakers",
+      "Portable Bars"
+    ],
+    "partnerships": [
+      {
+        "partnerName": "Dance Fusion Studio",
+        "website": "https://dancefusionstudio.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021de",
+    "email": "miketyson@gmail.com",
+    "name": "Mike Tyson",
+    "specialization": "Boxing Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Platinum",
+    "gender": "Male",
+    "age": 58,
+    "experience": 35,
+    "availableDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "contact": {
+      "phone": "+1 555 123 456",
+      "email": "mike.tyson@example.com",
+      "website": "https://miketyson-boxing.com",
+      "linkedin": "https://linkedin.com/in/miketyson",
+      "instagram": "https://instagram.com/miketyson_official",
+      "facebook": "https://facebook.com/miketyson"
+    },
+    "bio": "Mike Tyson is a legendary former world heavyweight boxing champion with over 35 years of experience in the sport. Known for his ferocious power and quickness, Mike specializes in training fighters in strategy, conditioning, and developing a strong mental focus.",
+    "certifications": [
+      "Certified Boxing Trainer",
+      "Certified Strength & Conditioning Specialist",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [
+      {
+        "title": "World Heavyweight Champion",
+        "year": 1986,
+        "organization": "WBC"
+      },
+      {
+        "title": "Hall of Fame Inductee",
+        "year": 2011,
+        "organization": "International Boxing Hall of Fame"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Dwayne Johnson",
+        "email": "dwayne.johnson@example.com",
+        "testimonial": "Mike’s training is intense, precise, and professional. His passion for the sport is contagious and inspires greatness in his clients. Highly recommend!",
+        "rating": 5
+      },
+      {
+        "clientName": "Tommy Stone",
+        "email": "tommy.stone@example.com",
+        "testimonial": "A true champion’s coach. Mike brings a unique, high-energy approach that pushes me to new limits every time.",
+        "rating": 4.9
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Boxing Skills",
+        "Strength Conditioning",
+        "Mental Focus",
+        "Endurance Training"
+      ],
+      "classTypes": ["Drop-In Class", "Private Session"]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Boxing technique coaching",
+      "Fitness coaching",
+      "Endurance training"
+    ],
+    "equipmentUsed": [
+      "Boxing Gloves",
+      "Heavy Bags",
+      "Speed Bags",
+      "Jump Ropes"
+    ],
+    "partnerships": [
+      {
+        "partnerName": "Knockout Gym",
+        "website": "https://knockoutgym.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021e9",
+    "email": "marialopez@gmail.com",
+    "name": "Maria Lopez",
+    "specialization": "CrossFit Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Gold",
+    "gender": "Female",
+    "age": 29,
+    "experience": 9,
+    "availableDays": ["Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    "contact": {
+      "phone": "+1 789 012 345",
+      "email": "maria.lopez@example.com",
+      "website": "https://marialopezdance.com",
+      "linkedin": "https://linkedin.com/in/marialopez",
+      "instagram": "https://instagram.com/marialopez_dance",
+      "facebook": "https://facebook.com/marialopezdancefitness"
+    },
+    "bio": "Maria Lopez is a passionate Dance Fitness Instructor who combines dance and exercise to create fun, energetic fitness sessions. She specializes in Zumba, Latin dance, and aerobic dance workouts.",
+    "certifications": [
+      "Certified Zumba Instructor",
+      "Group Fitness Certification",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [
+      {
+        "title": "Best Dance Fitness Instructor",
+        "year": 2022,
+        "organization": "National Dance Fitness Association"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Sophia Green",
+        "email": "sophia.green@example.com",
+        "testimonial": "Maria’s classes are an absolute joy! They are high-energy and make working out so much fun.",
+        "rating": 5
+      }
+    ],
+    "preferences": {
+      "focusAreas": ["Dance Fitness", "Cardio", "Weight Loss"],
+      "classTypes": [
+        "Open Gym Class",
+        "Workshops",
+        "Group Class",
+        "Online Class",
+        "Outdoor Class"
+      ]
+    },
+    "languagesSpoken": ["English", "Spanish"],
+    "additionalServices": [
+      "Dance workshops",
+      "Choreography sessions",
+      "Weight loss coaching"
+    ],
+    "equipmentUsed": ["Dance Floors", "Step Platforms"],
+    "partnerships": [
+      {
+        "partnerName": "DanceFit Studio",
+        "website": "https://dancefitstudio.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021f3",
+    "email": "sophiamartinez@gmail.com",
+    "name": "Sophia Martinez",
+    "specialization": "Spin Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Silver",
+    "gender": "Female",
+    "age": 28,
+    "experience": 6,
+    "availableDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "contact": {
+      "phone": "+1 234 567 890",
+      "email": "sophia.martinez@example.com",
+      "website": "https://sophiamartinez-spin.com",
+      "linkedin": "https://linkedin.com/in/sophiamartinez",
+      "instagram": "https://instagram.com/sophiamartinez_spin",
+      "facebook": "https://facebook.com/sophiamartinezspin"
+    },
+    "bio": "Sophia Martinez is a dynamic Spin Instructor with 6 years of experience designing fun and effective indoor cycling workouts. Her focus is on creating an inclusive and motivating environment where everyone feels empowered to achieve their fitness goals.",
+    "certifications": [
+      "Certified Spin Instructor",
+      "Certified Fitness Trainer",
+      "CPR & First Aid Certified",
+      "Group Exercise Leader Certification"
+    ],
+    "awards": [],
+    "testimonials": [
+      {
+        "clientName": "Isabella Clark",
+        "email": "isabella.clark@example.com",
+        "testimonial": "Sophia is fantastic! Her classes are always engaging, and I've seen great results in my endurance.",
+        "rating": 5
+      },
+      {
+        "clientName": "Liam White",
+        "email": "liam.white@example.com",
+        "testimonial": "Sophia brings so much energy to her classes! I never thought I’d enjoy spinning this much.",
+        "rating": 4.9
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Calorie Burn",
+        "Interval Training",
+        "Cardio Endurance",
+        "Core Strength",
+        "Flexibility"
+      ],
+      "classTypes": [
+        "Drop-In Class",
+        "Workshops",
+        "Open Gym Class",
+        "Group Class",
+        "Partner Workout"
+      ]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Performance tracking",
+      "Flexibility coaching",
+      "Music-driven workouts"
+    ],
+    "equipmentUsed": [
+      "Indoor Cycling Bikes",
+      "Resistance Bands",
+      "Heart Rate Monitors"
+    ],
+    "partnerships": [
+      {
+        "partnerName": "Ride & Flow Studio",
+        "website": "https://rideandflowstudio.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021f4",
+    "email": "liamthomas@gmail.com",
+    "name": "Liam Thomas",
+    "specialization": "Spin Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Gold",
+    "gender": "Male",
+    "age": 32,
+    "experience": 7,
+    "availableDays": ["Sunday", "Saturday", "Monday", "Tuesday", "Wednesday"],
+    "contact": {
+      "phone": "+1 345 678 765",
+      "email": "liam.thomas@example.com",
+      "website": "https://liamthomas-spin.com",
+      "linkedin": "https://linkedin.com/in/liamthomas",
+      "instagram": "https://instagram.com/liamthomas_spin",
+      "facebook": "https://facebook.com/liamthomasfitness"
+    },
+    "bio": "Liam Thomas is an energetic Spin Instructor with 7 years of experience leading indoor cycling classes that focus on endurance and performance. His classes are known for their high-energy atmosphere and challenging routines.",
+    "certifications": [
+      "Certified Spin Instructor",
+      "Certified Group Fitness Coach",
+      "CPR & First Aid Certified",
+      "Strength and Conditioning Specialist"
+    ],
+    "awards": [
+      {
+        "title": "Best Performance-Based Instructor",
+        "year": 2022,
+        "organization": "Cycling Fitness Awards"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Noah Adams",
+        "email": "noah.adams@example.com",
+        "testimonial": "Liam’s spin classes are incredible! His coaching has helped me push my limits and reach my goals.",
+        "rating": 5
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Endurance Training",
+        "Strength Conditioning",
+        "Core Stability",
+        "Weight Loss"
+      ],
+      "classTypes": [
+        "Online Class",
+        "Outdoor Class",
+        "Semi-Private Training",
+        "Group Class",
+        "Private Session"
+      ]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Personalized fitness programs",
+      "Endurance coaching",
+      "Strength and mobility training"
+    ],
+    "equipmentUsed": [
+      "Indoor Cycling Bikes",
+      "Free Weights",
+      "Heart Rate Monitors"
+    ],
+    "partnerships": [
+      {
+        "partnerName": "Spin Masters Gym",
+        "website": "https://spinmastersgym.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021f5",
+    "email": "miawalker@gmail.com",
+    "name": "Mia Walker",
+    "specialization": "Spin Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Platinum",
+    "gender": "Female",
+    "age": 30,
+    "experience": 10,
+    "availableDays": ["Sunday", "Saturday", "Monday", "Tuesday", "Wednesday"],
+    "contact": {
+      "phone": "+1 234 567 321",
+      "email": "mia.walker@example.com",
+      "website": "https://miawalker-spin.com",
+      "linkedin": "https://linkedin.com/in/miawalker",
+      "instagram": "https://instagram.com/miawalker_spin",
+      "facebook": "https://facebook.com/miawalkerfitness"
+    },
+    "bio": "Mia Walker is a top-tier Spin Instructor with 10 years of experience in leading performance-driven indoor cycling classes. She specializes in creating customized routines for clients of all fitness levels, focusing on cardiovascular health and endurance.",
+    "certifications": [
+      "Certified Spin Instructor",
+      "Advanced Cardio Trainer",
+      "CPR & First Aid Certified",
+      "Nutrition and Fitness Specialist"
+    ],
+    "awards": [
+      {
+        "title": "Elite Instructor of the Year",
+        "year": 2020,
+        "organization": "Spin Elite Awards"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Emma Brooks",
+        "email": "emma.brooks@example.com",
+        "testimonial": "Mia’s spin classes are the highlight of my week! Her enthusiasm and expertise make every class enjoyable and effective.",
+        "rating": 5
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Cardiovascular Health",
+        "Endurance Building",
+        "Weight Management",
+        "Strength Training"
+      ],
+      "classTypes": [
+        "Group Class",
+        "Open Gym Class",
+        "Semi-Private Training",
+        "Private Session",
+        "Online Class"
+      ]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Personalized cycling plans",
+      "Endurance and strength training",
+      "Nutritional coaching"
+    ],
+    "equipmentUsed": [
+      "Indoor Cycling Bikes",
+      "Heart Rate Monitors",
+      "Free Weights"
+    ],
+    "partnerships": [
+      {
+        "partnerName": "Power Pedal Studio",
+        "website": "https://powerpedalstudio.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021f6",
+    "email": "michaelharris@gmail.com",
+    "name": "Michael Harris",
+    "specialization": "Strength Training Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Gold",
+    "gender": "Male",
+    "age": 35,
+    "experience": 10,
+    "availableDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "contact": {
+      "phone": "+1 345 678 123",
+      "email": "michael.harris@example.com",
+      "website": "https://michaelharris-strength.com",
+      "linkedin": "https://linkedin.com/in/michaelharris",
+      "instagram": "https://instagram.com/michaelharris_strength",
+      "facebook": "https://facebook.com/michaelharrisfitness"
+    },
+    "bio": "Michael Harris is a seasoned Strength Training Instructor with 10 years of experience helping clients build muscle, improve endurance, and achieve peak performance. Michael specializes in personalized strength and resistance training routines for all fitness levels.",
+    "certifications": [
+      "Certified Strength Trainer",
+      "Certified Fitness Coach",
+      "CPR & First Aid Certified",
+      "Advanced Weightlifting Certification"
+    ],
+    "awards": [
+      {
+        "title": "Best Strength Trainer",
+        "year": 2021,
+        "organization": "Fitness Pro Awards"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Noah Brown",
+        "email": "noah.brown@example.com",
+        "testimonial": "Michael’s training has transformed my fitness journey. He pushes me to my limits while ensuring my form is perfect.",
+        "rating": 5
+      },
+      {
+        "clientName": "Liam White",
+        "email": "liam.white@example.com",
+        "testimonial": "I’ve gained strength and confidence thanks to Michael’s programs. He’s knowledgeable and motivating.",
+        "rating": 4.8
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Muscle Building",
+        "Endurance Training",
+        "Weightlifting",
+        "Core Stability",
+        "Injury Prevention"
+      ],
+      "classTypes": ["Partner Workout", "Semi-Private Training"]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Customized strength programs",
+      "Performance tracking",
+      "Nutrition advice"
+    ],
+    "equipmentUsed": [
+      "Free Weights",
+      "Resistance Bands",
+      "Kettlebells",
+      "Barbells",
+      "Cable Machines"
+    ],
+    "partnerships": [
+      {
+        "partnerName": "Power Lift Gym",
+        "website": "https://powerliftgym.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021ef",
+    "email": "jameswilson@gmail.com",
+    "name": "James Wilson",
+    "specialization": "Pilates Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Gold",
+    "gender": "Male",
+    "age": 35,
+    "experience": 10,
+    "availableDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "contact": {
+      "phone": "+1 345 678 123",
+      "email": "james.wilson@example.com",
+      "website": "https://jameswilson-pilates.com",
+      "linkedin": "https://linkedin.com/in/jameswilson",
+      "instagram": "https://instagram.com/jameswilson_pilates",
+      "facebook": "https://facebook.com/jameswilsonpilates"
+    },
+    "bio": "James Wilson is a highly experienced Pilates Instructor with over 10 years of helping clients achieve balance, flexibility, and strength. He is well-known for his tailored approaches to each individual's fitness goals and his commitment to promoting long-term wellness.",
+    "certifications": [
+      "Certified Pilates Instructor",
+      "Certified Rehabilitation Specialist",
+      "CPR & First Aid Certified",
+      "Sports and Fitness Nutrition Specialist"
+    ],
+    "awards": [
+      {
+        "title": "Top Pilates Instructor",
+        "year": 2020,
+        "organization": "Fitness Excellence Awards"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Rachel Green",
+        "email": "rachel.green@example.com",
+        "testimonial": "James is an exceptional instructor. His Pilates sessions have helped me improve my posture and strength remarkably.",
+        "rating": 5
+      },
+      {
+        "clientName": "Daniel Moore",
+        "email": "daniel.moore@example.com",
+        "testimonial": "I’ve been attending James' Pilates classes for a year now, and my flexibility and core strength have improved drastically.",
+        "rating": 4.9
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Core Strength",
+        "Injury Prevention",
+        "Flexibility",
+        "Breath Control",
+        "Mobility"
+      ],
+      "classTypes": ["Open Gym Class", "Partner Workout"]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Pilates for injury recovery",
+      "Personalized training programs",
+      "Breathwork coaching",
+      "Strength and mobility sessions"
+    ],
+    "equipmentUsed": [
+      "Pilates Reformer",
+      "Resistance Bands",
+      "Wunda Chair",
+      "Pilates Balls"
+    ],
+    "partnerships": [
+      {
+        "partnerName": "The Pilates Loft",
+        "website": "https://thepilatesloft.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021fb",
+    "email": "alexanderbell@gmail.com",
+    "name": "Alexander Bell",
+    "specialization": "Stretching Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Gold",
+    "gender": "Male",
+    "age": 34,
+    "experience": 9,
+    "availableDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "contact": {
+      "phone": "+1 345 678 901",
+      "email": "alexander.bell@example.com",
+      "website": "https://alexanderbell-stretch.com",
+      "linkedin": "https://linkedin.com/in/alexanderbell",
+      "instagram": "https://instagram.com/alexanderbell_stretch",
+      "facebook": "https://facebook.com/alexanderbellfitness"
+    },
+    "bio": "Alexander Bell is a skilled Stretching Instructor with 9 years of experience in guiding clients through effective stretching routines to enhance flexibility and recovery.",
+    "certifications": [
+      "Certified Stretching Trainer",
+      "Flexibility Specialist",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [
+      {
+        "title": "Stretching Coach of the Year",
+        "year": 2020,
+        "organization": "National Fitness Awards"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Liam White",
+        "email": "liam.white@example.com",
+        "testimonial": "Alexander’s expertise in stretching is unparalleled. He’s helped me improve my mobility and reduce stress.",
+        "rating": 5
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Flexibility",
+        "Posture Improvement",
+        "Recovery",
+        "Mobility"
+      ],
+      "classTypes": ["Group Class", "Open Gym Class"]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Customized stretching plans",
+      "Posture correction techniques",
+      "Mobility drills"
+    ],
+    "equipmentUsed": ["Stretching Mats", "Foam Rollers", "Resistance Bands"],
+    "partnerships": [
+      {
+        "partnerName": "Flex Gym",
+        "website": "https://flexgym.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021fe",
+    "email": "sophiamiller@gmail.com",
+    "name": "Sophia Miller",
+    "specialization": "Yoga Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Gold",
+    "gender": "Female",
+    "age": 29,
+    "experience": 7,
+    "availableDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "contact": {
+      "phone": "+1 234 567 891",
+      "email": "sophia.miller@example.com",
+      "website": "https://sophiamiller-yoga.com",
+      "linkedin": "https://linkedin.com/in/sophiamiller",
+      "instagram": "https://instagram.com/sophiamiller_yoga",
+      "facebook": "https://facebook.com/sophiamilleryoga"
+    },
+    "bio": "Sophia Miller is a certified Yoga Instructor with 7 years of experience in teaching mindfulness, flexibility, and strength through yoga. Her classes focus on achieving a balance between body and mind while enhancing overall wellness.",
+    "certifications": [
+      "Certified Yoga Instructor",
+      "Certified Meditation Trainer",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [
+      {
+        "title": "Best Yoga Instructor",
+        "year": 2021,
+        "organization": "Yoga Excellence Awards"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Liam Davis",
+        "email": "liam.davis@example.com",
+        "testimonial": "Sophia's yoga sessions are transformative! I've improved my flexibility and feel more centered after every class.",
+        "rating": 5
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Flexibility",
+        "Mindfulness",
+        "Stress Relief",
+        "Strength Training"
+      ],
+      "classTypes": [
+        "Workshops",
+        "Drop-In Class",
+        "Partner Workout",
+        "Private Session",
+        "Open Gym Class"
+      ]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Personalized yoga routines",
+      "Meditation sessions",
+      "Stress management coaching"
+    ],
+    "equipmentUsed": ["Yoga Mats", "Blocks", "Straps", "Resistance Bands"],
+    "partnerships": [
+      {
+        "partnerName": "Inner Peace Studio",
+        "website": "https://innerpeacestudio.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021e0",
+    "email": "jameswoods@gmail.com",
+    "name": "James Woods",
+    "specialization": "Boxing Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Silver",
+    "gender": "Male",
+    "age": 35,
+    "experience": 12,
+    "availableDays": ["Saturday", "Sunday", "Monday", "Tuesday", "Wednesday"],
+    "contact": {
+      "phone": "+1 555 345 678",
+      "email": "james.woods@example.com",
+      "website": "https://jameswoods-fitness.com",
+      "linkedin": "https://linkedin.com/in/jameswoods",
+      "instagram": "https://instagram.com/jameswoods_fitness",
+      "facebook": "https://facebook.com/jameswoodsfitness"
+    },
+    "bio": "James Woods is a certified personal trainer with over 12 years of experience. He specializes in strength training, weight loss, and muscle building. With a strong background in nutrition, James helps clients achieve their fitness goals through a holistic approach.",
+    "certifications": [
+      "Certified Personal Trainer",
+      "Certified Strength & Conditioning Specialist",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [
+      {
+        "title": "Top Personal Trainer",
+        "year": 2022,
+        "organization": "Fitness Magazine"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Mark Johnson",
+        "email": "mark.johnson@example.com",
+        "testimonial": "James is a fantastic personal trainer. His workouts are challenging but rewarding, and he knows how to push you to your limits.",
+        "rating": 5
+      },
+      {
+        "clientName": "Emily Davis",
+        "email": "emily.davis@example.com",
+        "testimonial": "Thanks to James, I’ve lost 20 pounds and gained muscle! His guidance, nutrition tips, and workouts are the best.",
+        "rating": 4.9
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Strength Training",
+        "Weight Loss",
+        "Muscle Building",
+        "Nutrition Coaching"
+      ],
+      "classTypes": ["Private Session", "Outdoor Class"]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Custom workout plans",
+      "Nutrition coaching",
+      "Bootcamp classes"
+    ],
+    "equipmentUsed": [
+      "Free Weights",
+      "Resistance Bands",
+      "Dumbbells",
+      "Kettlebells"
+    ],
+    "partnerships": [
+      {
+        "partnerName": "Fit Nation Gym",
+        "website": "https://fitnationgym.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021f8",
+    "email": "daniellewis@gmail.com",
+    "name": "Daniel Lewis",
+    "specialization": "Strength Training Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Gold",
+    "gender": "Male",
+    "age": 31,
+    "experience": 9,
+    "availableDays": ["Saturday", "Sunday", "Monday", "Tuesday", "Wednesday"],
+    "contact": {
+      "phone": "+1 567 890 345",
+      "email": "daniel.lewis@example.com",
+      "website": "https://daniellewis-strength.com",
+      "linkedin": "https://linkedin.com/in/daniellewis",
+      "instagram": "https://instagram.com/daniellewis_strength",
+      "facebook": "https://facebook.com/daniellewisfitness"
+    },
+    "bio": "Daniel Lewis is a dedicated Strength Training Instructor with 9 years of experience in designing effective training programs. He focuses on muscle building, injury recovery, and performance improvement.",
+    "certifications": [
+      "Certified Strength Trainer",
+      "Sports Performance Specialist",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [
+      {
+        "title": "Trainer of the Year",
+        "year": 2020,
+        "organization": "Strength Pro Awards"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Liam White",
+        "email": "liam.white@example.com",
+        "testimonial": "Daniel’s strength training programs are transformative. He helped me recover from an injury and regain strength.",
+        "rating": 5
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Muscle Building",
+        "Injury Recovery",
+        "Functional Fitness",
+        "Core Stability"
+      ],
+      "classTypes": [
+        "Online Class",
+        "Semi-Private Training",
+        "Private Session",
+        "Drop-In Class",
+        "Workshops"
+      ]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Injury recovery programs",
+      "Strength improvement plans",
+      "Custom training schedules"
+    ],
+    "equipmentUsed": [
+      "Barbells",
+      "Kettlebells",
+      "Free Weights",
+      "Resistance Bands"
+    ],
+    "partnerships": [
+      {
+        "partnerName": "Strong Fit Gym",
+        "website": "https://strongfitgym.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021e4",
+    "email": "lauragreen@gmail.com",
+    "name": "Laura Green",
+    "specialization": "Cardio Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Silver",
+    "gender": "Female",
+    "age": 32,
+    "experience": 7,
+    "availableDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "contact": {
+      "phone": "+1 345 678 904",
+      "email": "laura.green@example.com",
+      "website": "https://lauragreen-pilates.com",
+      "linkedin": "https://linkedin.com/in/lauragreen",
+      "instagram": "https://instagram.com/lauragreen_pilates",
+      "facebook": "https://facebook.com/lauragreen.pilates"
+    },
+    "bio": "Laura Green is a certified Pilates instructor with 7 years of experience. Her classes focus on core strengthening, flexibility, and body alignment, offering a holistic approach to fitness.",
+    "certifications": [
+      "Certified Pilates Instructor",
+      "Certified Group Fitness Instructor",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [],
+    "testimonials": [
+      {
+        "clientName": "Natalie Moore",
+        "email": "natalie.moore@example.com",
+        "testimonial": "Laura's Pilates sessions have helped me improve my posture and flexibility. She’s a fantastic instructor!",
+        "rating": 5
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Core Strength",
+        "Flexibility",
+        "Body Alignment",
+        "Stability"
+      ],
+      "classTypes": [
+        "Partner Workout",
+        "Open Gym Class",
+        "Workshops",
+        "Semi-Private Training",
+        "Drop-In Class"
+      ]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Core strengthening",
+      "Posture correction",
+      "Stretching routines"
+    ],
+    "equipmentUsed": ["Pilates Reformers", "Matts", "Resistance Bands"],
+    "partnerships": [
+      {
+        "partnerName": "Core Fitness Studio",
+        "website": "https://corefitnessstudio.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021fd",
+    "email": "ethanwilson@gmail.com",
+    "name": "Ethan Wilson",
+    "specialization": "Stretching Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Gold",
+    "gender": "Male",
+    "age": 32,
+    "experience": 8,
+    "availableDays": ["Sunday", "Saturday", "Monday", "Tuesday", "Wednesday"],
+    "contact": {
+      "phone": "+1 567 890 345",
+      "email": "ethan.wilson@example.com",
+      "website": "https://ethanwilson-stretch.com",
+      "linkedin": "https://linkedin.com/in/ethanwilson",
+      "instagram": "https://instagram.com/ethanwilson_stretch",
+      "facebook": "https://facebook.com/ethanwilsonfitness"
+    },
+    "bio": "Ethan Wilson is a dedicated Stretching Instructor with 8 years of experience in improving flexibility, reducing stress, and enhancing recovery for clients of all fitness levels.",
+    "certifications": [
+      "Certified Stretching Trainer",
+      "Recovery Specialist",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [],
+    "testimonials": [
+      {
+        "clientName": "Noah Brown",
+        "email": "noah.brown@example.com",
+        "testimonial": "Ethan’s stretching sessions are incredible. He knows how to keep you relaxed and focused.",
+        "rating": 5
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Flexibility",
+        "Recovery",
+        "Mobility",
+        "Stress Management"
+      ],
+      "classTypes": [
+        "Open Gym Class",
+        "Online Class",
+        "Private Session",
+        "Partner Workout",
+        "Outdoor Class"
+      ]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Customized recovery programs",
+      "Mobility enhancement drills"
+    ],
+    "equipmentUsed": ["Stretching Mats", "Resistance Bands", "Foam Rollers"],
+    "partnerships": [
+      {
+        "partnerName": "Ultimate Flexibility Studio",
+        "website": "https://ultimateflexibilitystudio.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb0470602205",
+    "email": "liamdavis@gmail.com",
+    "name": "Liam Davis",
+    "specialization": "Zumba Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Silver",
+    "gender": "Male",
+    "age": 30,
+    "experience": 8,
+    "availableDays": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "contact": {
+      "phone": "+1 567 890 123",
+      "email": "liam.davis@example.com",
+      "website": "https://liamdavis-zumba.com",
+      "linkedin": "https://linkedin.com/in/liamdavis",
+      "instagram": "https://instagram.com/liamdavis_zumba",
+      "facebook": "https://facebook.com/liamdavisfitness"
+    },
+    "bio": "Liam Davis is a passionate Zumba Instructor with 8 years of experience. His classes are tailored to maximize fitness while ensuring a fun and interactive environment.",
+    "certifications": [
+      "Certified Zumba Instructor",
+      "Advanced Group Fitness Trainer",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [],
+    "testimonials": [
+      {
+        "clientName": "Ethan Brown",
+        "email": "ethan.brown@example.com",
+        "testimonial": "Liam's Zumba sessions are amazing! His routines are exciting, and the energy he brings is unmatched.",
+        "rating": 5
+      }
+    ],
+    "preferences": {
+      "focusAreas": ["Dance Fitness", "Cardio", "Body Toning"],
+      "classTypes": [
+        "Workshops",
+        "Private Session",
+        "Partner Workout",
+        "Drop-In Class"
+      ]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": ["High-energy routines", "Fitness coaching"],
+    "equipmentUsed": ["Dance Mats", "Resistance Bands"],
+    "partnerships": [
+      {
+        "partnerName": "StepUp Fitness Center",
+        "website": "https://stepupfitness.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021ee",
+    "email": "emmaroberts@gmail.com",
+    "name": "Emma Roberts",
+    "specialization": "Pilates Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Silver",
+    "gender": "Female",
+    "age": 28,
+    "experience": 6,
+    "availableDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "contact": {
+      "phone": "+1 234 567 890",
+      "email": "emma.roberts@example.com",
+      "website": "https://emmaroberts-pilates.com",
+      "linkedin": "https://linkedin.com/in/emmaroberts",
+      "instagram": "https://instagram.com/emmaroberts_pilates",
+      "facebook": "https://facebook.com/emmarobertspilates"
+    },
+    "bio": "Emma Roberts is a dedicated Pilates Instructor with 6 years of experience in helping individuals achieve strength, flexibility, and balance through mindful movements. Known for her precise techniques, Emma specializes in core strengthening and posture correction.",
+    "certifications": [
+      "Certified Pilates Instructor",
+      "Certified Group Fitness Instructor",
+      "CPR & First Aid Certified",
+      "Yoga and Mindfulness Specialist"
+    ],
+    "awards": [
+      {
+        "title": "Best Pilates Instructor",
+        "year": 2021,
+        "organization": "Wellness Excellence Awards"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Lily Adams",
+        "email": "lily.adams@example.com",
+        "testimonial": "Emma's Pilates classes are transformative! I’ve gained so much strength and flexibility. Her attention to detail is incredible.",
+        "rating": 5
+      },
+      {
+        "clientName": "Mason Carter",
+        "email": "mason.carter@example.com",
+        "testimonial": "Emma’s sessions have improved my posture and flexibility in ways I never imagined. She’s patient, yet challenging.",
+        "rating": 4.8
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Core Strength",
+        "Posture Improvement",
+        "Flexibility",
+        "Balance",
+        "Injury Recovery"
+      ],
+      "classTypes": [
+        "Semi-Private Training",
+        "Online Class",
+        "Workshops",
+        "Outdoor Class"
+      ]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Personalized Pilates plans",
+      "Rehabilitation exercises",
+      "Posture correction",
+      "Breathwork coaching"
+    ],
+    "equipmentUsed": [
+      "Pilates Reformer",
+      "Mat",
+      "Resistance Bands",
+      "Foam Rollers"
+    ],
+    "partnerships": [
+      {
+        "partnerName": "Mindful Movement Studio",
+        "website": "https://mindfulmovementstudio.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021e1",
+    "email": "chrisknight@gmail.com",
+    "name": "Chris Knight",
+    "specialization": "Boxing Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Gold",
+    "gender": "Male",
+    "age": 29,
+    "experience": 6,
+    "availableDays": ["Saturday", "Sunday", "Monday", "Tuesday", "Wednesday"],
+    "contact": {
+      "phone": "+1 555 876 543",
+      "email": "chris.knight@example.com",
+      "website": "https://chrisknight-crossfit.com",
+      "linkedin": "https://linkedin.com/in/chrisknight",
+      "instagram": "https://instagram.com/chrisknight_crossfit",
+      "facebook": "https://facebook.com/chrisknightfitness"
+    },
+    "bio": "Chris Knight is a certified CrossFit coach with 6 years of experience. Specializing in high-intensity interval training (HIIT), Chris focuses on functional fitness, strength, and endurance to help clients reach their peak performance levels.",
+    "certifications": [
+      "Certified CrossFit Coach",
+      "Certified Strength & Conditioning Specialist",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [
+      {
+        "title": "Top CrossFit Trainer",
+        "year": 2023,
+        "organization": "CrossFit Games"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Jason Lee",
+        "email": "jason.lee@example.com",
+        "testimonial": "Chris is the best CrossFit coach I’ve had. His workouts are challenging and always vary to keep me engaged. I feel stronger and fitter than ever!",
+        "rating": 5
+      },
+      {
+        "clientName": "Rachel Green",
+        "email": "rachel.green@example.com",
+        "testimonial": "Chris is a motivating coach. His focus on functional fitness helped me achieve my goals and improve my performance in every workout.",
+        "rating": 4.9
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "CrossFit",
+        "Strength & Conditioning",
+        "HIIT",
+        "Endurance"
+      ],
+      "classTypes": ["Partner Workout", "Open Gym Class"]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": ["Personalized CrossFit plans", "Bootcamp sessions"],
+    "equipmentUsed": [
+      "Barbells",
+      "Kettlebells",
+      "Jump Ropes",
+      "Medicine Balls"
+    ],
+    "partnerships": [
+      {
+        "partnerName": "The CrossFit Box",
+        "website": "https://thecrossfitbox.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021fa",
+    "email": "isabellaparker@gmail.com",
+    "name": "Isabella Parker",
+    "specialization": "Stretching Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Platinum",
+    "gender": "Female",
+    "age": 28,
+    "experience": 6,
+    "availableDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "contact": {
+      "phone": "+1 234 567 890",
+      "email": "isabella.parker@example.com",
+      "website": "https://isabellaparker-stretch.com",
+      "linkedin": "https://linkedin.com/in/isabellaparker",
+      "instagram": "https://instagram.com/isabellaparker_stretch",
+      "facebook": "https://facebook.com/isabellaparkerfitness"
+    },
+    "bio": "Isabella Parker is a passionate Stretching Instructor specializing in flexibility training and body relaxation techniques. With 6 years of experience, she excels in helping clients improve mobility and overall body wellness.",
+    "certifications": [
+      "Certified Stretching Trainer",
+      "Advanced Flexibility Training Specialist",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [
+      {
+        "title": "Rising Star in Fitness",
+        "year": 2021,
+        "organization": "Fitness Awards Academy"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Emma Taylor",
+        "email": "emma.taylor@example.com",
+        "testimonial": "Isabella is truly dedicated to her clients. She’s helped me gain flexibility and confidence through her expert coaching.",
+        "rating": 5
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Flexibility",
+        "Mobility Training",
+        "Stress Relief",
+        "Posture Improvement"
+      ],
+      "classTypes": [
+        "Workshops",
+        "Semi-Private Training",
+        "Partner Workout",
+        "Drop-In Class",
+        "Outdoor Class"
+      ]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Personalized flexibility plans",
+      "Performance tracking",
+      "Mobility exercises"
+    ],
+    "equipmentUsed": ["Stretching Mats", "Resistance Bands", "Foam Rollers"],
+    "partnerships": [
+      {
+        "partnerName": "Elite Flexibility Studio",
+        "website": "https://eliteflexibilitystudio.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021db",
+    "email": "bobsmith@gmail.com",
+    "name": "Bob Smith",
+    "specialization": "Aerobics Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Platinum",
+    "gender": "Male",
+    "age": 35,
+    "experience": 10,
+    "availableDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "contact": {
+      "phone": "+1 456 789 012",
+      "email": "bob.smith@example.com",
+      "website": "https://bobsmith-aerobics.com",
+      "linkedin": "https://linkedin.com/in/bobsmith",
+      "instagram": "https://instagram.com/bobsmith_aerobics",
+      "facebook": "https://facebook.com/bobsmithaerobics"
+    },
+    "bio": "Bob Smith is a certified Aerobics Instructor with over 10 years of experience leading dynamic aerobics classes. His classes combine high-energy aerobic exercises with fun music, helping participants improve cardiovascular fitness, coordination, and endurance while enjoying an upbeat workout.",
+    "certifications": [
+      "Certified Aerobics Instructor",
+      "Certified Group Fitness Instructor",
+      "CPR & First Aid Certified",
+      "Advanced Aerobics Training"
+    ],
+    "awards": [
+      {
+        "title": "Best Aerobics Instructor",
+        "year": 2018,
+        "organization": "National Fitness Awards"
+      },
+      {
+        "title": "Top Aerobics Instructor of the Year",
+        "year": 2021,
+        "organization": "Fitness Excellence"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "John Carter",
+        "email": "john.carter@example.com",
+        "testimonial": "Bob’s aerobics classes are incredibly fun and energetic! His choreography is always fresh, and the music selection keeps me motivated throughout the entire session.",
+        "rating": 5
+      },
+      {
+        "clientName": "Natalie Green",
+        "email": "natalie.green@example.com",
+        "testimonial": "I’ve been taking Bob’s aerobics classes for over a year, and I’ve seen huge improvements in my cardiovascular fitness and stamina. Highly recommend!",
+        "rating": 5
+      },
+      {
+        "clientName": "Sam White",
+        "email": "sam.white@example.com",
+        "testimonial": "Bob makes every aerobics session a blast. His energy and enthusiasm make it impossible not to enjoy working out.",
+        "rating": 4.9
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Cardiovascular Fitness",
+        "Endurance",
+        "Weight Loss",
+        "Coordination",
+        "Fun Dance Moves"
+      ],
+      "classTypes": ["Group Class", "Semi-Private Training", "Partner Workout"]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Private aerobics sessions",
+      "Dance aerobics choreography",
+      "Group fitness classes"
+    ],
+    "equipmentUsed": [
+      "Step Platforms",
+      "Resistance Bands",
+      "Hand Weights",
+      "Music & Speakers"
+    ],
+    "partnerships": [
+      {
+        "partnerName": "Energetic Fitness Studio",
+        "website": "https://energeticfitness.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021dd",
+    "email": "ethangray@gmail.com",
+    "name": "Ethan Gray",
+    "specialization": "Aerobics Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Silver",
+    "gender": "Male",
+    "age": 27,
+    "experience": 5,
+    "availableDays": ["Saturday", "Sunday", "Monday", "Tuesday", "Thursday"],
+    "contact": {
+      "phone": "+1 678 901 234",
+      "email": "ethan.gray@example.com",
+      "website": "https://ethangray-aerobics.com",
+      "linkedin": "https://linkedin.com/in/ethangray",
+      "instagram": "https://instagram.com/ethangray_aerobics",
+      "facebook": "https://facebook.com/ethangrayaerobics"
+    },
+    "bio": "Ethan Gray is an experienced Aerobics Instructor specializing in high-intensity aerobics classes designed to improve cardiovascular health, strength, and flexibility. With his energetic approach, Ethan motivates participants to push their limits while enjoying a fun workout environment.",
+    "certifications": [
+      "Certified Aerobics Instructor",
+      "CPR & First Aid Certified",
+      "Group Fitness Certification",
+      "HIIT Aerobics Certified"
+    ],
+    "awards": [
+      {
+        "title": "Best Aerobics Instructor",
+        "year": 2022,
+        "organization": "Fitness Training Awards"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Jake Turner",
+        "email": "jake.turner@example.com",
+        "testimonial": "Ethan’s aerobics classes are always high-energy and fun! He pushes me to work hard while making the experience enjoyable.",
+        "rating": 5
+      },
+      {
+        "clientName": "Rachel King",
+        "email": "rachel.king@example.com",
+        "testimonial": "Ethan’s workouts have helped me boost my cardio fitness, and I feel more energized after every class.",
+        "rating": 5
+      },
+      {
+        "clientName": "Tom Walker",
+        "email": "tom.walker@example.com",
+        "testimonial": "Ethan’s classes are challenging but rewarding. His attention to detail and enthusiasm make each session something to look forward to.",
+        "rating": 4.8
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Cardio",
+        "Endurance",
+        "Coordination",
+        "Fun Dance Moves",
+        "Weight Loss"
+      ],
+      "classTypes": [
+        "Drop-In Class",
+        "Open Gym Class",
+        "Online Class",
+        "Workshops"
+      ]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Private aerobics coaching",
+      "Dance choreography for aerobics",
+      "Group fitness classes"
+    ],
+    "equipmentUsed": [
+      "Step Platforms",
+      "Resistance Bands",
+      "Hand Weights",
+      "Music & Speakers"
+    ],
+    "partnerships": [
+      {
+        "partnerName": "Pulse Fitness Studio",
+        "website": "https://pulsefitness.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021df",
+    "email": "annacruz@gmail.com",
+    "name": "Anna Cruz",
+    "specialization": "Boxing Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Gold",
+    "gender": "Female",
+    "age": 32,
+    "experience": 10,
+    "availableDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "contact": {
+      "phone": "+1 555 987 654",
+      "email": "anna.cruz@example.com",
+      "website": "https://annacruz-yoga.com",
+      "linkedin": "https://linkedin.com/in/annacruz",
+      "instagram": "https://instagram.com/annacruz_yoga",
+      "facebook": "https://facebook.com/annacruzyoga"
+    },
+    "bio": "Anna Cruz is a passionate and experienced Yoga Instructor who specializes in vinyasa flow, restorative yoga, and mindfulness practices. With 10 years of teaching, Anna brings a calming presence and attention to breath and movement to her classes.",
+    "certifications": [
+      "Certified Yoga Instructor",
+      "Certified Vinyasa Yoga Teacher",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [
+      {
+        "title": "Best Yoga Instructor",
+        "year": 2021,
+        "organization": "Yoga Awards"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Clara Garcia",
+        "email": "clara.garcia@example.com",
+        "testimonial": "Anna’s classes are transformative. I’ve gained so much strength and flexibility, both physically and mentally. Highly recommended!",
+        "rating": 5
+      },
+      {
+        "clientName": "Sophia Adams",
+        "email": "sophia.adams@example.com",
+        "testimonial": "Anna is a true professional. Her attention to detail and focus on breath work helped me achieve a deeper practice.",
+        "rating": 4.8
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Flexibility",
+        "Core Strength",
+        "Mindfulness",
+        "Breathing Techniques",
+        "Relaxation"
+      ],
+      "classTypes": [
+        "Drop-In Class",
+        "Private Session",
+        "Open Gym Class",
+        "Outdoor Class",
+        "Workshops"
+      ]
+    },
+    "languagesSpoken": ["English", "Spanish"],
+    "additionalServices": [
+      "Private sessions",
+      "Group yoga classes",
+      "Mindfulness coaching"
+    ],
+    "equipmentUsed": ["Yoga Mats", "Yoga Blocks", "Straps", "Bolsters"],
+    "partnerships": [
+      {
+        "partnerName": "Serenity Yoga Studio",
+        "website": "https://serenityyogastudio.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021e2",
+    "email": "sophielee@gmail.com",
+    "name": "Sophie Lee",
+    "specialization": "Cardio Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Platinum",
+    "gender": "Female",
+    "age": 35,
+    "experience": 12,
+    "availableDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "contact": {
+      "phone": "+1 345 678 902",
+      "email": "sophie.lee@example.com",
+      "website": "https://sophielee-yoga.com",
+      "linkedin": "https://linkedin.com/in/sophielee",
+      "instagram": "https://instagram.com/sophielee_yoga",
+      "facebook": "https://facebook.com/sophielee.yoga"
+    },
+    "bio": "Sophie Lee is an experienced Yoga Instructor with over 12 years of practice. Her classes focus on mindfulness, flexibility, and stress relief, offering a peaceful and transformative experience.",
+    "certifications": [
+      "Certified Yoga Instructor",
+      "Advanced Meditation Practitioner",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [
+      {
+        "title": "Top Yoga Instructor",
+        "year": 2021,
+        "organization": "Yoga Excellence Awards"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Grace Thompson",
+        "email": "grace.thompson@example.com",
+        "testimonial": "Sophie’s classes have changed my life. Her calming presence and precise instructions help me deepen my practice.",
+        "rating": 5
+      },
+      {
+        "clientName": "Evelyn Harris",
+        "email": "evelyn.harris@example.com",
+        "testimonial": "I feel more balanced and centered after every session. Sophie is an amazing instructor!",
+        "rating": 4.9
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Flexibility",
+        "Mindfulness",
+        "Stress Relief",
+        "Core Stability",
+        "Breathwork"
+      ],
+      "classTypes": [
+        "Drop-In Class",
+        "Private Session",
+        "Open Gym Class",
+        "Online Class"
+      ]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Personalized yoga plans",
+      "Meditation sessions",
+      "Stress management coaching"
+    ],
+    "equipmentUsed": ["Yoga Mats", "Resistance Bands", "Blocks", "Straps"],
+    "partnerships": [
+      {
+        "partnerName": "Zen Yoga Studio",
+        "website": "https://zenyogastudio.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021ea",
+    "email": "ethanross@gmail.com",
+    "name": "Ethan Ross",
+    "specialization": "HIIT Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Gold",
+    "gender": "Male",
+    "age": 35,
+    "experience": 10,
+    "availableDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "contact": {
+      "phone": "+1 234 567 891",
+      "email": "ethan.ross@example.com",
+      "website": "https://ethanross-strength.com",
+      "linkedin": "https://linkedin.com/in/ethanross",
+      "instagram": "https://instagram.com/ethanross_strength",
+      "facebook": "https://facebook.com/ethanrossfitness"
+    },
+    "bio": "Ethan Ross is a highly skilled Strength Training Coach with over 10 years of experience. He focuses on building muscle, improving athletic performance, and enhancing overall strength. Ethan is known for his personalized training programs and motivational coaching style.",
+    "certifications": [
+      "Certified Strength and Conditioning Specialist (CSCS)",
+      "Certified Personal Trainer (CPT)",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [
+      {
+        "title": "Top Strength Coach",
+        "year": 2021,
+        "organization": "National Fitness Association"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Daniel Cooper",
+        "email": "daniel.cooper@example.com",
+        "testimonial": "Ethan has transformed my fitness routine. His strength training programs are challenging but effective, and he’s always supportive.",
+        "rating": 5
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Muscle Building",
+        "Athletic Performance",
+        "Injury Recovery"
+      ],
+      "classTypes": [
+        "Workshops",
+        "Partner Workout",
+        "Private Session",
+        "Open Gym Class",
+        "Online Class"
+      ]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Custom workout plans",
+      "Nutritional guidance",
+      "Post-injury rehabilitation"
+    ],
+    "equipmentUsed": [
+      "Free Weights",
+      "Barbells",
+      "Resistance Bands",
+      "Power Racks"
+    ],
+    "partnerships": [
+      {
+        "partnerName": "Strength HQ",
+        "website": "https://strengthhq.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021f0",
+    "email": "oliviaharris@gmail.com",
+    "name": "Olivia Harris",
+    "specialization": "Pilates Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Silver",
+    "gender": "Female",
+    "age": 29,
+    "experience": 7,
+    "availableDays": ["Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    "contact": {
+      "phone": "+1 234 567 654",
+      "email": "olivia.harris@example.com",
+      "website": "https://oliviaharris-pilates.com",
+      "linkedin": "https://linkedin.com/in/oliviaharris",
+      "instagram": "https://instagram.com/oliviaharris_pilates",
+      "facebook": "https://facebook.com/oliviaharrisfitness"
+    },
+    "bio": "Olivia Harris is a passionate Pilates Instructor with 7 years of experience helping clients improve their posture, flexibility, and overall strength. She focuses on gentle yet effective movements that promote a balanced body and mind.",
+    "certifications": [
+      "Certified Pilates Instructor",
+      "CPR & First Aid Certified",
+      "Yoga Instructor",
+      "Mindfulness and Meditation Coach"
+    ],
+    "awards": [
+      {
+        "title": "Outstanding Pilates Instructor",
+        "year": 2022,
+        "organization": "Wellness Leaders"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Grace Foster",
+        "email": "grace.foster@example.com",
+        "testimonial": "Olivia’s Pilates classes have made such a difference in my life. She’s incredibly patient and encouraging, and I’ve seen great results.",
+        "rating": 5
+      },
+      {
+        "clientName": "Henry Lee",
+        "email": "henry.lee@example.com",
+        "testimonial": "Olivia’s attention to detail in every movement is fantastic. Her Pilates sessions are transformative for both body and mind.",
+        "rating": 4.8
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Posture Improvement",
+        "Core Strength",
+        "Flexibility",
+        "Mind-body connection",
+        "Mobility"
+      ],
+      "classTypes": ["Workshops", "Open Gym Class", "Outdoor Class"]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Core stability training",
+      "Breathwork for relaxation",
+      "Flexibility and mobility coaching"
+    ],
+    "equipmentUsed": [
+      "Pilates Reformer",
+      "Mat",
+      "Resistance Bands",
+      "Foam Rollers"
+    ],
+    "partnerships": [
+      {
+        "partnerName": "Balanced Life Studio",
+        "website": "https://balancedlifestudio.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021fc",
+    "email": "lilygreen@gmail.com",
+    "name": "Lily Green",
+    "specialization": "Stretching Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Silver",
+    "gender": "Female",
+    "age": 27,
+    "experience": 5,
+    "availableDays": ["Sunday", "Saturday", "Monday", "Tuesday", "Wednesday"],
+    "contact": {
+      "phone": "+1 456 789 234",
+      "email": "lily.green@example.com",
+      "website": "https://lilygreen-stretch.com",
+      "linkedin": "https://linkedin.com/in/lilygreen",
+      "instagram": "https://instagram.com/lilygreen_stretch",
+      "facebook": "https://facebook.com/lilygreenfitness"
+    },
+    "bio": "Lily Green is an enthusiastic Stretching Instructor with 5 years of experience in helping clients achieve better flexibility and stress management through targeted techniques.",
+    "certifications": [
+      "Certified Stretching Trainer",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [],
+    "testimonials": [
+      {
+        "clientName": "Sophia Williams",
+        "email": "sophia.williams@example.com",
+        "testimonial": "Lily is fantastic! Her energy and knowledge make every stretching session enjoyable.",
+        "rating": 4.9
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Flexibility",
+        "Relaxation",
+        "Stress Management",
+        "Posture Correction"
+      ],
+      "classTypes": [
+        "Partner Workout",
+        "Private Session",
+        "Outdoor Class",
+        "Workshops"
+      ]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": ["Stress-relief techniques", "Relaxation sessions"],
+    "equipmentUsed": ["Stretching Mats", "Foam Rollers", "Resistance Bands"],
+    "partnerships": [
+      {
+        "partnerName": "Core Flex Studio",
+        "website": "https://coreflexstudio.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021e5",
+    "email": "jameshill@gmail.com",
+    "name": "James Hill",
+    "specialization": "Cardio Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Gold",
+    "gender": "Male",
+    "age": 38,
+    "experience": 10,
+    "availableDays": ["Monday", "Tuesday", "Wednesday", "Saturday", "Sunday"],
+    "contact": {
+      "phone": "+1 345 678 905",
+      "email": "james.hill@example.com",
+      "website": "https://jameshill-crossfit.com",
+      "linkedin": "https://linkedin.com/in/jameshill",
+      "instagram": "https://instagram.com/jameshill_crossfit",
+      "facebook": "https://facebook.com/jameshill.crossfit"
+    },
+    "bio": "James Hill is an expert CrossFit trainer with over 10 years of experience in strength training and high-intensity workouts. He specializes in functional fitness and helping clients reach peak performance.",
+    "certifications": [
+      "Certified CrossFit Trainer",
+      "Certified Personal Trainer",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [],
+    "testimonials": [
+      {
+        "clientName": "Ethan Anderson",
+        "email": "ethan.anderson@example.com",
+        "testimonial": "James pushes me to my limits. His CrossFit classes are challenging but incredibly rewarding!",
+        "rating": 5
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Functional Fitness",
+        "Strength Training",
+        "Endurance",
+        "High-Intensity Workouts"
+      ],
+      "classTypes": ["Partner Workout", "Private Session", "Outdoor Class"]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Personalized fitness programs",
+      "Nutrition coaching"
+    ],
+    "equipmentUsed": [
+      "Kettlebells",
+      "Dumbbells",
+      "Barbells",
+      "Rowing Machines"
+    ],
+    "partnerships": [
+      {
+        "partnerName": "CrossFit Mastery",
+        "website": "https://crossfitmastery.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021ec",
+    "email": "masonclark@gmail.com",
+    "name": "Mason Clark",
+    "specialization": "HIIT Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Gold",
+    "gender": "Male",
+    "age": 32,
+    "experience": 7,
+    "availableDays": ["Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    "contact": {
+      "phone": "+1 456 789 234",
+      "email": "mason.clark@example.com",
+      "website": "https://masonclark-cardio.com",
+      "linkedin": "https://linkedin.com/in/masonclark",
+      "instagram": "https://instagram.com/masonclark_cardio",
+      "facebook": "https://facebook.com/masonclarkfitness"
+    },
+    "bio": "Mason Clark is a Cardio Fitness Trainer with 7 years of experience specializing in endurance building and weight loss programs. He uses dynamic routines to keep clients motivated and on track to achieve their fitness goals.",
+    "certifications": [
+      "Certified Personal Trainer",
+      "Certified Group Fitness Instructor",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [
+      {
+        "title": "Best Cardio Trainer",
+        "year": 2023,
+        "organization": "Fitness Star Awards"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Liam Wright",
+        "email": "liam.wright@example.com",
+        "testimonial": "Mason’s cardio sessions are intense but incredibly effective. He keeps you motivated every step of the way.",
+        "rating": 5
+      }
+    ],
+    "preferences": {
+      "focusAreas": ["Endurance", "Weight Loss", "Heart Health"],
+      "classTypes": [
+        "Workshops",
+        "Open Gym Class",
+        "Semi-Private Training",
+        "Outdoor Class"
+      ]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Customized running plans",
+      "HIIT classes",
+      "Weight loss coaching"
+    ],
+    "equipmentUsed": ["Treadmills", "Rowing Machines", "Stationary Bikes"],
+    "partnerships": [
+      {
+        "partnerName": "Cardio Plus Gym",
+        "website": "https://cardioplusgym.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb0470602202",
+    "email": "natalieevans@gmail.com",
+    "name": "Natalie Evans",
+    "specialization": "Zumba Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Gold",
+    "gender": "Female",
+    "age": 28,
+    "experience": 6,
+    "availableDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "contact": {
+      "phone": "+1 234 567 890",
+      "email": "natalie.evans@example.com",
+      "website": "https://natalieevans-zumba.com",
+      "linkedin": "https://linkedin.com/in/natalieevans",
+      "instagram": "https://instagram.com/natalieevans_zumba",
+      "facebook": "https://facebook.com/natalieevansfitness"
+    },
+    "bio": "Natalie Evans is a vibrant Zumba Instructor with 6 years of experience. She brings energy and enthusiasm to every class, helping clients burn calories while having fun through dance and fitness routines.",
+    "certifications": [
+      "Certified Zumba Instructor",
+      "Group Fitness Certification",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [
+      {
+        "title": "Top Zumba Instructor",
+        "year": 2021,
+        "organization": "Dance Fitness Awards"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Emily Roberts",
+        "email": "emily.roberts@example.com",
+        "testimonial": "Natalie's classes are so much fun! I never thought fitness could be this enjoyable. Highly recommend her Zumba sessions.",
+        "rating": 5
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Dance Fitness",
+        "Cardio Endurance",
+        "Weight Loss",
+        "Flexibility"
+      ],
+      "classTypes": [
+        "Outdoor Class",
+        "Private Session",
+        "Group Class",
+        "Semi-Private Training",
+        "Open Gym Class"
+      ]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Customized dance routines",
+      "Weight loss coaching",
+      "Event Zumba sessions"
+    ],
+    "equipmentUsed": ["Zumba Weights", "Resistance Bands", "Dance Mats"],
+    "partnerships": [
+      {
+        "partnerName": "Rhythm Dance Studio",
+        "website": "https://rhythmdancestudio.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb0470602203",
+    "email": "dylanmartin@gmail.com",
+    "name": "Dylan Martin",
+    "specialization": "Zumba Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Silver",
+    "gender": "Male",
+    "age": 32,
+    "experience": 8,
+    "availableDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "contact": {
+      "phone": "+1 345 678 901",
+      "email": "dylan.martin@example.com",
+      "website": "https://dylanmartin-zumba.com",
+      "linkedin": "https://linkedin.com/in/dylanmartin",
+      "instagram": "https://instagram.com/dylanmartin_zumba",
+      "facebook": "https://facebook.com/dylanmartinzumba"
+    },
+    "bio": "Dylan Martin is a professional Zumba Instructor known for his dynamic classes. With 8 years of experience, Dylan creates engaging sessions that blend fitness and dance, leaving participants energized and fit.",
+    "certifications": [
+      "Certified Zumba Trainer",
+      "Advanced Dance Fitness Certification",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [
+      {
+        "title": "Best Male Zumba Trainer",
+        "year": 2020,
+        "organization": "National Dance Awards"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Sarah Jones",
+        "email": "sarah.jones@example.com",
+        "testimonial": "Dylan's classes are fantastic! His energy is infectious, and his routines are perfect for burning calories and having fun.",
+        "rating": 4.9
+      }
+    ],
+    "preferences": {
+      "focusAreas": ["Dance Fitness", "Cardio Endurance", "Body Toning"],
+      "classTypes": ["Outdoor Class", "Partner Workout"]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Event Zumba sessions",
+      "Weight loss guidance",
+      "High-intensity Zumba routines"
+    ],
+    "equipmentUsed": ["Dance Mats", "Light Dumbbells", "Resistance Bands"],
+    "partnerships": [
+      {
+        "partnerName": "Vibe Fitness Studio",
+        "website": "https://vibefitnessstudio.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021d8",
+    "email": "sophiacarter@gmail.com",
+    "name": "Sophia Carter",
+    "specialization": "Dance Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Silver",
+    "gender": "Female",
+    "age": 30,
+    "experience": 7,
+    "availableDays": ["Saturday", "Sunday", "Monday", "Tuesday", "Wednesday"],
+    "contact": {
+      "phone": "+1 123 456 789",
+      "email": "sophiacarter@example.com",
+      "website": "https://sophiacarter-dance.com",
+      "linkedin": "https://linkedin.com/in/sophiacarter",
+      "instagram": "https://instagram.com/sophiacarter_dance",
+      "facebook": "https://facebook.com/sophiacarter.dance"
+    },
+    "bio": "Sophia Carter is a passionate assistant dance instructor with over 7 years of experience in teaching Ballet, Jazz, and Contemporary dance styles. Sophia works closely with Thomas King, providing energetic and personalized support to each student.",
+    "certifications": [
+      "Certified Dance Instructor",
+      "Ballet Dance Certification",
+      "Jazz Dance Certification",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [
+      {
+        "title": "Dance Excellence Award",
+        "year": 2016,
+        "organization": "National Dance Organization"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Olivia Green",
+        "email": "olivia.green@example.com",
+        "testimonial": "Sophia is a fantastic instructor! Her attention to detail and understanding of dance technique helped me improve quickly.",
+        "rating": 5
+      },
+      {
+        "clientName": "Emily Foster",
+        "email": "emily.foster@example.com",
+        "testimonial": "Sophia’s guidance during my dance journey has been invaluable. She’s both motivating and supportive, which makes her a great teacher.",
+        "rating": 5
+      }
+    ],
+    "preferences": {
+      "focusAreas": ["Ballet", "Jazz", "Contemporary", "Dance Flexibility"],
+      "classTypes": ["Private Sessions", "Group Classes"]
+    },
+    "languagesSpoken": ["English", "French"],
+    "additionalServices": [
+      "Choreography for Recitals",
+      "Private Lessons for Competitions",
+      "Dance Performance Coaching"
+    ],
+    "equipmentUsed": [
+      "Ballet Barres",
+      "Dance Floors",
+      "Mirrored Walls",
+      "Stretch Bands"
+    ],
+    "partnerships": [
+      {
+        "partnerName": "Elegant Dance Academy",
+        "website": "https://elegantdanceacademy.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021e3",
+    "email": "danielwhite@gmail.com",
+    "name": "Daniel White",
+    "specialization": "Cardio Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Gold",
+    "gender": "Male",
+    "age": 40,
+    "experience": 15,
+    "availableDays": ["Monday", "Tuesday", "Wednesday", "Saturday", "Sunday"],
+    "contact": {
+      "phone": "+1 345 678 903",
+      "email": "daniel.white@example.com",
+      "website": "https://danielwhite-fitness.com",
+      "linkedin": "https://linkedin.com/in/danielwhite",
+      "instagram": "https://instagram.com/danielwhite_fitness",
+      "facebook": "https://facebook.com/danielwhite.fitness"
+    },
+    "bio": "Daniel White is a passionate Personal Trainer with over 15 years of experience. He specializes in strength training, muscle building, and weight loss, helping clients achieve their fitness goals with customized workout plans.",
+    "certifications": [
+      "Certified Personal Trainer",
+      "Strength and Conditioning Specialist",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [
+      {
+        "title": "Best Personal Trainer",
+        "year": 2019,
+        "organization": "Fitness Pro Awards"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Liam King",
+        "email": "liam.king@example.com",
+        "testimonial": "Daniel pushed me to new limits. His training programs are tough but rewarding.",
+        "rating": 5
+      },
+      {
+        "clientName": "Mia Wilson",
+        "email": "mia.wilson@example.com",
+        "testimonial": "Daniel is great at tailoring workouts to my abilities. I’ve gained strength and confidence!",
+        "rating": 4.8
+      }
+    ],
+    "preferences": {
+      "focusAreas": [
+        "Strength Training",
+        "Muscle Building",
+        "Weight Loss",
+        "Cardio Endurance"
+      ],
+      "classTypes": [
+        "Open Gym Class",
+        "Partner Workout",
+        "Semi-Private Training",
+        "Outdoor Class"
+      ]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Personalized workout plans",
+      "Nutrition advice",
+      "Bodybuilding coaching"
+    ],
+    "equipmentUsed": [
+      "Free Weights",
+      "Kettlebells",
+      "Resistance Bands",
+      "Barbells"
+    ],
+    "partnerships": [
+      {
+        "partnerName": "Peak Performance Gym",
+        "website": "https://peakperformancegym.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021e7",
+    "email": "lindabrown@gmail.com",
+    "name": "Linda Brown",
+    "specialization": "CrossFit Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Platinum",
+    "gender": "Female",
+    "age": 28,
+    "experience": 6,
+    "availableDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "contact": {
+      "phone": "+1 567 890 123",
+      "email": "linda.brown@example.com",
+      "website": "https://lindabrownyoga.com",
+      "linkedin": "https://linkedin.com/in/lindabrown",
+      "instagram": "https://instagram.com/lindabrownyoga",
+      "facebook": "https://facebook.com/lindabrownyoga"
+    },
+    "bio": "Linda Brown is a dedicated Yoga Instructor with 6 years of experience guiding clients through yoga practices that enhance flexibility, balance, and mindfulness.",
+    "certifications": [
+      "RYT-200 Certified Yoga Teacher",
+      "Certified Mindfulness Coach",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [
+      {
+        "title": "Top Yoga Teacher",
+        "year": 2020,
+        "organization": "Yoga Excellence Awards"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Emily Davis",
+        "email": "emily.davis@example.com",
+        "testimonial": "Linda’s yoga classes are transformative. She creates a calming atmosphere and provides excellent guidance.",
+        "rating": 5
+      }
+    ],
+    "preferences": {
+      "focusAreas": ["Flexibility", "Stress Relief", "Mindfulness"],
+      "classTypes": [
+        "Semi-Private Training",
+        "Private Session",
+        "Partner Workout",
+        "Outdoor Class"
+      ]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Meditation sessions",
+      "Mindfulness coaching",
+      "Prenatal yoga"
+    ],
+    "equipmentUsed": ["Yoga Mats", "Blocks", "Straps"],
+    "partnerships": [
+      {
+        "partnerName": "Zen Yoga Studio",
+        "website": "https://zenyogastudio.com"
+      }
+    ]
+  },
+  {
+    "_id": "676e9791205adb04706021ed",
+    "email": "ameliaparker@gmail.com",
+    "name": "Amelia Parker",
+    "specialization": "HIIT Instructor",
+    "imageUrl": "https://i.ibb.co.com/MVW0Dpt/User.png",
+    "tier": "Gold",
+    "gender": "Female",
+    "age": 29,
+    "experience": 5,
+    "availableDays": ["Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    "contact": {
+      "phone": "+1 567 890 345",
+      "email": "amelia.parker@example.com",
+      "website": "https://ameliaparker-pilates.com",
+      "linkedin": "https://linkedin.com/in/ameliaparker",
+      "instagram": "https://instagram.com/ameliaparker_pilates",
+      "facebook": "https://facebook.com/ameliaparkerfitness"
+    },
+    "bio": "Amelia Parker is a dedicated Pilates Instructor with 5 years of experience in helping clients improve their posture, flexibility, and overall core strength. Her sessions are tailored to individual needs, ensuring optimal results.",
+    "certifications": [
+      "Certified Pilates Instructor",
+      "CPR & First Aid Certified"
+    ],
+    "awards": [
+      {
+        "title": "Top Pilates Instructor",
+        "year": 2022,
+        "organization": "Pilates Excellence Awards"
+      }
+    ],
+    "testimonials": [
+      {
+        "clientName": "Sophia Miller",
+        "email": "sophia.miller@example.com",
+        "testimonial": "Amelia’s Pilates classes have significantly improved my posture and core strength. She’s an amazing instructor.",
+        "rating": 5
+      }
+    ],
+    "preferences": {
+      "focusAreas": ["Posture Correction", "Core Strength", "Flexibility"],
+      "classTypes": ["Outdoor Class", "Semi-Private Training", "Drop-In Class"]
+    },
+    "languagesSpoken": ["English"],
+    "additionalServices": [
+      "Posture analysis",
+      "Rehabilitation sessions",
+      "Prenatal Pilates"
+    ],
+    "equipmentUsed": ["Pilates Mats", "Resistance Bands", "Reformers"],
+    "partnerships": [
+      {
+        "partnerName": "Core Strength Studio",
+        "website": "https://corestrengthstudio.com"
+      }
+    ]
+  }
+]

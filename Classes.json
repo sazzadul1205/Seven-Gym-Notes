@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Workshops",
+    "description": "Educational sessions focused on improving specific fitness skills, techniques, or knowledge.",
+    "type": "Paid"
+  },
+  {
+    "name": "Partner Workout",
+    "description": "A fun and engaging workout designed for two people, improving motivation and teamwork.",
+    "type": "Paid"
+  },
+  {
+    "name": "Outdoor Class",
+    "description": "Fitness sessions conducted outdoors, incorporating natural terrain and fresh air for a refreshing workout experience.",
+    "type": "Free or Paid (Depends on Trainer)"
+  },
+  {
+    "name": "Private Training",
+    "description": "One-on-one coaching tailored to individual fitness goals, providing personalized attention and progress tracking.",
+    "type": "Paid"
+  },
+  {
+    "name": "Open Gym Class",
+    "description": "A flexible class allowing participants to use gym equipment under trainer supervision, without a structured session.",
+    "type": "Free for Members / Paid for Drop-ins"
+  },
+  {
+    "name": "Semi-Private Training",
+    "description": "Small-group training sessions (2-4 people) offering a balance of personal attention and group motivation.",
+    "type": "Paid"
+  },
+  {
+    "name": "Drop-In Class",
+    "description": "A flexible, no-commitment class that allows participants to join on a session-by-session basis.",
+    "type": "Paid"
+  },
+  {
+    "name": "Online Class",
+    "description": "Virtual fitness sessions conducted via live streaming or pre-recorded videos for remote training.",
+    "type": "Free or Paid (Depends on Subscription)"
+  },
+  {
+    "name": "Group Class",
+    "description": "A structured workout for multiple participants, fostering a community-driven fitness experience.",
+    "type": "Paid"
+  }
+]
