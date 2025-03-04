@@ -1,0 +1,121 @@
+[
+  {
+    "day": "Monday",
+    "classes": [
+      { "id": "Yoga-Monday-08:00", "module": "Yoga", "startTime": "08:00", "endTime": "08:59" },
+      { "id": "HIIT-Monday-09:00", "module": "HIIT", "startTime": "09:00", "endTime": "09:59" },
+      { "id": "Spin-Monday-10:00", "module": "Spin", "startTime": "10:00", "endTime": "10:59" },
+      { "id": "Boxing-Monday-11:00", "module": "Boxing", "startTime": "11:00", "endTime": "11:59" },
+      { "id": "Dance-Monday-12:00", "module": "Dance", "startTime": "12:00", "endTime": "12:59" },
+      { "id": "CrossFit-Monday-13:00", "module": "CrossFit", "startTime": "13:00", "endTime": "13:59" },
+      { "id": "Cardio-Monday-14:00", "module": "Cardio", "startTime": "14:00", "endTime": "14:59" },
+      { "id": "Pilates-Monday-15:00", "module": "Pilates", "startTime": "15:00", "endTime": "15:59" },
+      { "id": "Zumba-Monday-16:00", "module": "Zumba", "startTime": "16:00", "endTime": "16:59" },
+      { "id": "Aerobics-Monday-17:00", "module": "Aerobics", "startTime": "17:00", "endTime": "17:59" },
+      { "id": "Strength_Training-Monday-18:00", "module": "Strength Training", "startTime": "18:00", "endTime": "18:59" },
+      { "id": "Stretching-Monday-19:00", "module": "Stretching", "startTime": "19:00", "endTime": "19:59" }
+    ]
+  },
+  {
+    "day": "Tuesday",
+    "classes": [
+      { "id": "Yoga-Tuesday-08:00", "module": "Yoga", "startTime": "08:00", "endTime": "08:59" },
+      { "id": "HIIT-Tuesday-09:00", "module": "HIIT", "startTime": "09:00", "endTime": "09:59" },
+      { "id": "Spin-Tuesday-10:00", "module": "Spin", "startTime": "10:00", "endTime": "10:59" },
+      { "id": "Boxing-Tuesday-11:00", "module": "Boxing", "startTime": "11:00", "endTime": "11:59" },
+      { "id": "Dance-Tuesday-12:00", "module": "Dance", "startTime": "12:00", "endTime": "12:59" },
+      { "id": "CrossFit-Tuesday-13:00", "module": "CrossFit", "startTime": "13:00", "endTime": "13:59" },
+      { "id": "Cardio-Tuesday-14:00", "module": "Cardio", "startTime": "14:00", "endTime": "14:59" },
+      { "id": "Pilates-Tuesday-15:00", "module": "Pilates", "startTime": "15:00", "endTime": "15:59" },
+      { "id": "Zumba-Tuesday-16:00", "module": "Zumba", "startTime": "16:00", "endTime": "16:59" },
+      { "id": "Aerobics-Tuesday-17:00", "module": "Aerobics", "startTime": "17:00", "endTime": "17:59" },
+      { "id": "Strength_Training-Tuesday-18:00", "module": "Strength Training", "startTime": "18:00", "endTime": "18:59" },
+      { "id": "Stretching-Tuesday-19:00", "module": "Stretching", "startTime": "19:00", "endTime": "19:59" }
+    ]
+  },
+  {
+    "day": "Wednesday",
+    "classes": [
+      { "id": "Cardio-Wednesday-08:00", "module": "Cardio", "startTime": "08:00", "endTime": "08:59" },
+      { "id": "Pilates-Wednesday-09:00", "module": "Pilates", "startTime": "09:00", "endTime": "09:59" },
+      { "id": "Zumba-Wednesday-10:00", "module": "Zumba", "startTime": "10:00", "endTime": "10:59" },
+      { "id": "Aerobics-Wednesday-11:00", "module": "Aerobics", "startTime": "11:00", "endTime": "11:59" },
+      { "id": "Strength_Training-Wednesday-12:00", "module": "Strength Training", "startTime": "12:00", "endTime": "12:59" },
+      { "id": "Stretching-Wednesday-13:00", "module": "Stretching", "startTime": "13:00", "endTime": "13:59" },
+      { "id": "Yoga-Wednesday-14:00", "module": "Yoga", "startTime": "14:00", "endTime": "14:59" },
+      { "id": "HIIT-Wednesday-15:00", "module": "HIIT", "startTime": "15:00", "endTime": "15:59" },
+      { "id": "Spin-Wednesday-16:00", "module": "Spin", "startTime": "16:00", "endTime": "16:59" },
+      { "id": "Boxing-Wednesday-17:00", "module": "Boxing", "startTime": "17:00", "endTime": "17:59" },
+      { "id": "Dance-Wednesday-18:00", "module": "Dance", "startTime": "18:00", "endTime": "18:59" },
+      { "id": "CrossFit-Wednesday-19:00", "module": "CrossFit", "startTime": "19:00", "endTime": "19:59" }
+    ]
+  },
+  {
+    "day": "Thursday",
+    "classes": [
+      { "id": "Cardio-Thursday-08:00", "module": "Cardio", "startTime": "08:00", "endTime": "08:59" },
+      { "id": "Pilates-Thursday-09:00", "module": "Pilates", "startTime": "09:00", "endTime": "09:59" },
+      { "id": "Zumba-Thursday-10:00", "module": "Zumba", "startTime": "10:00", "endTime": "10:59" },
+      { "id": "Aerobics-Thursday-11:00", "module": "Aerobics", "startTime": "11:00", "endTime": "11:59" },
+      { "id": "Strength_Training-Thursday-12:00", "module": "Strength Training", "startTime": "12:00", "endTime": "12:59" },
+      { "id": "Stretching-Thursday-13:00", "module": "Stretching", "startTime": "13:00", "endTime": "13:59" },
+      { "id": "Yoga-Thursday-14:00", "module": "Yoga", "startTime": "14:00", "endTime": "14:59" },
+      { "id": "HIIT-Thursday-15:00", "module": "HIIT", "startTime": "15:00", "endTime": "15:59" },
+      { "id": "Spin-Thursday-16:00", "module": "Spin", "startTime": "16:00", "endTime": "16:59" },
+      { "id": "Boxing-Thursday-17:00", "module": "Boxing", "startTime": "17:00", "endTime": "17:59" },
+      { "id": "Dance-Thursday-18:00", "module": "Dance", "startTime": "18:00", "endTime": "18:59" },
+      { "id": "CrossFit-Thursday-19:00", "module": "CrossFit", "startTime": "19:00", "endTime": "19:59" }
+    ]
+  },
+  {
+    "day": "Monday",
+    "classes": [
+      { "id": "Yoga-Monday-08:00", "module": "Yoga", "startTime": "08:00", "endTime": "08:59" },
+      { "id": "HIIT-Monday-09:00", "module": "HIIT", "startTime": "09:00", "endTime": "09:59" },
+      { "id": "Spin-Monday-10:00", "module": "Spin", "startTime": "10:00", "endTime": "10:59" },
+      { "id": "Boxing-Monday-11:00", "module": "Boxing", "startTime": "11:00", "endTime": "11:59" },
+      { "id": "Dance-Monday-12:00", "module": "Dance", "startTime": "12:00", "endTime": "12:59" },
+      { "id": "CrossFit-Monday-13:00", "module": "CrossFit", "startTime": "13:00", "endTime": "13:59" },
+      { "id": "Cardio-Monday-14:00", "module": "Cardio", "startTime": "14:00", "endTime": "14:59" },
+      { "id": "Pilates-Monday-15:00", "module": "Pilates", "startTime": "15:00", "endTime": "15:59" },
+      { "id": "Zumba-Monday-16:00", "module": "Zumba", "startTime": "16:00", "endTime": "16:59" },
+      { "id": "Aerobics-Monday-17:00", "module": "Aerobics", "startTime": "17:00", "endTime": "17:59" },
+      { "id": "Strength_Training-Monday-18:00", "module": "Strength Training", "startTime": "18:00", "endTime": "18:59" },
+      { "id": "Stretching-Monday-19:00", "module": "Stretching", "startTime": "19:00", "endTime": "19:59" }
+    ]
+  },
+  {
+    "day": "Tuesday",
+    "classes": [
+      { "id": "Yoga-Tuesday-08:00", "module": "Yoga", "startTime": "08:00", "endTime": "08:59" },
+      { "id": "HIIT-Tuesday-09:00", "module": "HIIT", "startTime": "09:00", "endTime": "09:59" },
+      { "id": "Spin-Tuesday-10:00", "module": "Spin", "startTime": "10:00", "endTime": "10:59" },
+      { "id": "Boxing-Tuesday-11:00", "module": "Boxing", "startTime": "11:00", "endTime": "11:59" },
+      { "id": "Dance-Tuesday-12:00", "module": "Dance", "startTime": "12:00", "endTime": "12:59" },
+      { "id": "CrossFit-Tuesday-13:00", "module": "CrossFit", "startTime": "13:00", "endTime": "13:59" },
+      { "id": "Cardio-Tuesday-14:00", "module": "Cardio", "startTime": "14:00", "endTime": "14:59" },
+      { "id": "Pilates-Tuesday-15:00", "module": "Pilates", "startTime": "15:00", "endTime": "15:59" },
+      { "id": "Zumba-Tuesday-16:00", "module": "Zumba", "startTime": "16:00", "endTime": "16:59" },
+      { "id": "Aerobics-Tuesday-17:00", "module": "Aerobics", "startTime": "17:00", "endTime": "17:59" },
+      { "id": "Strength_Training-Tuesday-18:00", "module": "Strength Training", "startTime": "18:00", "endTime": "18:59" },
+      { "id": "Stretching-Tuesday-19:00", "module": "Stretching", "startTime": "19:00", "endTime": "19:59" }
+    ]
+  },
+  {
+    "day": "Friday",
+    "classes": [
+      { "id": "Cardio-Friday-08:00", "module": "Cardio", "startTime": "08:00", "endTime": "08:59" },
+      { "id": "Pilates-Friday-09:00", "module": "Pilates", "startTime": "09:00", "endTime": "09:59" },
+      { "id": "Zumba-Friday-10:00", "module": "Zumba", "startTime": "10:00", "endTime": "10:59" },
+      { "id": "Aerobics-Friday-11:00", "module": "Aerobics", "startTime": "11:00", "endTime": "11:59" },
+      { "id": "Strength_Training-Friday-12:00", "module": "Strength Training", "startTime": "12:00", "endTime": "12:59" },
+      { "id": "Stretching-Friday-13:00", "module": "Stretching", "startTime": "13:00", "endTime": "13:59" },
+      { "id": "Yoga-Friday-14:00", "module": "Yoga", "startTime": "14:00", "endTime": "14:59" },
+      { "id": "HIIT-Friday-15:00", "module": "HIIT", "startTime": "15:00", "endTime": "15:59" },
+      { "id": "Spin-Friday-16:00", "module": "Spin", "startTime": "16:00", "endTime": "16:59" },
+      { "id": "Boxing-Friday-17:00", "module": "Boxing", "startTime": "17:00", "endTime": "17:59" },
+      { "id": "Dance-Friday-18:00", "module": "Dance", "startTime": "18:00", "endTime": "18:59" },
+      { "id": "CrossFit-Friday-19:00", "module": "CrossFit", "startTime": "19:00", "endTime": "19:59" }
+    ]
+  }
+]
