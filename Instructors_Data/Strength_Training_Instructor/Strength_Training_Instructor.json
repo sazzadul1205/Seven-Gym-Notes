@@ -1,0 +1,1142 @@
+[
+  {
+    "trainerName": "Michael Harris",
+    "trainerSchedule": {
+      "Monday": {
+        "08:00": {
+          "id": "Michael_Harris-Monday-08:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": 13,
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Michael_Harris-Monday-09:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": 13,
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Michael_Harris-Monday-10:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": 32,
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Michael_Harris-Monday-11:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": "free",
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Michael_Harris-Monday-12:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": "free",
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Michael_Harris-Monday-13:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": "free",
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Tuesday": {
+        "08:00": {
+          "id": "Michael_Harris-Tuesday-08:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": 46,
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Michael_Harris-Tuesday-09:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": 49,
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Michael_Harris-Tuesday-10:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": 45,
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Michael_Harris-Tuesday-11:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": 38,
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Michael_Harris-Tuesday-12:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": "free",
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Michael_Harris-Tuesday-13:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": "free",
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Wednesday": {
+        "08:00": {
+          "id": "Michael_Harris-Wednesday-08:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": "free",
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Michael_Harris-Wednesday-09:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": 23,
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Michael_Harris-Wednesday-10:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": 22,
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Michael_Harris-Wednesday-11:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": "free",
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Michael_Harris-Wednesday-12:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": 28,
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Michael_Harris-Wednesday-13:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": "free",
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Thursday": {
+        "08:00": {
+          "id": "Michael_Harris-Thursday-08:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": 31,
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Michael_Harris-Thursday-09:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": 18,
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Michael_Harris-Thursday-10:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": 34,
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Michael_Harris-Thursday-11:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": 31,
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Michael_Harris-Thursday-12:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": 39,
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Michael_Harris-Thursday-13:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": "free",
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Friday": {
+        "08:00": {
+          "id": "Michael_Harris-Friday-08:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": "free",
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Michael_Harris-Friday-09:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": 27,
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Michael_Harris-Friday-10:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": 23,
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Michael_Harris-Friday-11:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": 27,
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Michael_Harris-Friday-12:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": 18,
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Michael_Harris-Friday-13:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": "free",
+          "start": "13:00",
+          "end": "13:59"
+        }
+      }
+    }
+  },
+  {
+    "trainerName": "Hannah Clark",
+    "trainerSchedule": {
+      "Monday": {
+        "08:00": {
+          "id": "Hannah_Clark-Monday-08:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": 45,
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Hannah_Clark-Monday-09:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 10,
+          "classPrice": "free",
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Hannah_Clark-Monday-10:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 10,
+          "classPrice": 47,
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Hannah_Clark-Monday-11:00",
+          "classType": "Group Class",
+          "participant": {},
+          "participantLimit": 19,
+          "classPrice": 25,
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Hannah_Clark-Monday-12:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 18,
+          "classPrice": "free",
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Hannah_Clark-Monday-13:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 13,
+          "classPrice": "free",
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Tuesday": {
+        "08:00": {
+          "id": "Hannah_Clark-Tuesday-08:00",
+          "classType": "Group Class",
+          "participant": {},
+          "participantLimit": 13,
+          "classPrice": "free",
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Hannah_Clark-Tuesday-09:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": "free",
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Hannah_Clark-Tuesday-10:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 18,
+          "classPrice": "free",
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Hannah_Clark-Tuesday-11:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 16,
+          "classPrice": "free",
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Hannah_Clark-Tuesday-12:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 15,
+          "classPrice": "free",
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Hannah_Clark-Tuesday-13:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": "free",
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Wednesday": {
+        "08:00": {
+          "id": "Hannah_Clark-Wednesday-08:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": 30,
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Hannah_Clark-Wednesday-09:00",
+          "classType": "Group Class",
+          "participant": {},
+          "participantLimit": 10,
+          "classPrice": "free",
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Hannah_Clark-Wednesday-10:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": 16,
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Hannah_Clark-Wednesday-11:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": 12,
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Hannah_Clark-Wednesday-12:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": 28,
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Hannah_Clark-Wednesday-13:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 20,
+          "classPrice": 12,
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Thursday": {
+        "08:00": {
+          "id": "Hannah_Clark-Thursday-08:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 14,
+          "classPrice": 36,
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Hannah_Clark-Thursday-09:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": 50,
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Hannah_Clark-Thursday-10:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 13,
+          "classPrice": 14,
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Hannah_Clark-Thursday-11:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 15,
+          "classPrice": "free",
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Hannah_Clark-Thursday-12:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 14,
+          "classPrice": "free",
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Hannah_Clark-Thursday-13:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 14,
+          "classPrice": "free",
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Friday": {
+        "08:00": {
+          "id": "Hannah_Clark-Friday-08:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": "free",
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Hannah_Clark-Friday-09:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 18,
+          "classPrice": "free",
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Hannah_Clark-Friday-10:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 15,
+          "classPrice": "free",
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Hannah_Clark-Friday-11:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 18,
+          "classPrice": "free",
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Hannah_Clark-Friday-12:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 18,
+          "classPrice": 37,
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Hannah_Clark-Friday-13:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 10,
+          "classPrice": "free",
+          "start": "13:00",
+          "end": "13:59"
+        }
+      }
+    }
+  },
+  {
+    "trainerName": "Daniel Lewis",
+    "trainerSchedule": {
+      "Saturday": {
+        "14:00": {
+          "id": "Daniel_Lewis-Saturday-14:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": "free",
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Daniel_Lewis-Saturday-15:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": "free",
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Daniel_Lewis-Saturday-16:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": "free",
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Daniel_Lewis-Saturday-17:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": "free",
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Daniel_Lewis-Saturday-18:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": "free",
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Daniel_Lewis-Saturday-19:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": "free",
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Sunday": {
+        "14:00": {
+          "id": "Daniel_Lewis-Sunday-14:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": 22,
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Daniel_Lewis-Sunday-15:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 11,
+          "classPrice": "free",
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Daniel_Lewis-Sunday-16:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": "free",
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Daniel_Lewis-Sunday-17:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 16,
+          "classPrice": 38,
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Daniel_Lewis-Sunday-18:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 19,
+          "classPrice": 20,
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Daniel_Lewis-Sunday-19:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 18,
+          "classPrice": "free",
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Monday": {
+        "14:00": {
+          "id": "Daniel_Lewis-Monday-14:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": "free",
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Daniel_Lewis-Monday-15:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": "free",
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Daniel_Lewis-Monday-16:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": 27,
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Daniel_Lewis-Monday-17:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 10,
+          "classPrice": "free",
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Daniel_Lewis-Monday-18:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": 46,
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Daniel_Lewis-Monday-19:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 15,
+          "classPrice": "free",
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Tuesday": {
+        "14:00": {
+          "id": "Daniel_Lewis-Tuesday-14:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": 36,
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Daniel_Lewis-Tuesday-15:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": "free",
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Daniel_Lewis-Tuesday-16:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 14,
+          "classPrice": "free",
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Daniel_Lewis-Tuesday-17:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": 42,
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Daniel_Lewis-Tuesday-18:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": "free",
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Daniel_Lewis-Tuesday-19:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": 41,
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Wednesday": {
+        "14:00": {
+          "id": "Daniel_Lewis-Wednesday-14:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": 44,
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Daniel_Lewis-Wednesday-15:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": "free",
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Daniel_Lewis-Wednesday-16:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": 33,
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Daniel_Lewis-Wednesday-17:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 13,
+          "classPrice": 21,
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Daniel_Lewis-Wednesday-18:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": 19,
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Daniel_Lewis-Wednesday-19:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 10,
+          "classPrice": 50,
+          "start": "19:00",
+          "end": "19:59"
+        }
+      }
+    }
+  },
+  {
+    "trainerName": "Grace Scott",
+    "trainerSchedule": {
+      "Saturday": {
+        "14:00": {
+          "id": "Grace_Scott-Saturday-14:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 16,
+          "classPrice": "free",
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Grace_Scott-Saturday-15:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 17,
+          "classPrice": 34,
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Grace_Scott-Saturday-16:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": "free",
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Grace_Scott-Saturday-17:00",
+          "classType": "Group Class",
+          "participant": {},
+          "participantLimit": 15,
+          "classPrice": 31,
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Grace_Scott-Saturday-18:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 15,
+          "classPrice": "free",
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Grace_Scott-Saturday-19:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": 24,
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Sunday": {
+        "14:00": {
+          "id": "Grace_Scott-Sunday-14:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": "free",
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Grace_Scott-Sunday-15:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 10,
+          "classPrice": 35,
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Grace_Scott-Sunday-16:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": 11,
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Grace_Scott-Sunday-17:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": 34,
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Grace_Scott-Sunday-18:00",
+          "classType": "Group Class",
+          "participant": {},
+          "participantLimit": 11,
+          "classPrice": 39,
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Grace_Scott-Sunday-19:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 12,
+          "classPrice": 32,
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Monday": {
+        "14:00": {
+          "id": "Grace_Scott-Monday-14:00",
+          "classType": "Group Class",
+          "participant": {},
+          "participantLimit": 20,
+          "classPrice": 41,
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Grace_Scott-Monday-15:00",
+          "classType": "Group Class",
+          "participant": {},
+          "participantLimit": 12,
+          "classPrice": 18,
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Grace_Scott-Monday-16:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 18,
+          "classPrice": 44,
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Grace_Scott-Monday-17:00",
+          "classType": "Group Class",
+          "participant": {},
+          "participantLimit": 20,
+          "classPrice": 40,
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Grace_Scott-Monday-18:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 10,
+          "classPrice": "free",
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Grace_Scott-Monday-19:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": 36,
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Tuesday": {
+        "14:00": {
+          "id": "Grace_Scott-Tuesday-14:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 17,
+          "classPrice": 34,
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Grace_Scott-Tuesday-15:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 10,
+          "classPrice": "free",
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Grace_Scott-Tuesday-16:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 15,
+          "classPrice": 29,
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Grace_Scott-Tuesday-17:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 14,
+          "classPrice": 33,
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Grace_Scott-Tuesday-18:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": 27,
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Grace_Scott-Tuesday-19:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": 11,
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Wednesday": {
+        "14:00": {
+          "id": "Grace_Scott-Wednesday-14:00",
+          "classType": "Group Class",
+          "participant": {},
+          "participantLimit": 10,
+          "classPrice": 42,
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Grace_Scott-Wednesday-15:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 11,
+          "classPrice": "free",
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Grace_Scott-Wednesday-16:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 16,
+          "classPrice": "free",
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Grace_Scott-Wednesday-17:00",
+          "classType": "Group Class",
+          "participant": {},
+          "participantLimit": 10,
+          "classPrice": "free",
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Grace_Scott-Wednesday-18:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": "free",
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Grace_Scott-Wednesday-19:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 17,
+          "classPrice": 32,
+          "start": "19:00",
+          "end": "19:59"
+        }
+      }
+    }
+  }
+]

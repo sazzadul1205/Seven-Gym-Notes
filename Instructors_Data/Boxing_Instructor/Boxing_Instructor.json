@@ -1,0 +1,1142 @@
+[
+  {
+    "trainerName": "Mike Tyson",
+    "trainerSchedule": {
+      "Monday": {
+        "08:00": {
+          "id": "Mike_Tyson-Monday-08:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 11,
+          "classPrice": 42,
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Mike_Tyson-Monday-09:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": "free",
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Mike_Tyson-Monday-10:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": "free",
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Mike_Tyson-Monday-11:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 16,
+          "classPrice": 27,
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Mike_Tyson-Monday-12:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 15,
+          "classPrice": 10,
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Mike_Tyson-Monday-13:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 13,
+          "classPrice": 31,
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Tuesday": {
+        "08:00": {
+          "id": "Mike_Tyson-Tuesday-08:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": 27,
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Mike_Tyson-Tuesday-09:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": "free",
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Mike_Tyson-Tuesday-10:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": "free",
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Mike_Tyson-Tuesday-11:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": "free",
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Mike_Tyson-Tuesday-12:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 19,
+          "classPrice": 35,
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Mike_Tyson-Tuesday-13:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": 10,
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Wednesday": {
+        "08:00": {
+          "id": "Mike_Tyson-Wednesday-08:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": "free",
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Mike_Tyson-Wednesday-09:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": 23,
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Mike_Tyson-Wednesday-10:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": "free",
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Mike_Tyson-Wednesday-11:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": 29,
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Mike_Tyson-Wednesday-12:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 18,
+          "classPrice": 40,
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Mike_Tyson-Wednesday-13:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 20,
+          "classPrice": "free",
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Thursday": {
+        "08:00": {
+          "id": "Mike_Tyson-Thursday-08:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 15,
+          "classPrice": "free",
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Mike_Tyson-Thursday-09:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 13,
+          "classPrice": 38,
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Mike_Tyson-Thursday-10:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": "free",
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Mike_Tyson-Thursday-11:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": "free",
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Mike_Tyson-Thursday-12:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": "free",
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Mike_Tyson-Thursday-13:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 15,
+          "classPrice": 27,
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Friday": {
+        "08:00": {
+          "id": "Mike_Tyson-Friday-08:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": 42,
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Mike_Tyson-Friday-09:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 11,
+          "classPrice": 38,
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Mike_Tyson-Friday-10:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 18,
+          "classPrice": 38,
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Mike_Tyson-Friday-11:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": 19,
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Mike_Tyson-Friday-12:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": 31,
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Mike_Tyson-Friday-13:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 20,
+          "classPrice": 49,
+          "start": "13:00",
+          "end": "13:59"
+        }
+      }
+    }
+  },
+  {
+    "trainerName": "Anna Cruz",
+    "trainerSchedule": {
+      "Monday": {
+        "08:00": {
+          "id": "Anna_Cruz-Monday-08:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 11,
+          "classPrice": 23,
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Anna_Cruz-Monday-09:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 19,
+          "classPrice": 41,
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Anna_Cruz-Monday-10:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 10,
+          "classPrice": 49,
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Anna_Cruz-Monday-11:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 18,
+          "classPrice": "free",
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Anna_Cruz-Monday-12:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": 44,
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Anna_Cruz-Monday-13:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 17,
+          "classPrice": "free",
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Tuesday": {
+        "08:00": {
+          "id": "Anna_Cruz-Tuesday-08:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 19,
+          "classPrice": "free",
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Anna_Cruz-Tuesday-09:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 16,
+          "classPrice": 29,
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Anna_Cruz-Tuesday-10:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 10,
+          "classPrice": 48,
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Anna_Cruz-Tuesday-11:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": 25,
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Anna_Cruz-Tuesday-12:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": "free",
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Anna_Cruz-Tuesday-13:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 10,
+          "classPrice": 33,
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Wednesday": {
+        "08:00": {
+          "id": "Anna_Cruz-Wednesday-08:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 10,
+          "classPrice": 17,
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Anna_Cruz-Wednesday-09:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 13,
+          "classPrice": 15,
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Anna_Cruz-Wednesday-10:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 15,
+          "classPrice": "free",
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Anna_Cruz-Wednesday-11:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 11,
+          "classPrice": 24,
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Anna_Cruz-Wednesday-12:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": "free",
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Anna_Cruz-Wednesday-13:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": "free",
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Thursday": {
+        "08:00": {
+          "id": "Anna_Cruz-Thursday-08:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 18,
+          "classPrice": 50,
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Anna_Cruz-Thursday-09:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": "free",
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Anna_Cruz-Thursday-10:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 13,
+          "classPrice": 16,
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Anna_Cruz-Thursday-11:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 17,
+          "classPrice": "free",
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Anna_Cruz-Thursday-12:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 16,
+          "classPrice": 30,
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Anna_Cruz-Thursday-13:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 18,
+          "classPrice": 31,
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Friday": {
+        "08:00": {
+          "id": "Anna_Cruz-Friday-08:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 15,
+          "classPrice": "free",
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Anna_Cruz-Friday-09:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 11,
+          "classPrice": 37,
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Anna_Cruz-Friday-10:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 12,
+          "classPrice": "free",
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Anna_Cruz-Friday-11:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 11,
+          "classPrice": 16,
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Anna_Cruz-Friday-12:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 14,
+          "classPrice": "free",
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Anna_Cruz-Friday-13:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": 23,
+          "start": "13:00",
+          "end": "13:59"
+        }
+      }
+    }
+  },
+  {
+    "trainerName": "James Woods",
+    "trainerSchedule": {
+      "Saturday": {
+        "14:00": {
+          "id": "James_Woods-Saturday-14:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 19,
+          "classPrice": "free",
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "James_Woods-Saturday-15:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 20,
+          "classPrice": "free",
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "James_Woods-Saturday-16:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 16,
+          "classPrice": 47,
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "James_Woods-Saturday-17:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": "free",
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "James_Woods-Saturday-18:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 16,
+          "classPrice": 32,
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "James_Woods-Saturday-19:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 11,
+          "classPrice": "free",
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Sunday": {
+        "14:00": {
+          "id": "James_Woods-Sunday-14:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": 17,
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "James_Woods-Sunday-15:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 19,
+          "classPrice": "free",
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "James_Woods-Sunday-16:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": 24,
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "James_Woods-Sunday-17:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": 30,
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "James_Woods-Sunday-18:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": 18,
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "James_Woods-Sunday-19:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 14,
+          "classPrice": 19,
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Monday": {
+        "14:00": {
+          "id": "James_Woods-Monday-14:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": "free",
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "James_Woods-Monday-15:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 16,
+          "classPrice": 26,
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "James_Woods-Monday-16:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": 18,
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "James_Woods-Monday-17:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 20,
+          "classPrice": "free",
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "James_Woods-Monday-18:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 19,
+          "classPrice": "free",
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "James_Woods-Monday-19:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": 48,
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Tuesday": {
+        "14:00": {
+          "id": "James_Woods-Tuesday-14:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": 50,
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "James_Woods-Tuesday-15:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": 30,
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "James_Woods-Tuesday-16:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 17,
+          "classPrice": 24,
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "James_Woods-Tuesday-17:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": "free",
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "James_Woods-Tuesday-18:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": 21,
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "James_Woods-Tuesday-19:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": 47,
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Wednesday": {
+        "14:00": {
+          "id": "James_Woods-Wednesday-14:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 16,
+          "classPrice": 15,
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "James_Woods-Wednesday-15:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 17,
+          "classPrice": "free",
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "James_Woods-Wednesday-16:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": "free",
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "James_Woods-Wednesday-17:00",
+          "classType": "Outdoor Class",
+          "participant": {},
+          "participantLimit": 10,
+          "classPrice": 23,
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "James_Woods-Wednesday-18:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": 21,
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "James_Woods-Wednesday-19:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": "free",
+          "start": "19:00",
+          "end": "19:59"
+        }
+      }
+    }
+  },
+  {
+    "trainerName": "Chris Knight",
+    "trainerSchedule": {
+      "Saturday": {
+        "14:00": {
+          "id": "Chris_Knight-Saturday-14:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 12,
+          "classPrice": "free",
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Chris_Knight-Saturday-15:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 20,
+          "classPrice": "free",
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Chris_Knight-Saturday-16:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": 42,
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Chris_Knight-Saturday-17:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": "free",
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Chris_Knight-Saturday-18:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": "free",
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Chris_Knight-Saturday-19:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": "free",
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Sunday": {
+        "14:00": {
+          "id": "Chris_Knight-Sunday-14:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": 20,
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Chris_Knight-Sunday-15:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": 43,
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Chris_Knight-Sunday-16:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": 43,
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Chris_Knight-Sunday-17:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 20,
+          "classPrice": 26,
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Chris_Knight-Sunday-18:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 14,
+          "classPrice": 11,
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Chris_Knight-Sunday-19:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": 43,
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Monday": {
+        "14:00": {
+          "id": "Chris_Knight-Monday-14:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": "free",
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Chris_Knight-Monday-15:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": "free",
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Chris_Knight-Monday-16:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 12,
+          "classPrice": "free",
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Chris_Knight-Monday-17:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": 25,
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Chris_Knight-Monday-18:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": 31,
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Chris_Knight-Monday-19:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 16,
+          "classPrice": "free",
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Tuesday": {
+        "14:00": {
+          "id": "Chris_Knight-Tuesday-14:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 16,
+          "classPrice": "free",
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Chris_Knight-Tuesday-15:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 16,
+          "classPrice": "free",
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Chris_Knight-Tuesday-16:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 18,
+          "classPrice": 16,
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Chris_Knight-Tuesday-17:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": 43,
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Chris_Knight-Tuesday-18:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": "free",
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Chris_Knight-Tuesday-19:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 12,
+          "classPrice": "free",
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Wednesday": {
+        "14:00": {
+          "id": "Chris_Knight-Wednesday-14:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": "free",
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Chris_Knight-Wednesday-15:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": 15,
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Chris_Knight-Wednesday-16:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": 40,
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Chris_Knight-Wednesday-17:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 16,
+          "classPrice": 33,
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Chris_Knight-Wednesday-18:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 16,
+          "classPrice": "free",
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Chris_Knight-Wednesday-19:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 10,
+          "classPrice": "free",
+          "start": "19:00",
+          "end": "19:59"
+        }
+      }
+    }
+  }
+]

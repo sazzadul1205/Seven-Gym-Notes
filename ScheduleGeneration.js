@@ -91,55 +91,47 @@ function generateTrainerSchedule(trainer, startTime, endTime) {
 // ----- Example usage with multiple trainers -----
 const trainers = [
   {
-    name: "Natalie Evans",
-    specialization: "Zumba Instructor",
+    name: "Isabella Parker",
+    specialization: "Stretching Instructor",
     availableDays: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
-    classTypes: [
-      "Outdoor Class",
-      "Private Session",
-      "Group Class",
-      "Semi-Private Training",
-      "Open Gym Class",
-    ],
-  },
-  {
-    name: "Dylan Martin",
-    specialization: "Zumba Instructor",
-    availableDays: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
-    classTypes: ["Outdoor Class", "Partner Workout"],
-  },
-  {
-    name: "Rachel Clark",
-    specialization: "Zumba Instructor",
-    availableDays: ["Monday", "Tuesday", "Wednesday", "Saturday", "Sunday"],
-    classTypes: [
-      "Private Session",
-      "Open Gym Class",
-      "Drop-In Class",
-      "Semi-Private Training",
-    ],
-  },
-  {
-    name: "Liam Davis",
-    specialization: "Zumba Instructor",
-    availableDays: [
-      "Monday",
-      "Tuesday",
-      "Wednesday",
-      "Thursday",
-      "Friday",
-      "Saturday",
-      "Sunday",
-    ],
     classTypes: [
       "Workshops",
-      "Private Session",
+      "Semi-Private Training",
       "Partner Workout",
       "Drop-In Class",
+      "Outdoor Class",
+    ],
+  },
+  {
+    name: "Alexander Bell",
+    specialization: "Stretching Instructor",
+    availableDays: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    classTypes: ["Group Class", "Open Gym Class"],
+  },
+  {
+    name: "Lily Green",
+    specialization: "Stretching Instructor",
+    availableDays: ["Sunday", "Saturday", "Monday", "Tuesday", "Wednesday"],
+    classTypes: [
+      "Partner Workout",
+      "Private Session",
+      "Outdoor Class",
+      "Workshops",
+    ],
+  },
+  {
+    name: "Ethan Wilson",
+    specialization: "Stretching Instructor",
+    availableDays: ["Sunday", "Saturday", "Monday", "Tuesday", "Wednesday"],
+    classTypes: [
+      "Open Gym Class",
+      "Online Class",
+      "Private Session",
+      "Partner Workout",
+      "Outdoor Class",
     ],
   },
 ];
-
 // Separate trainers into two groups based on time slots
 const group1 = trainers.slice(0, 2); // Trainers for 08:00 AM to 01:00 PM
 const group2 = trainers.slice(2, 4); // Trainers for 02:00 PM to 07:00 PM

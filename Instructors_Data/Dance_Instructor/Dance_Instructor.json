@@ -1,0 +1,1142 @@
+[
+  {
+    "trainerName": "Thomas King",
+    "trainerSchedule": {
+      "Monday": {
+        "08:00": {
+          "id": "Thomas_King-Monday-08:00",
+          "classType": "Private Training",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": "free",
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Thomas_King-Monday-09:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 12,
+          "classPrice": 45,
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Thomas_King-Monday-10:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 11,
+          "classPrice": 30,
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Thomas_King-Monday-11:00",
+          "classType": "Private Training",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": 25,
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Thomas_King-Monday-12:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 10,
+          "classPrice": 19,
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Thomas_King-Monday-13:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 17,
+          "classPrice": 47,
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Tuesday": {
+        "08:00": {
+          "id": "Thomas_King-Tuesday-08:00",
+          "classType": "Private Training",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": 16,
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Thomas_King-Tuesday-09:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 19,
+          "classPrice": "free",
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Thomas_King-Tuesday-10:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 18,
+          "classPrice": 36,
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Thomas_King-Tuesday-11:00",
+          "classType": "Private Training",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": 18,
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Thomas_King-Tuesday-12:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 20,
+          "classPrice": "free",
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Thomas_King-Tuesday-13:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 14,
+          "classPrice": 32,
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Wednesday": {
+        "08:00": {
+          "id": "Thomas_King-Wednesday-08:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 14,
+          "classPrice": "free",
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Thomas_King-Wednesday-09:00",
+          "classType": "Private Training",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": 25,
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Thomas_King-Wednesday-10:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 18,
+          "classPrice": "free",
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Thomas_King-Wednesday-11:00",
+          "classType": "Private Training",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": "free",
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Thomas_King-Wednesday-12:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 20,
+          "classPrice": 20,
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Thomas_King-Wednesday-13:00",
+          "classType": "Private Training",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": "free",
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Thursday": {
+        "08:00": {
+          "id": "Thomas_King-Thursday-08:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 12,
+          "classPrice": "free",
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Thomas_King-Thursday-09:00",
+          "classType": "Private Training",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": "free",
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Thomas_King-Thursday-10:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 14,
+          "classPrice": "free",
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Thomas_King-Thursday-11:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 17,
+          "classPrice": 34,
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Thomas_King-Thursday-12:00",
+          "classType": "Private Training",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": 44,
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Thomas_King-Thursday-13:00",
+          "classType": "Private Training",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": 28,
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Friday": {
+        "08:00": {
+          "id": "Thomas_King-Friday-08:00",
+          "classType": "Private Training",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": 40,
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Thomas_King-Friday-09:00",
+          "classType": "Private Training",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": 29,
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Thomas_King-Friday-10:00",
+          "classType": "Private Training",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": "free",
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Thomas_King-Friday-11:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 20,
+          "classPrice": 44,
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Thomas_King-Friday-12:00",
+          "classType": "Private Training",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": "free",
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Thomas_King-Friday-13:00",
+          "classType": "Private Training",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": "free",
+          "start": "13:00",
+          "end": "13:59"
+        }
+      }
+    }
+  },
+  {
+    "trainerName": "Ryan Hall",
+    "trainerSchedule": {
+      "Monday": {
+        "08:00": {
+          "id": "Ryan_Hall-Monday-08:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 19,
+          "classPrice": "free",
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Ryan_Hall-Monday-09:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 12,
+          "classPrice": 31,
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Ryan_Hall-Monday-10:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 18,
+          "classPrice": 44,
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Ryan_Hall-Monday-11:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 20,
+          "classPrice": "free",
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Ryan_Hall-Monday-12:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 19,
+          "classPrice": 44,
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Ryan_Hall-Monday-13:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 10,
+          "classPrice": "free",
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Tuesday": {
+        "08:00": {
+          "id": "Ryan_Hall-Tuesday-08:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 19,
+          "classPrice": 16,
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Ryan_Hall-Tuesday-09:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 17,
+          "classPrice": "free",
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Ryan_Hall-Tuesday-10:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 16,
+          "classPrice": "free",
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Ryan_Hall-Tuesday-11:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 13,
+          "classPrice": "free",
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Ryan_Hall-Tuesday-12:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 13,
+          "classPrice": "free",
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Ryan_Hall-Tuesday-13:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 11,
+          "classPrice": 39,
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Wednesday": {
+        "08:00": {
+          "id": "Ryan_Hall-Wednesday-08:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 12,
+          "classPrice": "free",
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Ryan_Hall-Wednesday-09:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 20,
+          "classPrice": "free",
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Ryan_Hall-Wednesday-10:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 13,
+          "classPrice": 50,
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Ryan_Hall-Wednesday-11:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 18,
+          "classPrice": "free",
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Ryan_Hall-Wednesday-12:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 15,
+          "classPrice": "free",
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Ryan_Hall-Wednesday-13:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 12,
+          "classPrice": "free",
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Thursday": {
+        "08:00": {
+          "id": "Ryan_Hall-Thursday-08:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 11,
+          "classPrice": 19,
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Ryan_Hall-Thursday-09:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 12,
+          "classPrice": 29,
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Ryan_Hall-Thursday-10:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 14,
+          "classPrice": 38,
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Ryan_Hall-Thursday-11:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 20,
+          "classPrice": "free",
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Ryan_Hall-Thursday-12:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 10,
+          "classPrice": 12,
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Ryan_Hall-Thursday-13:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 16,
+          "classPrice": 17,
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Friday": {
+        "08:00": {
+          "id": "Ryan_Hall-Friday-08:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 12,
+          "classPrice": 44,
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Ryan_Hall-Friday-09:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 11,
+          "classPrice": 40,
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Ryan_Hall-Friday-10:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 12,
+          "classPrice": "free",
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Ryan_Hall-Friday-11:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 14,
+          "classPrice": 28,
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Ryan_Hall-Friday-12:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 18,
+          "classPrice": "free",
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Ryan_Hall-Friday-13:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 20,
+          "classPrice": "free",
+          "start": "13:00",
+          "end": "13:59"
+        }
+      }
+    }
+  },
+  {
+    "trainerName": "Sophia Carter",
+    "trainerSchedule": {
+      "Saturday": {
+        "14:00": {
+          "id": "Sophia_Carter-Saturday-14:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 14,
+          "classPrice": "free",
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Sophia_Carter-Saturday-15:00",
+          "classType": "Private Sessions",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": "free",
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Sophia_Carter-Saturday-16:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 14,
+          "classPrice": "free",
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Sophia_Carter-Saturday-17:00",
+          "classType": "Private Sessions",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": "free",
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Sophia_Carter-Saturday-18:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 17,
+          "classPrice": "free",
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Sophia_Carter-Saturday-19:00",
+          "classType": "Private Sessions",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": "free",
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Sunday": {
+        "14:00": {
+          "id": "Sophia_Carter-Sunday-14:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 11,
+          "classPrice": 30,
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Sophia_Carter-Sunday-15:00",
+          "classType": "Private Sessions",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": "free",
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Sophia_Carter-Sunday-16:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 14,
+          "classPrice": "free",
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Sophia_Carter-Sunday-17:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 13,
+          "classPrice": "free",
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Sophia_Carter-Sunday-18:00",
+          "classType": "Private Sessions",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": "free",
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Sophia_Carter-Sunday-19:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 17,
+          "classPrice": "free",
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Monday": {
+        "14:00": {
+          "id": "Sophia_Carter-Monday-14:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 12,
+          "classPrice": "free",
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Sophia_Carter-Monday-15:00",
+          "classType": "Private Sessions",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": 10,
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Sophia_Carter-Monday-16:00",
+          "classType": "Private Sessions",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": "free",
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Sophia_Carter-Monday-17:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 16,
+          "classPrice": 17,
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Sophia_Carter-Monday-18:00",
+          "classType": "Private Sessions",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": "free",
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Sophia_Carter-Monday-19:00",
+          "classType": "Private Sessions",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": "free",
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Tuesday": {
+        "14:00": {
+          "id": "Sophia_Carter-Tuesday-14:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 16,
+          "classPrice": "free",
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Sophia_Carter-Tuesday-15:00",
+          "classType": "Private Sessions",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": 12,
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Sophia_Carter-Tuesday-16:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 10,
+          "classPrice": 18,
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Sophia_Carter-Tuesday-17:00",
+          "classType": "Private Sessions",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": "free",
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Sophia_Carter-Tuesday-18:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 19,
+          "classPrice": 37,
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Sophia_Carter-Tuesday-19:00",
+          "classType": "Private Sessions",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": 22,
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Wednesday": {
+        "14:00": {
+          "id": "Sophia_Carter-Wednesday-14:00",
+          "classType": "Private Sessions",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": "free",
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Sophia_Carter-Wednesday-15:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 14,
+          "classPrice": "free",
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Sophia_Carter-Wednesday-16:00",
+          "classType": "Private Sessions",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": 46,
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Sophia_Carter-Wednesday-17:00",
+          "classType": "Private Sessions",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": 38,
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Sophia_Carter-Wednesday-18:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 15,
+          "classPrice": "free",
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Sophia_Carter-Wednesday-19:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 17,
+          "classPrice": 45,
+          "start": "19:00",
+          "end": "19:59"
+        }
+      }
+    }
+  },
+  {
+    "trainerName": "Olivia Taylor",
+    "trainerSchedule": {
+      "Wednesday": {
+        "14:00": {
+          "id": "Olivia_Taylor-Wednesday-14:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": "free",
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Olivia_Taylor-Wednesday-15:00",
+          "classType": "Private Training",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": 48,
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Olivia_Taylor-Wednesday-16:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 17,
+          "classPrice": 44,
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Olivia_Taylor-Wednesday-17:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 19,
+          "classPrice": "free",
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Olivia_Taylor-Wednesday-18:00",
+          "classType": "Private Training",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": "free",
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Olivia_Taylor-Wednesday-19:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 15,
+          "classPrice": "free",
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Thursday": {
+        "14:00": {
+          "id": "Olivia_Taylor-Thursday-14:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 18,
+          "classPrice": "free",
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Olivia_Taylor-Thursday-15:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 20,
+          "classPrice": "free",
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Olivia_Taylor-Thursday-16:00",
+          "classType": "Private Training",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": "free",
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Olivia_Taylor-Thursday-17:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": "free",
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Olivia_Taylor-Thursday-18:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 12,
+          "classPrice": 45,
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Olivia_Taylor-Thursday-19:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 15,
+          "classPrice": 22,
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Friday": {
+        "14:00": {
+          "id": "Olivia_Taylor-Friday-14:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 16,
+          "classPrice": "free",
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Olivia_Taylor-Friday-15:00",
+          "classType": "Private Training",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": 15,
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Olivia_Taylor-Friday-16:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 17,
+          "classPrice": 48,
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Olivia_Taylor-Friday-17:00",
+          "classType": "Private Training",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": 22,
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Olivia_Taylor-Friday-18:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 14,
+          "classPrice": "free",
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Olivia_Taylor-Friday-19:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 19,
+          "classPrice": 42,
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Saturday": {
+        "14:00": {
+          "id": "Olivia_Taylor-Saturday-14:00",
+          "classType": "Private Training",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": "free",
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Olivia_Taylor-Saturday-15:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 20,
+          "classPrice": 10,
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Olivia_Taylor-Saturday-16:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 15,
+          "classPrice": "free",
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Olivia_Taylor-Saturday-17:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 18,
+          "classPrice": "free",
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Olivia_Taylor-Saturday-18:00",
+          "classType": "Private Training",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": 25,
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Olivia_Taylor-Saturday-19:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 19,
+          "classPrice": "free",
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Sunday": {
+        "14:00": {
+          "id": "Olivia_Taylor-Sunday-14:00",
+          "classType": "Group Classes",
+          "participant": {},
+          "participantLimit": 19,
+          "classPrice": 42,
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Olivia_Taylor-Sunday-15:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 13,
+          "classPrice": "free",
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Olivia_Taylor-Sunday-16:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 13,
+          "classPrice": "free",
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Olivia_Taylor-Sunday-17:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": "free",
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Olivia_Taylor-Sunday-18:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 11,
+          "classPrice": "free",
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Olivia_Taylor-Sunday-19:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 11,
+          "classPrice": 17,
+          "start": "19:00",
+          "end": "19:59"
+        }
+      }
+    }
+  }
+]

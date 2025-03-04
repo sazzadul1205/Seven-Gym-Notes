@@ -1,0 +1,1142 @@
+[
+  {
+    "trainerName": "Alice Johnson",
+    "trainerSchedule": {
+      "Monday": {
+        "08:00": {
+          "id": "Alice_Johnson-Monday-08:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 14,
+          "classPrice": "free",
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Alice_Johnson-Monday-09:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 12,
+          "classPrice": "free",
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Alice_Johnson-Monday-10:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": "free",
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Alice_Johnson-Monday-11:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 18,
+          "classPrice": "free",
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Alice_Johnson-Monday-12:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 11,
+          "classPrice": 36,
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Alice_Johnson-Monday-13:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": "free",
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Tuesday": {
+        "08:00": {
+          "id": "Alice_Johnson-Tuesday-08:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 20,
+          "classPrice": "free",
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Alice_Johnson-Tuesday-09:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 16,
+          "classPrice": "free",
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Alice_Johnson-Tuesday-10:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": "free",
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Alice_Johnson-Tuesday-11:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 17,
+          "classPrice": "free",
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Alice_Johnson-Tuesday-12:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": "free",
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Alice_Johnson-Tuesday-13:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 18,
+          "classPrice": "free",
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Wednesday": {
+        "08:00": {
+          "id": "Alice_Johnson-Wednesday-08:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 11,
+          "classPrice": "free",
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Alice_Johnson-Wednesday-09:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": 29,
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Alice_Johnson-Wednesday-10:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": 33,
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Alice_Johnson-Wednesday-11:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 18,
+          "classPrice": 36,
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Alice_Johnson-Wednesday-12:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 17,
+          "classPrice": 13,
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Alice_Johnson-Wednesday-13:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 18,
+          "classPrice": "free",
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Thursday": {
+        "08:00": {
+          "id": "Alice_Johnson-Thursday-08:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 13,
+          "classPrice": "free",
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Alice_Johnson-Thursday-09:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": "free",
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Alice_Johnson-Thursday-10:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": 24,
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Alice_Johnson-Thursday-11:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 15,
+          "classPrice": 30,
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Alice_Johnson-Thursday-12:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": "free",
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Alice_Johnson-Thursday-13:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 19,
+          "classPrice": "free",
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Friday": {
+        "08:00": {
+          "id": "Alice_Johnson-Friday-08:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": 31,
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Alice_Johnson-Friday-09:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": 24,
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Alice_Johnson-Friday-10:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": 23,
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Alice_Johnson-Friday-11:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 11,
+          "classPrice": "free",
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Alice_Johnson-Friday-12:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 14,
+          "classPrice": "free",
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Alice_Johnson-Friday-13:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": 40,
+          "start": "13:00",
+          "end": "13:59"
+        }
+      }
+    }
+  },
+  {
+    "trainerName": "Bob Smith",
+    "trainerSchedule": {
+      "Monday": {
+        "08:00": {
+          "id": "Bob_Smith-Monday-08:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": "free",
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Bob_Smith-Monday-09:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": 46,
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Bob_Smith-Monday-10:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": "free",
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Bob_Smith-Monday-11:00",
+          "classType": "Group Class",
+          "participant": {},
+          "participantLimit": 12,
+          "classPrice": 37,
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Bob_Smith-Monday-12:00",
+          "classType": "Group Class",
+          "participant": {},
+          "participantLimit": 15,
+          "classPrice": "free",
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Bob_Smith-Monday-13:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": 45,
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Tuesday": {
+        "08:00": {
+          "id": "Bob_Smith-Tuesday-08:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": 22,
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Bob_Smith-Tuesday-09:00",
+          "classType": "Group Class",
+          "participant": {},
+          "participantLimit": 11,
+          "classPrice": 23,
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Bob_Smith-Tuesday-10:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": 25,
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Bob_Smith-Tuesday-11:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": "free",
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Bob_Smith-Tuesday-12:00",
+          "classType": "Group Class",
+          "participant": {},
+          "participantLimit": 10,
+          "classPrice": 23,
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Bob_Smith-Tuesday-13:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": "free",
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Wednesday": {
+        "08:00": {
+          "id": "Bob_Smith-Wednesday-08:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": "free",
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Bob_Smith-Wednesday-09:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": "free",
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Bob_Smith-Wednesday-10:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": "free",
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Bob_Smith-Wednesday-11:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": "free",
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Bob_Smith-Wednesday-12:00",
+          "classType": "Group Class",
+          "participant": {},
+          "participantLimit": 12,
+          "classPrice": "free",
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Bob_Smith-Wednesday-13:00",
+          "classType": "Group Class",
+          "participant": {},
+          "participantLimit": 11,
+          "classPrice": 46,
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Thursday": {
+        "08:00": {
+          "id": "Bob_Smith-Thursday-08:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": 29,
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Bob_Smith-Thursday-09:00",
+          "classType": "Group Class",
+          "participant": {},
+          "participantLimit": 12,
+          "classPrice": 31,
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Bob_Smith-Thursday-10:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": "free",
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Bob_Smith-Thursday-11:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": 12,
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Bob_Smith-Thursday-12:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": 41,
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Bob_Smith-Thursday-13:00",
+          "classType": "Group Class",
+          "participant": {},
+          "participantLimit": 10,
+          "classPrice": 30,
+          "start": "13:00",
+          "end": "13:59"
+        }
+      },
+      "Friday": {
+        "08:00": {
+          "id": "Bob_Smith-Friday-08:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 3,
+          "classPrice": 32,
+          "start": "08:00",
+          "end": "08:59"
+        },
+        "09:00": {
+          "id": "Bob_Smith-Friday-09:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": "free",
+          "start": "09:00",
+          "end": "09:59"
+        },
+        "10:00": {
+          "id": "Bob_Smith-Friday-10:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": "free",
+          "start": "10:00",
+          "end": "10:59"
+        },
+        "11:00": {
+          "id": "Bob_Smith-Friday-11:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": 16,
+          "start": "11:00",
+          "end": "11:59"
+        },
+        "12:00": {
+          "id": "Bob_Smith-Friday-12:00",
+          "classType": "Group Class",
+          "participant": {},
+          "participantLimit": 17,
+          "classPrice": "free",
+          "start": "12:00",
+          "end": "12:59"
+        },
+        "13:00": {
+          "id": "Bob_Smith-Friday-13:00",
+          "classType": "Semi-Private Training",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": "free",
+          "start": "13:00",
+          "end": "13:59"
+        }
+      }
+    }
+  },
+  {
+    "trainerName": "Carla Lee",
+    "trainerSchedule": {
+      "Monday": {
+        "14:00": {
+          "id": "Carla_Lee-Monday-14:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 16,
+          "classPrice": "free",
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Carla_Lee-Monday-15:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": "free",
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Carla_Lee-Monday-16:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 17,
+          "classPrice": "free",
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Carla_Lee-Monday-17:00",
+          "classType": "Partner Workout",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": 35,
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Carla_Lee-Monday-18:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 16,
+          "classPrice": "free",
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Carla_Lee-Monday-19:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": "free",
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Wednesday": {
+        "14:00": {
+          "id": "Carla_Lee-Wednesday-14:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 17,
+          "classPrice": 39,
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Carla_Lee-Wednesday-15:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": "free",
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Carla_Lee-Wednesday-16:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 13,
+          "classPrice": "free",
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Carla_Lee-Wednesday-17:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": "free",
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Carla_Lee-Wednesday-18:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": 29,
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Carla_Lee-Wednesday-19:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 19,
+          "classPrice": "free",
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Friday": {
+        "14:00": {
+          "id": "Carla_Lee-Friday-14:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 5,
+          "classPrice": 34,
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Carla_Lee-Friday-15:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 14,
+          "classPrice": "free",
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Carla_Lee-Friday-16:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 2,
+          "classPrice": "free",
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Carla_Lee-Friday-17:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": "free",
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Carla_Lee-Friday-18:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": 43,
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Carla_Lee-Friday-19:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 10,
+          "classPrice": 46,
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Saturday": {
+        "14:00": {
+          "id": "Carla_Lee-Saturday-14:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 11,
+          "classPrice": 34,
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Carla_Lee-Saturday-15:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 12,
+          "classPrice": 30,
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Carla_Lee-Saturday-16:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": "free",
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Carla_Lee-Saturday-17:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 10,
+          "classPrice": "free",
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Carla_Lee-Saturday-18:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": 31,
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Carla_Lee-Saturday-19:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 19,
+          "classPrice": "free",
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Sunday": {
+        "14:00": {
+          "id": "Carla_Lee-Sunday-14:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 11,
+          "classPrice": 17,
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Carla_Lee-Sunday-15:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": 23,
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Carla_Lee-Sunday-16:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 20,
+          "classPrice": "free",
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Carla_Lee-Sunday-17:00",
+          "classType": "Private Session",
+          "participant": {},
+          "participantLimit": 4,
+          "classPrice": 16,
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Carla_Lee-Sunday-18:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 20,
+          "classPrice": 21,
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Carla_Lee-Sunday-19:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": "free",
+          "start": "19:00",
+          "end": "19:59"
+        }
+      }
+    }
+  },
+  {
+    "trainerName": "Ethan Gray",
+    "trainerSchedule": {
+      "Saturday": {
+        "14:00": {
+          "id": "Ethan_Gray-Saturday-14:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 11,
+          "classPrice": 32,
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Ethan_Gray-Saturday-15:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 20,
+          "classPrice": "free",
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Ethan_Gray-Saturday-16:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 11,
+          "classPrice": 10,
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Ethan_Gray-Saturday-17:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 19,
+          "classPrice": 14,
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Ethan_Gray-Saturday-18:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": "free",
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Ethan_Gray-Saturday-19:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 11,
+          "classPrice": "free",
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Sunday": {
+        "14:00": {
+          "id": "Ethan_Gray-Sunday-14:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 17,
+          "classPrice": 30,
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Ethan_Gray-Sunday-15:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 16,
+          "classPrice": 19,
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Ethan_Gray-Sunday-16:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 18,
+          "classPrice": "free",
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Ethan_Gray-Sunday-17:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 11,
+          "classPrice": "free",
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Ethan_Gray-Sunday-18:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 18,
+          "classPrice": 35,
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Ethan_Gray-Sunday-19:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": "free",
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Monday": {
+        "14:00": {
+          "id": "Ethan_Gray-Monday-14:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 16,
+          "classPrice": 22,
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Ethan_Gray-Monday-15:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": 40,
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Ethan_Gray-Monday-16:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 17,
+          "classPrice": 39,
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Ethan_Gray-Monday-17:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 10,
+          "classPrice": 10,
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Ethan_Gray-Monday-18:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 15,
+          "classPrice": 32,
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Ethan_Gray-Monday-19:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 10,
+          "classPrice": 13,
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Tuesday": {
+        "14:00": {
+          "id": "Ethan_Gray-Tuesday-14:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 11,
+          "classPrice": "free",
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Ethan_Gray-Tuesday-15:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": 38,
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Ethan_Gray-Tuesday-16:00",
+          "classType": "Workshops",
+          "participant": {},
+          "participantLimit": 20,
+          "classPrice": "free",
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Ethan_Gray-Tuesday-17:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": "free",
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Ethan_Gray-Tuesday-18:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 12,
+          "classPrice": "free",
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Ethan_Gray-Tuesday-19:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 14,
+          "classPrice": 21,
+          "start": "19:00",
+          "end": "19:59"
+        }
+      },
+      "Thursday": {
+        "14:00": {
+          "id": "Ethan_Gray-Thursday-14:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": 19,
+          "start": "14:00",
+          "end": "14:59"
+        },
+        "15:00": {
+          "id": "Ethan_Gray-Thursday-15:00",
+          "classType": "Open Gym Class",
+          "participant": {},
+          "participantLimit": 10,
+          "classPrice": "free",
+          "start": "15:00",
+          "end": "15:59"
+        },
+        "16:00": {
+          "id": "Ethan_Gray-Thursday-16:00",
+          "classType": "Drop-In Class",
+          "participant": {},
+          "participantLimit": 16,
+          "classPrice": "free",
+          "start": "16:00",
+          "end": "16:59"
+        },
+        "17:00": {
+          "id": "Ethan_Gray-Thursday-17:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": 31,
+          "start": "17:00",
+          "end": "17:59"
+        },
+        "18:00": {
+          "id": "Ethan_Gray-Thursday-18:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": "free",
+          "start": "18:00",
+          "end": "18:59"
+        },
+        "19:00": {
+          "id": "Ethan_Gray-Thursday-19:00",
+          "classType": "Online Class",
+          "participant": {},
+          "participantLimit": "No limit",
+          "classPrice": "free",
+          "start": "19:00",
+          "end": "19:59"
+        }
+      }
+    }
+  }
+]
