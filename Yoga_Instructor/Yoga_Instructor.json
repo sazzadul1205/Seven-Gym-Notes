@@ -1,0 +1,1142 @@
+[
+    {
+      "trainerName": "Sophia Miller",
+      "trainerSchedule": {
+        "Monday": {
+          "08:00": {
+            "id": "Sophia_Miller-Monday-08:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": 12,
+            "start": "08:00",
+            "end": "08:59"
+          },
+          "09:00": {
+            "id": "Sophia_Miller-Monday-09:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 2,
+            "classPrice": "free",
+            "start": "09:00",
+            "end": "09:59"
+          },
+          "10:00": {
+            "id": "Sophia_Miller-Monday-10:00",
+            "classType": "Drop-In Class",
+            "participant": {},
+            "participantLimit": 20,
+            "classPrice": 33,
+            "start": "10:00",
+            "end": "10:59"
+          },
+          "11:00": {
+            "id": "Sophia_Miller-Monday-11:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": "free",
+            "start": "11:00",
+            "end": "11:59"
+          },
+          "12:00": {
+            "id": "Sophia_Miller-Monday-12:00",
+            "classType": "Drop-In Class",
+            "participant": {},
+            "participantLimit": 18,
+            "classPrice": 47,
+            "start": "12:00",
+            "end": "12:59"
+          },
+          "13:00": {
+            "id": "Sophia_Miller-Monday-13:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 12,
+            "classPrice": 34,
+            "start": "13:00",
+            "end": "13:59"
+          }
+        },
+        "Tuesday": {
+          "08:00": {
+            "id": "Sophia_Miller-Tuesday-08:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 14,
+            "classPrice": 39,
+            "start": "08:00",
+            "end": "08:59"
+          },
+          "09:00": {
+            "id": "Sophia_Miller-Tuesday-09:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 3,
+            "classPrice": 32,
+            "start": "09:00",
+            "end": "09:59"
+          },
+          "10:00": {
+            "id": "Sophia_Miller-Tuesday-10:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": "free",
+            "start": "10:00",
+            "end": "10:59"
+          },
+          "11:00": {
+            "id": "Sophia_Miller-Tuesday-11:00",
+            "classType": "Open Gym Class",
+            "participant": {},
+            "participantLimit": 16,
+            "classPrice": "free",
+            "start": "11:00",
+            "end": "11:59"
+          },
+          "12:00": {
+            "id": "Sophia_Miller-Tuesday-12:00",
+            "classType": "Drop-In Class",
+            "participant": {},
+            "participantLimit": 13,
+            "classPrice": 29,
+            "start": "12:00",
+            "end": "12:59"
+          },
+          "13:00": {
+            "id": "Sophia_Miller-Tuesday-13:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": 11,
+            "start": "13:00",
+            "end": "13:59"
+          }
+        },
+        "Wednesday": {
+          "08:00": {
+            "id": "Sophia_Miller-Wednesday-08:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": "free",
+            "start": "08:00",
+            "end": "08:59"
+          },
+          "09:00": {
+            "id": "Sophia_Miller-Wednesday-09:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": 44,
+            "start": "09:00",
+            "end": "09:59"
+          },
+          "10:00": {
+            "id": "Sophia_Miller-Wednesday-10:00",
+            "classType": "Drop-In Class",
+            "participant": {},
+            "participantLimit": 18,
+            "classPrice": "free",
+            "start": "10:00",
+            "end": "10:59"
+          },
+          "11:00": {
+            "id": "Sophia_Miller-Wednesday-11:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 14,
+            "classPrice": 29,
+            "start": "11:00",
+            "end": "11:59"
+          },
+          "12:00": {
+            "id": "Sophia_Miller-Wednesday-12:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 2,
+            "classPrice": "free",
+            "start": "12:00",
+            "end": "12:59"
+          },
+          "13:00": {
+            "id": "Sophia_Miller-Wednesday-13:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": 35,
+            "start": "13:00",
+            "end": "13:59"
+          }
+        },
+        "Thursday": {
+          "08:00": {
+            "id": "Sophia_Miller-Thursday-08:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 10,
+            "classPrice": 28,
+            "start": "08:00",
+            "end": "08:59"
+          },
+          "09:00": {
+            "id": "Sophia_Miller-Thursday-09:00",
+            "classType": "Drop-In Class",
+            "participant": {},
+            "participantLimit": 16,
+            "classPrice": 39,
+            "start": "09:00",
+            "end": "09:59"
+          },
+          "10:00": {
+            "id": "Sophia_Miller-Thursday-10:00",
+            "classType": "Open Gym Class",
+            "participant": {},
+            "participantLimit": 17,
+            "classPrice": 37,
+            "start": "10:00",
+            "end": "10:59"
+          },
+          "11:00": {
+            "id": "Sophia_Miller-Thursday-11:00",
+            "classType": "Open Gym Class",
+            "participant": {},
+            "participantLimit": 17,
+            "classPrice": 23,
+            "start": "11:00",
+            "end": "11:59"
+          },
+          "12:00": {
+            "id": "Sophia_Miller-Thursday-12:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 3,
+            "classPrice": "free",
+            "start": "12:00",
+            "end": "12:59"
+          },
+          "13:00": {
+            "id": "Sophia_Miller-Thursday-13:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": 29,
+            "start": "13:00",
+            "end": "13:59"
+          }
+        },
+        "Friday": {
+          "08:00": {
+            "id": "Sophia_Miller-Friday-08:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 16,
+            "classPrice": "free",
+            "start": "08:00",
+            "end": "08:59"
+          },
+          "09:00": {
+            "id": "Sophia_Miller-Friday-09:00",
+            "classType": "Drop-In Class",
+            "participant": {},
+            "participantLimit": 17,
+            "classPrice": "free",
+            "start": "09:00",
+            "end": "09:59"
+          },
+          "10:00": {
+            "id": "Sophia_Miller-Friday-10:00",
+            "classType": "Open Gym Class",
+            "participant": {},
+            "participantLimit": 10,
+            "classPrice": "free",
+            "start": "10:00",
+            "end": "10:59"
+          },
+          "11:00": {
+            "id": "Sophia_Miller-Friday-11:00",
+            "classType": "Open Gym Class",
+            "participant": {},
+            "participantLimit": 14,
+            "classPrice": 35,
+            "start": "11:00",
+            "end": "11:59"
+          },
+          "12:00": {
+            "id": "Sophia_Miller-Friday-12:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 20,
+            "classPrice": 14,
+            "start": "12:00",
+            "end": "12:59"
+          },
+          "13:00": {
+            "id": "Sophia_Miller-Friday-13:00",
+            "classType": "Drop-In Class",
+            "participant": {},
+            "participantLimit": 20,
+            "classPrice": "free",
+            "start": "13:00",
+            "end": "13:59"
+          }
+        }
+      }
+    },
+    {
+      "trainerName": "Benjamin Harris",
+      "trainerSchedule": {
+        "Monday": {
+          "08:00": {
+            "id": "Benjamin_Harris-Monday-08:00",
+            "classType": "Semi-Private Training",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": 47,
+            "start": "08:00",
+            "end": "08:59"
+          },
+          "09:00": {
+            "id": "Benjamin_Harris-Monday-09:00",
+            "classType": "Semi-Private Training",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": 50,
+            "start": "09:00",
+            "end": "09:59"
+          },
+          "10:00": {
+            "id": "Benjamin_Harris-Monday-10:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 16,
+            "classPrice": 33,
+            "start": "10:00",
+            "end": "10:59"
+          },
+          "11:00": {
+            "id": "Benjamin_Harris-Monday-11:00",
+            "classType": "Semi-Private Training",
+            "participant": {},
+            "participantLimit": 3,
+            "classPrice": 35,
+            "start": "11:00",
+            "end": "11:59"
+          },
+          "12:00": {
+            "id": "Benjamin_Harris-Monday-12:00",
+            "classType": "Semi-Private Training",
+            "participant": {},
+            "participantLimit": 3,
+            "classPrice": 33,
+            "start": "12:00",
+            "end": "12:59"
+          },
+          "13:00": {
+            "id": "Benjamin_Harris-Monday-13:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 14,
+            "classPrice": 15,
+            "start": "13:00",
+            "end": "13:59"
+          }
+        },
+        "Tuesday": {
+          "08:00": {
+            "id": "Benjamin_Harris-Tuesday-08:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 18,
+            "classPrice": "free",
+            "start": "08:00",
+            "end": "08:59"
+          },
+          "09:00": {
+            "id": "Benjamin_Harris-Tuesday-09:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 19,
+            "classPrice": "free",
+            "start": "09:00",
+            "end": "09:59"
+          },
+          "10:00": {
+            "id": "Benjamin_Harris-Tuesday-10:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 20,
+            "classPrice": 45,
+            "start": "10:00",
+            "end": "10:59"
+          },
+          "11:00": {
+            "id": "Benjamin_Harris-Tuesday-11:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 14,
+            "classPrice": 20,
+            "start": "11:00",
+            "end": "11:59"
+          },
+          "12:00": {
+            "id": "Benjamin_Harris-Tuesday-12:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 15,
+            "classPrice": "free",
+            "start": "12:00",
+            "end": "12:59"
+          },
+          "13:00": {
+            "id": "Benjamin_Harris-Tuesday-13:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 12,
+            "classPrice": 47,
+            "start": "13:00",
+            "end": "13:59"
+          }
+        },
+        "Wednesday": {
+          "08:00": {
+            "id": "Benjamin_Harris-Wednesday-08:00",
+            "classType": "Drop-In Class",
+            "participant": {},
+            "participantLimit": 10,
+            "classPrice": "free",
+            "start": "08:00",
+            "end": "08:59"
+          },
+          "09:00": {
+            "id": "Benjamin_Harris-Wednesday-09:00",
+            "classType": "Drop-In Class",
+            "participant": {},
+            "participantLimit": 18,
+            "classPrice": "free",
+            "start": "09:00",
+            "end": "09:59"
+          },
+          "10:00": {
+            "id": "Benjamin_Harris-Wednesday-10:00",
+            "classType": "Semi-Private Training",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": 47,
+            "start": "10:00",
+            "end": "10:59"
+          },
+          "11:00": {
+            "id": "Benjamin_Harris-Wednesday-11:00",
+            "classType": "Semi-Private Training",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": 35,
+            "start": "11:00",
+            "end": "11:59"
+          },
+          "12:00": {
+            "id": "Benjamin_Harris-Wednesday-12:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 10,
+            "classPrice": 14,
+            "start": "12:00",
+            "end": "12:59"
+          },
+          "13:00": {
+            "id": "Benjamin_Harris-Wednesday-13:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 15,
+            "classPrice": "free",
+            "start": "13:00",
+            "end": "13:59"
+          }
+        },
+        "Thursday": {
+          "08:00": {
+            "id": "Benjamin_Harris-Thursday-08:00",
+            "classType": "Semi-Private Training",
+            "participant": {},
+            "participantLimit": 2,
+            "classPrice": "free",
+            "start": "08:00",
+            "end": "08:59"
+          },
+          "09:00": {
+            "id": "Benjamin_Harris-Thursday-09:00",
+            "classType": "Semi-Private Training",
+            "participant": {},
+            "participantLimit": 2,
+            "classPrice": "free",
+            "start": "09:00",
+            "end": "09:59"
+          },
+          "10:00": {
+            "id": "Benjamin_Harris-Thursday-10:00",
+            "classType": "Semi-Private Training",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": 27,
+            "start": "10:00",
+            "end": "10:59"
+          },
+          "11:00": {
+            "id": "Benjamin_Harris-Thursday-11:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 11,
+            "classPrice": "free",
+            "start": "11:00",
+            "end": "11:59"
+          },
+          "12:00": {
+            "id": "Benjamin_Harris-Thursday-12:00",
+            "classType": "Semi-Private Training",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": 14,
+            "start": "12:00",
+            "end": "12:59"
+          },
+          "13:00": {
+            "id": "Benjamin_Harris-Thursday-13:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 18,
+            "classPrice": 43,
+            "start": "13:00",
+            "end": "13:59"
+          }
+        },
+        "Friday": {
+          "08:00": {
+            "id": "Benjamin_Harris-Friday-08:00",
+            "classType": "Drop-In Class",
+            "participant": {},
+            "participantLimit": 13,
+            "classPrice": 11,
+            "start": "08:00",
+            "end": "08:59"
+          },
+          "09:00": {
+            "id": "Benjamin_Harris-Friday-09:00",
+            "classType": "Semi-Private Training",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": "free",
+            "start": "09:00",
+            "end": "09:59"
+          },
+          "10:00": {
+            "id": "Benjamin_Harris-Friday-10:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 19,
+            "classPrice": "free",
+            "start": "10:00",
+            "end": "10:59"
+          },
+          "11:00": {
+            "id": "Benjamin_Harris-Friday-11:00",
+            "classType": "Drop-In Class",
+            "participant": {},
+            "participantLimit": 10,
+            "classPrice": "free",
+            "start": "11:00",
+            "end": "11:59"
+          },
+          "12:00": {
+            "id": "Benjamin_Harris-Friday-12:00",
+            "classType": "Semi-Private Training",
+            "participant": {},
+            "participantLimit": 3,
+            "classPrice": "free",
+            "start": "12:00",
+            "end": "12:59"
+          },
+          "13:00": {
+            "id": "Benjamin_Harris-Friday-13:00",
+            "classType": "Workshops",
+            "participant": {},
+            "participantLimit": 14,
+            "classPrice": 31,
+            "start": "13:00",
+            "end": "13:59"
+          }
+        }
+      }
+    },
+    {
+      "trainerName": "Mia Lewis",
+      "trainerSchedule": {
+        "Monday": {
+          "14:00": {
+            "id": "Mia_Lewis-Monday-14:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": "free",
+            "start": "14:00",
+            "end": "14:59"
+          },
+          "15:00": {
+            "id": "Mia_Lewis-Monday-15:00",
+            "classType": "Drop-In Class",
+            "participant": {},
+            "participantLimit": 17,
+            "classPrice": 17,
+            "start": "15:00",
+            "end": "15:59"
+          },
+          "16:00": {
+            "id": "Mia_Lewis-Monday-16:00",
+            "classType": "Drop-In Class",
+            "participant": {},
+            "participantLimit": 20,
+            "classPrice": "free",
+            "start": "16:00",
+            "end": "16:59"
+          },
+          "17:00": {
+            "id": "Mia_Lewis-Monday-17:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": "free",
+            "start": "17:00",
+            "end": "17:59"
+          },
+          "18:00": {
+            "id": "Mia_Lewis-Monday-18:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 2,
+            "classPrice": 45,
+            "start": "18:00",
+            "end": "18:59"
+          },
+          "19:00": {
+            "id": "Mia_Lewis-Monday-19:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 3,
+            "classPrice": "free",
+            "start": "19:00",
+            "end": "19:59"
+          }
+        },
+        "Tuesday": {
+          "14:00": {
+            "id": "Mia_Lewis-Tuesday-14:00",
+            "classType": "Open Gym Class",
+            "participant": {},
+            "participantLimit": 18,
+            "classPrice": 11,
+            "start": "14:00",
+            "end": "14:59"
+          },
+          "15:00": {
+            "id": "Mia_Lewis-Tuesday-15:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": "free",
+            "start": "15:00",
+            "end": "15:59"
+          },
+          "16:00": {
+            "id": "Mia_Lewis-Tuesday-16:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 3,
+            "classPrice": "free",
+            "start": "16:00",
+            "end": "16:59"
+          },
+          "17:00": {
+            "id": "Mia_Lewis-Tuesday-17:00",
+            "classType": "Drop-In Class",
+            "participant": {},
+            "participantLimit": 15,
+            "classPrice": 44,
+            "start": "17:00",
+            "end": "17:59"
+          },
+          "18:00": {
+            "id": "Mia_Lewis-Tuesday-18:00",
+            "classType": "Drop-In Class",
+            "participant": {},
+            "participantLimit": 16,
+            "classPrice": 43,
+            "start": "18:00",
+            "end": "18:59"
+          },
+          "19:00": {
+            "id": "Mia_Lewis-Tuesday-19:00",
+            "classType": "Open Gym Class",
+            "participant": {},
+            "participantLimit": 19,
+            "classPrice": "free",
+            "start": "19:00",
+            "end": "19:59"
+          }
+        },
+        "Wednesday": {
+          "14:00": {
+            "id": "Mia_Lewis-Wednesday-14:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": 33,
+            "start": "14:00",
+            "end": "14:59"
+          },
+          "15:00": {
+            "id": "Mia_Lewis-Wednesday-15:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 3,
+            "classPrice": "free",
+            "start": "15:00",
+            "end": "15:59"
+          },
+          "16:00": {
+            "id": "Mia_Lewis-Wednesday-16:00",
+            "classType": "Drop-In Class",
+            "participant": {},
+            "participantLimit": 18,
+            "classPrice": 45,
+            "start": "16:00",
+            "end": "16:59"
+          },
+          "17:00": {
+            "id": "Mia_Lewis-Wednesday-17:00",
+            "classType": "Open Gym Class",
+            "participant": {},
+            "participantLimit": 19,
+            "classPrice": "free",
+            "start": "17:00",
+            "end": "17:59"
+          },
+          "18:00": {
+            "id": "Mia_Lewis-Wednesday-18:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 2,
+            "classPrice": 13,
+            "start": "18:00",
+            "end": "18:59"
+          },
+          "19:00": {
+            "id": "Mia_Lewis-Wednesday-19:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 2,
+            "classPrice": 20,
+            "start": "19:00",
+            "end": "19:59"
+          }
+        },
+        "Saturday": {
+          "14:00": {
+            "id": "Mia_Lewis-Saturday-14:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": 29,
+            "start": "14:00",
+            "end": "14:59"
+          },
+          "15:00": {
+            "id": "Mia_Lewis-Saturday-15:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 3,
+            "classPrice": 47,
+            "start": "15:00",
+            "end": "15:59"
+          },
+          "16:00": {
+            "id": "Mia_Lewis-Saturday-16:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 3,
+            "classPrice": "free",
+            "start": "16:00",
+            "end": "16:59"
+          },
+          "17:00": {
+            "id": "Mia_Lewis-Saturday-17:00",
+            "classType": "Open Gym Class",
+            "participant": {},
+            "participantLimit": 15,
+            "classPrice": "free",
+            "start": "17:00",
+            "end": "17:59"
+          },
+          "18:00": {
+            "id": "Mia_Lewis-Saturday-18:00",
+            "classType": "Drop-In Class",
+            "participant": {},
+            "participantLimit": 17,
+            "classPrice": 48,
+            "start": "18:00",
+            "end": "18:59"
+          },
+          "19:00": {
+            "id": "Mia_Lewis-Saturday-19:00",
+            "classType": "Partner Workout",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": "free",
+            "start": "19:00",
+            "end": "19:59"
+          }
+        },
+        "Sunday": {
+          "14:00": {
+            "id": "Mia_Lewis-Sunday-14:00",
+            "classType": "Drop-In Class",
+            "participant": {},
+            "participantLimit": 10,
+            "classPrice": "free",
+            "start": "14:00",
+            "end": "14:59"
+          },
+          "15:00": {
+            "id": "Mia_Lewis-Sunday-15:00",
+            "classType": "Open Gym Class",
+            "participant": {},
+            "participantLimit": 18,
+            "classPrice": 45,
+            "start": "15:00",
+            "end": "15:59"
+          },
+          "16:00": {
+            "id": "Mia_Lewis-Sunday-16:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": 35,
+            "start": "16:00",
+            "end": "16:59"
+          },
+          "17:00": {
+            "id": "Mia_Lewis-Sunday-17:00",
+            "classType": "Open Gym Class",
+            "participant": {},
+            "participantLimit": 12,
+            "classPrice": 15,
+            "start": "17:00",
+            "end": "17:59"
+          },
+          "18:00": {
+            "id": "Mia_Lewis-Sunday-18:00",
+            "classType": "Drop-In Class",
+            "participant": {},
+            "participantLimit": 15,
+            "classPrice": "free",
+            "start": "18:00",
+            "end": "18:59"
+          },
+          "19:00": {
+            "id": "Mia_Lewis-Sunday-19:00",
+            "classType": "Open Gym Class",
+            "participant": {},
+            "participantLimit": 17,
+            "classPrice": "free",
+            "start": "19:00",
+            "end": "19:59"
+          }
+        }
+      }
+    },
+    {
+      "trainerName": "Lucas Mitchell",
+      "trainerSchedule": {
+        "Monday": {
+          "14:00": {
+            "id": "Lucas_Mitchell-Monday-14:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 15,
+            "classPrice": "free",
+            "start": "14:00",
+            "end": "14:59"
+          },
+          "15:00": {
+            "id": "Lucas_Mitchell-Monday-15:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 15,
+            "classPrice": "free",
+            "start": "15:00",
+            "end": "15:59"
+          },
+          "16:00": {
+            "id": "Lucas_Mitchell-Monday-16:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 15,
+            "classPrice": 45,
+            "start": "16:00",
+            "end": "16:59"
+          },
+          "17:00": {
+            "id": "Lucas_Mitchell-Monday-17:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": "free",
+            "start": "17:00",
+            "end": "17:59"
+          },
+          "18:00": {
+            "id": "Lucas_Mitchell-Monday-18:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 3,
+            "classPrice": 49,
+            "start": "18:00",
+            "end": "18:59"
+          },
+          "19:00": {
+            "id": "Lucas_Mitchell-Monday-19:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 19,
+            "classPrice": 31,
+            "start": "19:00",
+            "end": "19:59"
+          }
+        },
+        "Tuesday": {
+          "14:00": {
+            "id": "Lucas_Mitchell-Tuesday-14:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": "free",
+            "start": "14:00",
+            "end": "14:59"
+          },
+          "15:00": {
+            "id": "Lucas_Mitchell-Tuesday-15:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": 41,
+            "start": "15:00",
+            "end": "15:59"
+          },
+          "16:00": {
+            "id": "Lucas_Mitchell-Tuesday-16:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": 18,
+            "start": "16:00",
+            "end": "16:59"
+          },
+          "17:00": {
+            "id": "Lucas_Mitchell-Tuesday-17:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 2,
+            "classPrice": 42,
+            "start": "17:00",
+            "end": "17:59"
+          },
+          "18:00": {
+            "id": "Lucas_Mitchell-Tuesday-18:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 18,
+            "classPrice": 29,
+            "start": "18:00",
+            "end": "18:59"
+          },
+          "19:00": {
+            "id": "Lucas_Mitchell-Tuesday-19:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 2,
+            "classPrice": "free",
+            "start": "19:00",
+            "end": "19:59"
+          }
+        },
+        "Wednesday": {
+          "14:00": {
+            "id": "Lucas_Mitchell-Wednesday-14:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": 31,
+            "start": "14:00",
+            "end": "14:59"
+          },
+          "15:00": {
+            "id": "Lucas_Mitchell-Wednesday-15:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": 20,
+            "start": "15:00",
+            "end": "15:59"
+          },
+          "16:00": {
+            "id": "Lucas_Mitchell-Wednesday-16:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 2,
+            "classPrice": "free",
+            "start": "16:00",
+            "end": "16:59"
+          },
+          "17:00": {
+            "id": "Lucas_Mitchell-Wednesday-17:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": 25,
+            "start": "17:00",
+            "end": "17:59"
+          },
+          "18:00": {
+            "id": "Lucas_Mitchell-Wednesday-18:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 10,
+            "classPrice": 34,
+            "start": "18:00",
+            "end": "18:59"
+          },
+          "19:00": {
+            "id": "Lucas_Mitchell-Wednesday-19:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": "free",
+            "start": "19:00",
+            "end": "19:59"
+          }
+        },
+        "Saturday": {
+          "14:00": {
+            "id": "Lucas_Mitchell-Saturday-14:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": 38,
+            "start": "14:00",
+            "end": "14:59"
+          },
+          "15:00": {
+            "id": "Lucas_Mitchell-Saturday-15:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 3,
+            "classPrice": 12,
+            "start": "15:00",
+            "end": "15:59"
+          },
+          "16:00": {
+            "id": "Lucas_Mitchell-Saturday-16:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 10,
+            "classPrice": "free",
+            "start": "16:00",
+            "end": "16:59"
+          },
+          "17:00": {
+            "id": "Lucas_Mitchell-Saturday-17:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 12,
+            "classPrice": "free",
+            "start": "17:00",
+            "end": "17:59"
+          },
+          "18:00": {
+            "id": "Lucas_Mitchell-Saturday-18:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 19,
+            "classPrice": 49,
+            "start": "18:00",
+            "end": "18:59"
+          },
+          "19:00": {
+            "id": "Lucas_Mitchell-Saturday-19:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 4,
+            "classPrice": 50,
+            "start": "19:00",
+            "end": "19:59"
+          }
+        },
+        "Sunday": {
+          "14:00": {
+            "id": "Lucas_Mitchell-Sunday-14:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 15,
+            "classPrice": 33,
+            "start": "14:00",
+            "end": "14:59"
+          },
+          "15:00": {
+            "id": "Lucas_Mitchell-Sunday-15:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": "free",
+            "start": "15:00",
+            "end": "15:59"
+          },
+          "16:00": {
+            "id": "Lucas_Mitchell-Sunday-16:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 19,
+            "classPrice": "free",
+            "start": "16:00",
+            "end": "16:59"
+          },
+          "17:00": {
+            "id": "Lucas_Mitchell-Sunday-17:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 3,
+            "classPrice": 50,
+            "start": "17:00",
+            "end": "17:59"
+          },
+          "18:00": {
+            "id": "Lucas_Mitchell-Sunday-18:00",
+            "classType": "Private Session",
+            "participant": {},
+            "participantLimit": 5,
+            "classPrice": "free",
+            "start": "18:00",
+            "end": "18:59"
+          },
+          "19:00": {
+            "id": "Lucas_Mitchell-Sunday-19:00",
+            "classType": "Outdoor Class",
+            "participant": {},
+            "participantLimit": 16,
+            "classPrice": "free",
+            "start": "19:00",
+            "end": "19:59"
+          }
+        }
+      }
+    }
+  ]

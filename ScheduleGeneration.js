@@ -91,43 +91,51 @@ function generateTrainerSchedule(trainer, startTime, endTime) {
 // ----- Example usage with multiple trainers -----
 const trainers = [
   {
-    name: "Jack Rogers",
-    specialization: "CrossFit Instructor",
-    availableDays: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
-    classTypes: ["Private Session", "Partner Workout"],
-  },
-  {
-    name: "Linda Brown",
-    specialization: "CrossFit Instructor",
+    name: "Natalie Evans",
+    specialization: "Zumba Instructor",
     availableDays: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
     classTypes: [
+      "Outdoor Class",
+      "Private Session",
+      "Group Class",
       "Semi-Private Training",
+      "Open Gym Class",
+    ],
+  },
+  {
+    name: "Dylan Martin",
+    specialization: "Zumba Instructor",
+    availableDays: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    classTypes: ["Outdoor Class", "Partner Workout"],
+  },
+  {
+    name: "Rachel Clark",
+    specialization: "Zumba Instructor",
+    availableDays: ["Monday", "Tuesday", "Wednesday", "Saturday", "Sunday"],
+    classTypes: [
+      "Private Session",
+      "Open Gym Class",
+      "Drop-In Class",
+      "Semi-Private Training",
+    ],
+  },
+  {
+    name: "Liam Davis",
+    specialization: "Zumba Instructor",
+    availableDays: [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday",
+    ],
+    classTypes: [
+      "Workshops",
       "Private Session",
       "Partner Workout",
-      "Outdoor Class",
-    ],
-  },
-  {
-    name: "Steve Moore",
-    specialization: "CrossFit Instructor",
-    availableDays: ["Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
-    classTypes: [
-      "Partner Workout",
-      "Outdoor Class",
       "Drop-In Class",
-      "Workshops",
-    ],
-  },
-  {
-    name: "Maria Lopez",
-    specialization: "CrossFit Instructor",
-    availableDays: ["Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
-    classTypes: [
-      "Open Gym Class",
-      "Workshops",
-      "Group Class",
-      "Online Class",
-      "Outdoor Class",
     ],
   },
 ];
