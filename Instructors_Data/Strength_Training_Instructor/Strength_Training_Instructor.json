@@ -1,5 +1,6 @@
 [
   {
+    "_id": "67c7f7316970c237e8e141cf",
     "trainerName": "Michael Harris",
     "trainerSchedule": {
       "Monday": {
@@ -265,7 +266,7 @@
         },
         "12:00": {
           "id": "Michael_Harris-Friday-12:00",
-          "classType": "Semi-Private Training",
+          "classType": "Strength_Training Class",
           "participant": {},
           "participantLimit": 3,
           "classPrice": 18,
@@ -285,6 +286,7 @@
     }
   },
   {
+    "_id": "67c7f7316970c237e8e141d0",
     "trainerName": "Hannah Clark",
     "trainerSchedule": {
       "Monday": {
@@ -550,7 +552,7 @@
         },
         "12:00": {
           "id": "Hannah_Clark-Friday-12:00",
-          "classType": "Drop-In Class",
+          "classType": "Strength_Training Class",
           "participant": {},
           "participantLimit": 18,
           "classPrice": 37,
@@ -570,6 +572,7 @@
     }
   },
   {
+    "_id": "67c7f7316970c237e8e141d1",
     "trainerName": "Daniel Lewis",
     "trainerSchedule": {
       "Saturday": {
@@ -723,7 +726,7 @@
         },
         "18:00": {
           "id": "Daniel_Lewis-Monday-18:00",
-          "classType": "Semi-Private Training",
+          "classType": "Strength_Training Class",
           "participant": {},
           "participantLimit": 4,
           "classPrice": 46,
@@ -779,7 +782,7 @@
         },
         "18:00": {
           "id": "Daniel_Lewis-Tuesday-18:00",
-          "classType": "Semi-Private Training",
+          "classType": "Strength_Training Class",
           "participant": {},
           "participantLimit": 3,
           "classPrice": "free",
@@ -835,7 +838,7 @@
         },
         "18:00": {
           "id": "Daniel_Lewis-Wednesday-18:00",
-          "classType": "Online Class",
+          "classType": "Strength_Training Class",
           "participant": {},
           "participantLimit": "No limit",
           "classPrice": 19,
@@ -855,6 +858,7 @@
     }
   },
   {
+    "_id": "67c7f7316970c237e8e141d2",
     "trainerName": "Grace Scott",
     "trainerSchedule": {
       "Saturday": {
@@ -1008,7 +1012,7 @@
         },
         "18:00": {
           "id": "Grace_Scott-Monday-18:00",
-          "classType": "Drop-In Class",
+          "classType": "Strength_Training Class",
           "participant": {},
           "participantLimit": 10,
           "classPrice": "free",
@@ -1064,7 +1068,7 @@
         },
         "18:00": {
           "id": "Grace_Scott-Tuesday-18:00",
-          "classType": "Semi-Private Training",
+          "classType": "Strength_Training Class",
           "participant": {},
           "participantLimit": 3,
           "classPrice": 27,
@@ -1120,7 +1124,7 @@
         },
         "18:00": {
           "id": "Grace_Scott-Wednesday-18:00",
-          "classType": "Semi-Private Training",
+          "classType": "Strength_Training Class",
           "participant": {},
           "participantLimit": 3,
           "classPrice": "free",

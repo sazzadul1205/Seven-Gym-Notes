@@ -1,5 +1,6 @@
 [
   {
+    "_id": "67c7f7956970c237e8e141d3",
     "trainerName": "Isabella Parker",
     "trainerSchedule": {
       "Monday": {
@@ -274,7 +275,7 @@
         },
         "13:00": {
           "id": "Isabella_Parker-Friday-13:00",
-          "classType": "Semi-Private Training",
+          "classType": "Stretching Class",
           "participant": {},
           "participantLimit": 4,
           "classPrice": "free",
@@ -285,6 +286,7 @@
     }
   },
   {
+    "_id": "67c7f7956970c237e8e141d4",
     "trainerName": "Alexander Bell",
     "trainerSchedule": {
       "Monday": {
@@ -559,7 +561,7 @@
         },
         "13:00": {
           "id": "Alexander_Bell-Friday-13:00",
-          "classType": "Group Class",
+          "classType": "Stretching Class",
           "participant": {},
           "participantLimit": 13,
           "classPrice": "free",
@@ -570,6 +572,7 @@
     }
   },
   {
+    "_id": "67c7f7956970c237e8e141d5",
     "trainerName": "Lily Green",
     "trainerSchedule": {
       "Sunday": {
@@ -732,7 +735,7 @@
         },
         "19:00": {
           "id": "Lily_Green-Monday-19:00",
-          "classType": "Outdoor Class",
+          "classType": "Stretching Class",
           "participant": {},
           "participantLimit": 15,
           "classPrice": 33,
@@ -788,7 +791,7 @@
         },
         "19:00": {
           "id": "Lily_Green-Tuesday-19:00",
-          "classType": "Outdoor Class",
+          "classType": "Stretching Class",
           "participant": {},
           "participantLimit": 19,
           "classPrice": 12,
@@ -844,7 +847,7 @@
         },
         "19:00": {
           "id": "Lily_Green-Wednesday-19:00",
-          "classType": "Outdoor Class",
+          "classType": "Stretching Class",
           "participant": {},
           "participantLimit": 11,
           "classPrice": "free",
@@ -855,6 +858,7 @@
     }
   },
   {
+    "_id": "67c7f7956970c237e8e141d6",
     "trainerName": "Ethan Wilson",
     "trainerSchedule": {
       "Sunday": {
@@ -1017,7 +1021,7 @@
         },
         "19:00": {
           "id": "Ethan_Wilson-Monday-19:00",
-          "classType": "Outdoor Class",
+          "classType": "Stretching Class",
           "participant": {},
           "participantLimit": 17,
           "classPrice": 18,
@@ -1073,7 +1077,7 @@
         },
         "19:00": {
           "id": "Ethan_Wilson-Tuesday-19:00",
-          "classType": "Open Gym Class",
+          "classType": "Stretching Class",
           "participant": {},
           "participantLimit": 11,
           "classPrice": 39,
@@ -1129,7 +1133,7 @@
         },
         "19:00": {
           "id": "Ethan_Wilson-Wednesday-19:00",
-          "classType": "Outdoor Class",
+          "classType": "Stretching Class",
           "participant": {},
           "participantLimit": 12,
           "classPrice": "free",

@@ -1,5 +1,6 @@
 [
   {
+    "_id": "67c7f4746970c237e8e141a9",
     "trainerName": "John Davis",
     "trainerSchedule": {
       "Monday": {
@@ -23,7 +24,7 @@
         },
         "10:00": {
           "id": "John_Davis-Monday-10:00",
-          "classType": "Online Class",
+          "classType": "Spin Class",
           "participant": {},
           "participantLimit": "No limit",
           "classPrice": 32,
@@ -79,7 +80,7 @@
         },
         "10:00": {
           "id": "John_Davis-Tuesday-10:00",
-          "classType": "Open Gym Class",
+          "classType": "Spin Class",
           "participant": {},
           "participantLimit": 19,
           "classPrice": "free",
@@ -135,7 +136,7 @@
         },
         "10:00": {
           "id": "John_Davis-Wednesday-10:00",
-          "classType": "Online Class",
+          "classType": "Spin Class",
           "participant": {},
           "participantLimit": "No limit",
           "classPrice": "free",
@@ -191,7 +192,7 @@
         },
         "10:00": {
           "id": "John_Davis-Thursday-10:00",
-          "classType": "Online Class",
+          "classType": "Spin Class",
           "participant": {},
           "participantLimit": "No limit",
           "classPrice": 40,
@@ -285,6 +286,7 @@
     }
   },
   {
+    "_id": "67c7f4746970c237e8e141aa",
     "trainerName": "Sophia Martinez",
     "trainerSchedule": {
       "Monday": {
@@ -308,7 +310,7 @@
         },
         "10:00": {
           "id": "Sophia_Martinez-Monday-10:00",
-          "classType": "Partner Workout",
+          "classType": "Spin Class",
           "participant": {},
           "participantLimit": 5,
           "classPrice": "free",
@@ -364,7 +366,7 @@
         },
         "10:00": {
           "id": "Sophia_Martinez-Tuesday-10:00",
-          "classType": "Open Gym Class",
+          "classType": "Spin Class",
           "participant": {},
           "participantLimit": 12,
           "classPrice": "free",
@@ -420,7 +422,7 @@
         },
         "10:00": {
           "id": "Sophia_Martinez-Wednesday-10:00",
-          "classType": "Partner Workout",
+          "classType": "Spin Class",
           "participant": {},
           "participantLimit": 5,
           "classPrice": "free",
@@ -476,7 +478,7 @@
         },
         "10:00": {
           "id": "Sophia_Martinez-Thursday-10:00",
-          "classType": "Workshops",
+          "classType": "Spin Class",
           "participant": {},
           "participantLimit": 11,
           "classPrice": 13,
@@ -570,6 +572,7 @@
     }
   },
   {
+    "_id": "67c7f4746970c237e8e141ab",
     "trainerName": "Liam Thomas",
     "trainerSchedule": {
       "Sunday": {
@@ -593,7 +596,7 @@
         },
         "16:00": {
           "id": "Liam_Thomas-Sunday-16:00",
-          "classType": "Private Session",
+          "classType": "Spin Class",
           "participant": {},
           "participantLimit": 5,
           "classPrice": "free",
@@ -649,7 +652,7 @@
         },
         "16:00": {
           "id": "Liam_Thomas-Saturday-16:00",
-          "classType": "Semi-Private Training",
+          "classType": "Spin Class",
           "participant": {},
           "participantLimit": 3,
           "classPrice": "free",
@@ -855,6 +858,7 @@
     }
   },
   {
+    "_id": "67c7f4746970c237e8e141ac",
     "trainerName": "Mia Walker",
     "trainerSchedule": {
       "Sunday": {
@@ -878,7 +882,7 @@
         },
         "16:00": {
           "id": "Mia_Walker-Sunday-16:00",
-          "classType": "Open Gym Class",
+          "classType": "Spin Class",
           "participant": {},
           "participantLimit": 17,
           "classPrice": "free",
@@ -934,7 +938,7 @@
         },
         "16:00": {
           "id": "Mia_Walker-Saturday-16:00",
-          "classType": "Private Session",
+          "classType": "Spin Class",
           "participant": {},
           "participantLimit": 4,
           "classPrice": 14,

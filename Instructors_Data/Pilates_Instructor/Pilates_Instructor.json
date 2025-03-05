@@ -1,5 +1,6 @@
 [
   {
+    "_id": "67c7f62f6970c237e8e141c1",
     "trainerName": "Emma Roberts",
     "trainerSchedule": {
       "Monday": {
@@ -238,7 +239,7 @@
         },
         "09:00": {
           "id": "Emma_Roberts-Friday-09:00",
-          "classType": "Semi-Private Training",
+          "classType": "Pilates Class",
           "participant": {},
           "participantLimit": 2,
           "classPrice": "free",
@@ -285,6 +286,7 @@
     }
   },
   {
+    "_id": "67c7f62f6970c237e8e141c2",
     "trainerName": "James Wilson",
     "trainerSchedule": {
       "Monday": {
@@ -523,7 +525,7 @@
         },
         "09:00": {
           "id": "James_Wilson-Friday-09:00",
-          "classType": "Partner Workout",
+          "classType": "Pilates Class",
           "participant": {},
           "participantLimit": 3,
           "classPrice": "free",
@@ -570,6 +572,7 @@
     }
   },
   {
+    "_id": "67c7f62f6970c237e8e141c3",
     "trainerName": "Olivia Harris",
     "trainerSchedule": {
       "Wednesday": {
@@ -584,7 +587,7 @@
         },
         "15:00": {
           "id": "Olivia_Harris-Wednesday-15:00",
-          "classType": "Outdoor Class",
+          "classType": "Pilates Class",
           "participant": {},
           "participantLimit": 16,
           "classPrice": "free",
@@ -640,7 +643,7 @@
         },
         "15:00": {
           "id": "Olivia_Harris-Thursday-15:00",
-          "classType": "Workshops",
+          "classType": "Pilates Class",
           "participant": {},
           "participantLimit": 19,
           "classPrice": "free",
@@ -855,6 +858,7 @@
     }
   },
   {
+    "_id": "67c7f62f6970c237e8e141c4",
     "trainerName": "Lucas Lee",
     "trainerSchedule": {
       "Wednesday": {
@@ -869,7 +873,7 @@
         },
         "15:00": {
           "id": "Lucas_Lee-Wednesday-15:00",
-          "classType": "Outdoor Class",
+          "classType": "Pilates Class",
           "participant": {},
           "participantLimit": 14,
           "classPrice": 23,
@@ -925,7 +929,7 @@
         },
         "15:00": {
           "id": "Lucas_Lee-Thursday-15:00",
-          "classType": "Outdoor Class",
+          "classType": "Pilates Class",
           "participant": {},
           "participantLimit": 11,
           "classPrice": "free",

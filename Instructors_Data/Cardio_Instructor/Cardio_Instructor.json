@@ -1,5 +1,6 @@
 [
   {
+    "_id": "67c7f5ef6970c237e8e141bd",
     "trainerName": "Sophie Lee",
     "trainerSchedule": {
       "Monday": {
@@ -229,7 +230,7 @@
       "Friday": {
         "08:00": {
           "id": "Sophie_Lee-Friday-08:00",
-          "classType": "Online Class",
+          "classType": "Cardio Class",
           "participant": {},
           "participantLimit": "No limit",
           "classPrice": "free",
@@ -285,6 +286,7 @@
     }
   },
   {
+    "_id": "67c7f5ef6970c237e8e141be",
     "trainerName": "Daniel White",
     "trainerSchedule": {
       "Monday": {
@@ -458,7 +460,7 @@
       "Saturday": {
         "08:00": {
           "id": "Daniel_White-Saturday-08:00",
-          "classType": "Open Gym Class",
+          "classType": "Cardio Class",
           "participant": {},
           "participantLimit": 20,
           "classPrice": 44,
@@ -514,7 +516,7 @@
       "Sunday": {
         "08:00": {
           "id": "Daniel_White-Sunday-08:00",
-          "classType": "Partner Workout",
+          "classType": "Cardio Class",
           "participant": {},
           "participantLimit": 5,
           "classPrice": "free",
@@ -570,12 +572,13 @@
     }
   },
   {
+    "_id": "67c7f5ef6970c237e8e141bf",
     "trainerName": "Laura Green",
     "trainerSchedule": {
       "Monday": {
         "14:00": {
           "id": "Laura_Green-Monday-14:00",
-          "classType": "Open Gym Class",
+          "classType": "Cardio Class",
           "participant": {},
           "participantLimit": 10,
           "classPrice": 15,
@@ -631,7 +634,7 @@
       "Tuesday": {
         "14:00": {
           "id": "Laura_Green-Tuesday-14:00",
-          "classType": "Semi-Private Training",
+          "classType": "Cardio Class",
           "participant": {},
           "participantLimit": 2,
           "classPrice": "free",
@@ -687,7 +690,7 @@
       "Wednesday": {
         "14:00": {
           "id": "Laura_Green-Wednesday-14:00",
-          "classType": "Open Gym Class",
+          "classType": "Cardio Class",
           "participant": {},
           "participantLimit": 19,
           "classPrice": "free",
@@ -743,7 +746,7 @@
       "Thursday": {
         "14:00": {
           "id": "Laura_Green-Thursday-14:00",
-          "classType": "Workshops",
+          "classType": "Cardio Class",
           "participant": {},
           "participantLimit": 12,
           "classPrice": 10,
@@ -855,12 +858,13 @@
     }
   },
   {
+    "_id": "67c7f5ef6970c237e8e141c0",
     "trainerName": "James Hill",
     "trainerSchedule": {
       "Monday": {
         "14:00": {
           "id": "James_Hill-Monday-14:00",
-          "classType": "Partner Workout",
+          "classType": "Cardio Class",
           "participant": {},
           "participantLimit": 3,
           "classPrice": "free",
@@ -916,7 +920,7 @@
       "Tuesday": {
         "14:00": {
           "id": "James_Hill-Tuesday-14:00",
-          "classType": "Private Session",
+          "classType": "Cardio Class",
           "participant": {},
           "participantLimit": 2,
           "classPrice": 17,
@@ -972,7 +976,7 @@
       "Wednesday": {
         "14:00": {
           "id": "James_Hill-Wednesday-14:00",
-          "classType": "Partner Workout",
+          "classType": "Cardio Class",
           "participant": {},
           "participantLimit": 5,
           "classPrice": 19,

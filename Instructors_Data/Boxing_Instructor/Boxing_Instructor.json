@@ -1,5 +1,6 @@
 [
   {
+    "_id": "67c7f4dd6970c237e8e141ae",
     "trainerName": "Mike Tyson",
     "trainerSchedule": {
       "Monday": {
@@ -32,7 +33,7 @@
         },
         "11:00": {
           "id": "Mike_Tyson-Monday-11:00",
-          "classType": "Drop-In Class",
+          "classType": "Boxing Class",
           "participant": {},
           "participantLimit": 16,
           "classPrice": 27,
@@ -88,7 +89,7 @@
         },
         "11:00": {
           "id": "Mike_Tyson-Tuesday-11:00",
-          "classType": "Private Session",
+          "classType": "Boxing Class",
           "participant": {},
           "participantLimit": 3,
           "classPrice": "free",
@@ -144,7 +145,7 @@
         },
         "11:00": {
           "id": "Mike_Tyson-Wednesday-11:00",
-          "classType": "Private Session",
+          "classType": "Boxing Class",
           "participant": {},
           "participantLimit": 2,
           "classPrice": 29,
@@ -200,7 +201,7 @@
         },
         "11:00": {
           "id": "Mike_Tyson-Thursday-11:00",
-          "classType": "Private Session",
+          "classType": "Boxing Class",
           "participant": {},
           "participantLimit": 5,
           "classPrice": "free",
@@ -285,6 +286,7 @@
     }
   },
   {
+    "_id": "67c7f4dd6970c237e8e141af",
     "trainerName": "Anna Cruz",
     "trainerSchedule": {
       "Monday": {
@@ -317,7 +319,7 @@
         },
         "11:00": {
           "id": "Anna_Cruz-Monday-11:00",
-          "classType": "Drop-In Class",
+          "classType": "Boxing Class",
           "participant": {},
           "participantLimit": 18,
           "classPrice": "free",
@@ -373,7 +375,7 @@
         },
         "11:00": {
           "id": "Anna_Cruz-Tuesday-11:00",
-          "classType": "Private Session",
+          "classType": "Boxing Class",
           "participant": {},
           "participantLimit": 3,
           "classPrice": 25,
@@ -429,7 +431,7 @@
         },
         "11:00": {
           "id": "Anna_Cruz-Wednesday-11:00",
-          "classType": "Drop-In Class",
+          "classType": "Boxing Class",
           "participant": {},
           "participantLimit": 11,
           "classPrice": 24,
@@ -485,7 +487,7 @@
         },
         "11:00": {
           "id": "Anna_Cruz-Thursday-11:00",
-          "classType": "Drop-In Class",
+          "classType": "Boxing Class",
           "participant": {},
           "participantLimit": 17,
           "classPrice": "free",
@@ -570,6 +572,7 @@
     }
   },
   {
+    "_id": "67c7f4dd6970c237e8e141b0",
     "trainerName": "James Woods",
     "trainerSchedule": {
       "Saturday": {
@@ -602,7 +605,7 @@
         },
         "17:00": {
           "id": "James_Woods-Saturday-17:00",
-          "classType": "Private Session",
+          "classType": "Boxing Class",
           "participant": {},
           "participantLimit": 5,
           "classPrice": "free",
@@ -658,7 +661,7 @@
         },
         "17:00": {
           "id": "James_Woods-Sunday-17:00",
-          "classType": "Private Session",
+          "classType": "Boxing Class",
           "participant": {},
           "participantLimit": 2,
           "classPrice": 30,
@@ -855,6 +858,7 @@
     }
   },
   {
+    "_id": "67c7f4dd6970c237e8e141b1",
     "trainerName": "Chris Knight",
     "trainerSchedule": {
       "Saturday": {
@@ -887,7 +891,7 @@
         },
         "17:00": {
           "id": "Chris_Knight-Saturday-17:00",
-          "classType": "Partner Workout",
+          "classType": "Boxing Class",
           "participant": {},
           "participantLimit": 2,
           "classPrice": "free",
@@ -943,7 +947,7 @@
         },
         "17:00": {
           "id": "Chris_Knight-Sunday-17:00",
-          "classType": "Open Gym Class",
+          "classType": "Boxing Class",
           "participant": {},
           "participantLimit": 20,
           "classPrice": 26,

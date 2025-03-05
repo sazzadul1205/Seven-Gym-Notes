@@ -1,5 +1,6 @@
 [
   {
+    "_id": "67c7f6ca6970c237e8e141c9",
     "trainerName": "Alice Johnson",
     "trainerSchedule": {
       "Monday": {
@@ -256,7 +257,7 @@
         },
         "11:00": {
           "id": "Alice_Johnson-Friday-11:00",
-          "classType": "Workshops",
+          "classType": "Aerobics Class",
           "participant": {},
           "participantLimit": 11,
           "classPrice": "free",
@@ -285,6 +286,7 @@
     }
   },
   {
+    "_id": "67c7f6ca6970c237e8e141ca",
     "trainerName": "Bob Smith",
     "trainerSchedule": {
       "Monday": {
@@ -541,7 +543,7 @@
         },
         "11:00": {
           "id": "Bob_Smith-Friday-11:00",
-          "classType": "Partner Workout",
+          "classType": "Aerobics Class",
           "participant": {},
           "participantLimit": 4,
           "classPrice": 16,
@@ -570,6 +572,7 @@
     }
   },
   {
+    "_id": "67c7f6ca6970c237e8e141cb",
     "trainerName": "Carla Lee",
     "trainerSchedule": {
       "Monday": {
@@ -602,7 +605,7 @@
         },
         "17:00": {
           "id": "Carla_Lee-Monday-17:00",
-          "classType": "Partner Workout",
+          "classType": "Aerobics Class",
           "participant": {},
           "participantLimit": 2,
           "classPrice": 35,
@@ -658,7 +661,7 @@
         },
         "17:00": {
           "id": "Carla_Lee-Wednesday-17:00",
-          "classType": "Private Session",
+          "classType": "Aerobics Class",
           "participant": {},
           "participantLimit": 4,
           "classPrice": "free",
@@ -855,6 +858,7 @@
     }
   },
   {
+    "_id": "67c7f6ca6970c237e8e141cc",
     "trainerName": "Ethan Gray",
     "trainerSchedule": {
       "Saturday": {
@@ -999,7 +1003,7 @@
         },
         "17:00": {
           "id": "Ethan_Gray-Monday-17:00",
-          "classType": "Workshops",
+          "classType": "Aerobics Class",
           "participant": {},
           "participantLimit": 10,
           "classPrice": 10,
@@ -1055,7 +1059,7 @@
         },
         "17:00": {
           "id": "Ethan_Gray-Tuesday-17:00",
-          "classType": "Online Class",
+          "classType": "Aerobics Class",
           "participant": {},
           "participantLimit": "No limit",
           "classPrice": "free",
@@ -1111,7 +1115,7 @@
         },
         "17:00": {
           "id": "Ethan_Gray-Thursday-17:00",
-          "classType": "Online Class",
+          "classType": "Aerobics Class",
           "participant": {},
           "participantLimit": "No limit",
           "classPrice": 31,

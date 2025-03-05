@@ -1,5 +1,6 @@
 [
   {
+    "_id": "67c7f6856970c237e8e141c5",
     "trainerName": "Natalie Evans",
     "trainerSchedule": {
       "Monday": {
@@ -247,7 +248,7 @@
         },
         "10:00": {
           "id": "Natalie_Evans-Friday-10:00",
-          "classType": "Group Class",
+          "classType": "Zumba Class",
           "participant": {},
           "participantLimit": 15,
           "classPrice": "free",
@@ -285,6 +286,7 @@
     }
   },
   {
+    "_id": "67c7f6856970c237e8e141c6",
     "trainerName": "Dylan Martin",
     "trainerSchedule": {
       "Monday": {
@@ -532,7 +534,7 @@
         },
         "10:00": {
           "id": "Dylan_Martin-Friday-10:00",
-          "classType": "Partner Workout",
+          "classType": "Zumba Class",
           "participant": {},
           "participantLimit": 5,
           "classPrice": "free",
@@ -570,6 +572,7 @@
     }
   },
   {
+    "_id": "67c7f6856970c237e8e141c7",
     "trainerName": "Rachel Clark",
     "trainerSchedule": {
       "Monday": {
@@ -593,7 +596,7 @@
         },
         "16:00": {
           "id": "Rachel_Clark-Monday-16:00",
-          "classType": "Semi-Private Training",
+          "classType": "Zumba Class",
           "participant": {},
           "participantLimit": 5,
           "classPrice": "free",
@@ -649,7 +652,7 @@
         },
         "16:00": {
           "id": "Rachel_Clark-Tuesday-16:00",
-          "classType": "Drop-In Class",
+          "classType": "Zumba Class",
           "participant": {},
           "participantLimit": 15,
           "classPrice": 22,
@@ -705,7 +708,7 @@
         },
         "16:00": {
           "id": "Rachel_Clark-Wednesday-16:00",
-          "classType": "Drop-In Class",
+          "classType": "Zumba Class",
           "participant": {},
           "participantLimit": 17,
           "classPrice": 15,
@@ -855,6 +858,7 @@
     }
   },
   {
+    "_id": "67c7f6856970c237e8e141c8",
     "trainerName": "Liam Davis",
     "trainerSchedule": {
       "Monday": {
@@ -878,7 +882,7 @@
         },
         "16:00": {
           "id": "Liam_Davis-Monday-16:00",
-          "classType": "Drop-In Class",
+          "classType": "Zumba Class",
           "participant": {},
           "participantLimit": 11,
           "classPrice": "free",
@@ -934,7 +938,7 @@
         },
         "16:00": {
           "id": "Liam_Davis-Tuesday-16:00",
-          "classType": "Private Session",
+          "classType": "Zumba Class",
           "participant": {},
           "participantLimit": 3,
           "classPrice": "free",
@@ -990,7 +994,7 @@
         },
         "16:00": {
           "id": "Liam_Davis-Wednesday-16:00",
-          "classType": "Workshops",
+          "classType": "Zumba Class",
           "participant": {},
           "participantLimit": 10,
           "classPrice": 31,
@@ -1046,7 +1050,7 @@
         },
         "16:00": {
           "id": "Liam_Davis-Thursday-16:00",
-          "classType": "Private Session",
+          "classType": "Zumba Class",
           "participant": {},
           "participantLimit": 3,
           "classPrice": "free",

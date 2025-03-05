@@ -1,5 +1,6 @@
 [
   {
+    "_id": "67c7f4076970c237e8e141a1",
     "trainerName": "Ethan Ross",
     "trainerSchedule": {
       "Monday": {
@@ -14,7 +15,7 @@
         },
         "09:00": {
           "id": "Ethan_Ross-Monday-09:00",
-          "classType": "Workshops",
+          "classType": "HIIT Class",
           "participant": {},
           "participantLimit": 10,
           "classPrice": "free",
@@ -70,7 +71,7 @@
         },
         "09:00": {
           "id": "Ethan_Ross-Tuesday-09:00",
-          "classType": "Workshops",
+          "classType": "HIIT Class",
           "participant": {},
           "participantLimit": 15,
           "classPrice": "free",
@@ -126,7 +127,7 @@
         },
         "09:00": {
           "id": "Ethan_Ross-Wednesday-09:00",
-          "classType": "Private Session",
+          "classType": "HIIT Class",
           "participant": {},
           "participantLimit": 4,
           "classPrice": "free",
@@ -182,7 +183,7 @@
         },
         "09:00": {
           "id": "Ethan_Ross-Thursday-09:00",
-          "classType": "Partner Workout",
+          "classType": "HIIT Class",
           "participant": {},
           "participantLimit": 2,
           "classPrice": 26,
@@ -285,6 +286,7 @@
     }
   },
   {
+    "_id": "67c7f4076970c237e8e141a2",
     "trainerName": "Sophia Evans",
     "trainerSchedule": {
       "Monday": {
@@ -299,7 +301,7 @@
         },
         "09:00": {
           "id": "Sophia_Evans-Monday-09:00",
-          "classType": "Open Gym Class",
+          "classType": "HIIT Class",
           "participant": {},
           "participantLimit": 18,
           "classPrice": "free",
@@ -355,7 +357,7 @@
         },
         "09:00": {
           "id": "Sophia_Evans-Tuesday-09:00",
-          "classType": "Group Class",
+          "classType": "HIIT Class",
           "participant": {},
           "participantLimit": 17,
           "classPrice": "free",
@@ -411,7 +413,7 @@
         },
         "09:00": {
           "id": "Sophia_Evans-Wednesday-09:00",
-          "classType": "Open Gym Class",
+          "classType": "HIIT Class",
           "participant": {},
           "participantLimit": 12,
           "classPrice": 25,
@@ -467,7 +469,7 @@
         },
         "09:00": {
           "id": "Sophia_Evans-Thursday-09:00",
-          "classType": "Private Session",
+          "classType": "HIIT Class",
           "participant": {},
           "participantLimit": 4,
           "classPrice": 41,
@@ -570,6 +572,7 @@
     }
   },
   {
+    "_id": "67c7f4076970c237e8e141a3",
     "trainerName": "Mason Clark",
     "trainerSchedule": {
       "Wednesday": {
@@ -696,7 +699,7 @@
         },
         "15:00": {
           "id": "Mason_Clark-Friday-15:00",
-          "classType": "Workshops",
+          "classType": "HIIT Class",
           "participant": {},
           "participantLimit": 10,
           "classPrice": 49,
@@ -752,7 +755,7 @@
         },
         "15:00": {
           "id": "Mason_Clark-Saturday-15:00",
-          "classType": "Open Gym Class",
+          "classType": "HIIT Class",
           "participant": {},
           "participantLimit": 17,
           "classPrice": 16,
@@ -808,7 +811,7 @@
         },
         "15:00": {
           "id": "Mason_Clark-Sunday-15:00",
-          "classType": "Outdoor Class",
+          "classType": "HIIT Class",
           "participant": {},
           "participantLimit": 10,
           "classPrice": 18,
@@ -855,6 +858,7 @@
     }
   },
   {
+    "_id": "67c7f4076970c237e8e141a4",
     "trainerName": "Amelia Parker",
     "trainerSchedule": {
       "Wednesday": {
@@ -981,7 +985,7 @@
         },
         "15:00": {
           "id": "Amelia_Parker-Friday-15:00",
-          "classType": "Semi-Private Training",
+          "classType": "HIIT Class",
           "participant": {},
           "participantLimit": 5,
           "classPrice": 25,
@@ -1037,7 +1041,7 @@
         },
         "15:00": {
           "id": "Amelia_Parker-Saturday-15:00",
-          "classType": "Semi-Private Training",
+          "classType": "HIIT Class",
           "participant": {},
           "participantLimit": 3,
           "classPrice": "free",
@@ -1093,7 +1097,7 @@
         },
         "15:00": {
           "id": "Amelia_Parker-Sunday-15:00",
-          "classType": "Outdoor Class",
+          "classType": "HIIT Class",
           "participant": {},
           "participantLimit": 12,
           "classPrice": "free",

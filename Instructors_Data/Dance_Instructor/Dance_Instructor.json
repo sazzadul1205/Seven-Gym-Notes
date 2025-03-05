@@ -1,5 +1,6 @@
 [
   {
+    "_id": "67c7f5386970c237e8e141b2",
     "trainerName": "Thomas King",
     "trainerSchedule": {
       "Monday": {
@@ -41,7 +42,7 @@
         },
         "12:00": {
           "id": "Thomas_King-Monday-12:00",
-          "classType": "Group Classes",
+          "classType": "Dance Class",
           "participant": {},
           "participantLimit": 10,
           "classPrice": 19,
@@ -97,7 +98,7 @@
         },
         "12:00": {
           "id": "Thomas_King-Tuesday-12:00",
-          "classType": "Group Classes",
+          "classType": "Dance Class",
           "participant": {},
           "participantLimit": 20,
           "classPrice": "free",
@@ -153,7 +154,7 @@
         },
         "12:00": {
           "id": "Thomas_King-Wednesday-12:00",
-          "classType": "Group Classes",
+          "classType": "Dance Class",
           "participant": {},
           "participantLimit": 20,
           "classPrice": 20,
@@ -209,7 +210,7 @@
         },
         "12:00": {
           "id": "Thomas_King-Thursday-12:00",
-          "classType": "Private Training",
+          "classType": "Dance Class",
           "participant": {},
           "participantLimit": 4,
           "classPrice": 44,
@@ -285,6 +286,7 @@
     }
   },
   {
+    "_id": "67c7f5386970c237e8e141b3",
     "trainerName": "Ryan Hall",
     "trainerSchedule": {
       "Monday": {
@@ -326,7 +328,7 @@
         },
         "12:00": {
           "id": "Ryan_Hall-Monday-12:00",
-          "classType": "Group Classes",
+          "classType": "Dance Class",
           "participant": {},
           "participantLimit": 19,
           "classPrice": 44,
@@ -382,7 +384,7 @@
         },
         "12:00": {
           "id": "Ryan_Hall-Tuesday-12:00",
-          "classType": "Workshops",
+          "classType": "Dance Class",
           "participant": {},
           "participantLimit": 13,
           "classPrice": "free",
@@ -438,7 +440,7 @@
         },
         "12:00": {
           "id": "Ryan_Hall-Wednesday-12:00",
-          "classType": "Workshops",
+          "classType": "Dance Class",
           "participant": {},
           "participantLimit": 15,
           "classPrice": "free",
@@ -494,7 +496,7 @@
         },
         "12:00": {
           "id": "Ryan_Hall-Thursday-12:00",
-          "classType": "Group Classes",
+          "classType": "Dance Class",
           "participant": {},
           "participantLimit": 10,
           "classPrice": 12,
@@ -570,6 +572,7 @@
     }
   },
   {
+    "_id": "67c7f5386970c237e8e141b4",
     "trainerName": "Sophia Carter",
     "trainerSchedule": {
       "Saturday": {
@@ -611,7 +614,7 @@
         },
         "18:00": {
           "id": "Sophia_Carter-Saturday-18:00",
-          "classType": "Group Classes",
+          "classType": "Dance Class",
           "participant": {},
           "participantLimit": 17,
           "classPrice": "free",
@@ -667,7 +670,7 @@
         },
         "18:00": {
           "id": "Sophia_Carter-Sunday-18:00",
-          "classType": "Private Sessions",
+          "classType": "Dance Class",
           "participant": {},
           "participantLimit": 2,
           "classPrice": "free",
@@ -855,6 +858,7 @@
     }
   },
   {
+    "_id": "67c7f5386970c237e8e141b5",
     "trainerName": "Olivia Taylor",
     "trainerSchedule": {
       "Wednesday": {
@@ -1008,7 +1012,7 @@
         },
         "18:00": {
           "id": "Olivia_Taylor-Friday-18:00",
-          "classType": "Workshops",
+          "classType": "Dance Class",
           "participant": {},
           "participantLimit": 14,
           "classPrice": "free",
@@ -1064,7 +1068,7 @@
         },
         "18:00": {
           "id": "Olivia_Taylor-Saturday-18:00",
-          "classType": "Private Training",
+          "classType": "Dance Class",
           "participant": {},
           "participantLimit": 2,
           "classPrice": 25,
@@ -1120,7 +1124,7 @@
         },
         "18:00": {
           "id": "Olivia_Taylor-Sunday-18:00",
-          "classType": "Workshops",
+          "classType": "Dance Class",
           "participant": {},
           "participantLimit": 11,
           "classPrice": "free",
