@@ -636,6 +636,161 @@
   - Enhance **user engagement** with animated hover effects.
   - Add **filtering options** for easier trainer selection.
 
+### 3.4.1 Trainer Details Header Component
+
+- **Description**:  
+  Displays the trainer’s profile, including name, image, specialization, tier badge, and gender icon, ensuring a visually appealing and structured layout.
+
+- **Objective**:
+
+  - Present **essential** trainer details in an **engaging** and **informative** manner.
+  - Use **dynamic styling** for a polished UI.
+  - Optimize **performance** and **accessibility**.
+
+- **Functionality**:
+
+  - **Trainer Profile**: Displays the trainer’s `name`, `imageUrl` (fallback: `/default-profile.png`), and gender icon (Male, Female, Other, Not specified).
+  - **Specialization**: Highlights the trainer’s expertise (fallback: "Specialization Not Available").
+  - **Tier Badge**: Shows dynamically styled rankings (Bronze, Silver, Gold, Diamond, Platinum).
+  - **Styling**: Implements a **gradient background**, **lazy loading** for images, and **responsive design**.
+
+- **Suggestions**:
+  - Improve **accessibility** by refining `alt` text for images.
+  - Optimize **performance** by implementing lazy loading.
+  - Enhance **user engagement** with hover effects and animations.
+  - Ensure **mobile-friendliness** by adjusting spacing and font sizes.
+
+### 3.4.2 Trainer Details About Component
+
+- **Description**:  
+  Displays key background information about the trainer, including their bio, experience, age, and availability.
+
+- **Objective**:
+
+  - Provide **clear and concise** trainer details.
+  - Maintain a **structured and visually appealing** layout.
+  - Ensure **accessibility** and **responsive design**.
+
+- **Functionality**:
+
+  - **Trainer Bio**: Displays the trainer’s `name` and `bio` (fallback: "No bio available.").
+  - **Experience & Age**: Shows trainer's `experience` and `age` (fallback: "N/A").
+  - **Availability**: Lists `availableDays` (fallback: "Not available").
+  - **Styling**: Implements **gradient background**, **grid layout**, and **hover effects**.
+
+- **Suggestions**:
+  - Improve **accessibility** by refining text contrast.
+  - Enhance **user engagement** with animations on hover.
+  - Optimize **mobile responsiveness** by adjusting grid behavior.
+  - Ensure **fallback values** provide useful default information.
+
+### 3.4.3 Trainer Details Contact Component
+
+- **Description**:  
+  Displays the trainer's contact information, including phone, email, website, and social media links.
+
+- **Objective**:
+
+  - Provide **easy access** to the trainer’s contact details.
+  - Maintain a **clean and structured** layout.
+  - Ensure **accessibility** and **responsive design**.
+
+- **Functionality**:
+
+  - **Phone & Email**: Displays trainer’s `phone` and `email` with appropriate icons.
+  - **Website**: Shows `website` link if available.
+  - **Social Media Links**: Supports LinkedIn, Instagram, Facebook, Twitter, YouTube, Twitch, Pinterest, Snapchat, WhatsApp, Reddit, Discord, and TikTok.
+  - **Styling**: Uses **gradient background**, **shadow effects**, and **hover animations**.
+
+- **Suggestions**:
+  - Improve **accessibility** with better contrast for icons and text.
+  - Optimize **mobile responsiveness** by adjusting grid layout.
+  - Ensure **proper link handling** for external sites (e.g., `noopener noreferrer`).
+  - Use **lazy loading** for icons to improve performance.
+
+### 3.4.4 Trainer Details Schedule Component
+
+<!-- Update this after the trainers Dashboard is Created -->
+
+- **Description**:  
+  Displays a trainer’s weekly schedule, including class times, types, participant limits, and pricing.
+
+- **Objective**:
+
+  - Provide a **structured overview** of the trainer’s schedule.
+  - Offer **dynamic booking options** based on class availability.
+  - Ensure **responsive design** for both mobile and desktop users.
+
+- **Functionality**:
+
+  - **Accordion-style weekly schedule** with collapsible days.
+  - **Handles different class types** (e.g., group classes, private sessions, free classes).
+  - **Dynamic buttons** based on class availability:
+    - **"Booked" button** for full classes.
+    - **"Book Session" button** for reservable classes.
+    - **"Free Class" button** for open gym/drop-in sessions.
+    - **"On a Break" button** for break periods.
+    - **"Visit Class" button** for general classes.
+  - **Responsive Design**:
+    - **Mobile View**: List format with stacked details.
+    - **Desktop View**: Table format for clarity.
+
+- **Suggestions**:
+  - Improve **accessibility** by ensuring color contrast and larger touch targets.
+  - Optimize **performance** by using **lazy loading** for heavy elements.
+  - Consider **caching** or **memoization** for schedule data to reduce re-renders.
+  - Add **real-time availability updates** if integrated with a backend system.
+
+### 3.4.5 Trainer Details Details Component
+
+- **Description**:  
+  Displays detailed information about a trainer, including their certifications, awards, training preferences, additional services, equipment used, and partnerships.
+
+- **Objective**:
+
+  - Provide a **comprehensive view** of a trainer’s qualifications and expertise.
+  - Organize and present the trainer’s **skills, services, and credentials** in a user-friendly manner.
+  - Ensure **visual clarity** with a responsive and clean design for both mobile and desktop users.
+
+- **Functionality**:
+
+  - **Certifications Section**:
+
+    - Displays a **list of trainer certifications**.
+    - If no certifications are provided, display **"No certifications listed"**.
+
+  - **Awards Section**:
+
+    - Showcases **awards** with details like title, year, and the awarding organization.
+    - If no awards are available, display **"No awards listed"**.
+
+  - **Training Preferences Section**:
+
+    - Displays **focus areas** and **class types** the trainer specializes in.
+    - Uses a **grid layout** with multiple columns for clarity.
+
+  - **Additional Services Section**:
+
+    - Lists **extra services** offered by the trainer (e.g., one-on-one coaching, group sessions).
+    - If no services are listed, display **"No additional services listed"**.
+
+  - **Equipment Used Section**:
+
+    - Displays the **equipment** the trainer typically uses during classes.
+    - If no equipment is provided, display **"No equipment listed"**.
+
+  - **Partnerships Section**:
+    - Lists the **trainer’s partnerships** with organizations or brands, including their names and linked websites.
+    - If no partnerships exist, display **"No partnerships listed"**.
+
+
+- **Suggestions**:
+  - Improve **accessibility** by ensuring **high contrast** and **larger touch targets** for better usability.
+  - Optimize **performance** by **memoizing** content and reducing unnecessary re-renders.
+  - Consider **lazy loading** for sections that may contain large amounts of data (e.g., awards or partnerships).
+  - Add **filtering options** for long lists of items (e.g., certifications, awards) to improve user navigation.
+
+
 # 4. User Pages
 
 # 5 Page Not Found (404)
@@ -656,21 +811,3 @@
 
 - **Suggestion**:
   Consider adding more user guidance, like links to popular pages or a search bar for better navigation. Also, ensure that the text is legible on all screen sizes, possibly by adjusting font size for smaller devices.
-
-<!-- Code Update -->
-
-phone: "+1 234 567 890",
-email: "johndoe@example.com",
-website: "https://www.johndoefitness.com",
-linkedin: "https://www.linkedin.com/in/johndoe",
-instagram: "https://www.instagram.com/johndoefitness",
-facebook: "https://www.facebook.com/johndoefitness",
-twitter: "https://twitter.com/johndoefitness",
-youtube: "https://www.youtube.com/c/johndoefitness",
-twitch: "https://www.twitch.tv/johndoefitness",
-pinterest: "https://www.pinterest.com/johndoefitness",
-snapchat: "https://www.snapchat.com/add/johndoefitness",
-whatsapp: "https://wa.me/1234567890",
-reddit: "https://www.reddit.com/user/johndoefitness",
-discord: "https://discord.gg/example",
-tiktok: "https://www.tiktok.com/@johndoefitness",
