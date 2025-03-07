@@ -783,13 +783,54 @@
     - Lists the **trainer’s partnerships** with organizations or brands, including their names and linked websites.
     - If no partnerships exist, display **"No partnerships listed"**.
 
-
 - **Suggestions**:
   - Improve **accessibility** by ensuring **high contrast** and **larger touch targets** for better usability.
   - Optimize **performance** by **memoizing** content and reducing unnecessary re-renders.
   - Consider **lazy loading** for sections that may contain large amounts of data (e.g., awards or partnerships).
   - Add **filtering options** for long lists of items (e.g., certifications, awards) to improve user navigation.
 
+### 3.4.6 Trainer Details Testimonials Component
+
+- **Description**:  
+  Displays client testimonials for a trainer, including client names, ratings, and feedback in a **dynamic slider format**. It also calculates and displays the **trainer's average rating**.
+
+- **Objective**:
+
+  - Provide a **user-friendly** and visually appealing way to showcase client feedback.
+  - Display **star ratings and reviews** to enhance credibility.
+  - Ensure **smooth and continuous scrolling** for better user engagement.
+  - Make the component **fully responsive** for both mobile and desktop users.
+
+- **Functionality**:
+
+  - **Testimonial Display**:
+
+    - Lists **client testimonials** with the client’s name, rating, and feedback.
+    - If no testimonials exist, displays **"No testimonials available."**
+
+  - **Average Rating Calculation**:
+
+    - Computes the **average rating** from all testimonials.
+    - Displays **rounded rating** with corresponding star icons.
+
+  - **Star Rating Rendering**:
+
+    - Shows **five-star rating visuals** based on the client’s review score.
+    - Uses **colored stars** to indicate filled and unfilled portions.
+
+  - **Testimonial Slider**:
+    - Uses **auto-scrolling with smooth transitions**.
+    - Adapts to different screen sizes:
+      - **Desktop View**: Displays **three testimonials** at a time.
+      - **Tablet View**: Displays **two testimonials**.
+      - **Mobile View**: Displays **one testimonial**.
+
+- **Suggestions**:
+
+  - Improve **accessibility** by ensuring **proper color contrast** and **readable fonts**.
+  - Optimize **performance** by using **lazy loading** and **memoization** to prevent unnecessary re-renders.
+  - Consider **adding pagination controls** for users who prefer manual navigation.
+  - Implement **real-time updates** if testimonials are fetched from a backend system.
 
 # 4. User Pages
 
