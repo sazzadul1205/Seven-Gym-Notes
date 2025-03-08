@@ -832,6 +832,413 @@
   - Consider **adding pagination controls** for users who prefer manual navigation.
   - Implement **real-time updates** if testimonials are fetched from a backend system.
 
+## 3.5 Classes Page
+
+- **Page Description**:  
+  The Classes page displays all available gym classes, categorized into modules. It provides users with detailed information about class schedules, modules, and specific class details.
+
+- **Objective**:
+
+  - Showcase the different class modules available at the gym.
+  - Allow users to view detailed class schedules and module information.
+  - Provide a seamless navigation experience for users to explore and join classes.
+
+- **Functionality**:
+
+  - **Fetching Data**:
+
+    - Uses `react-query` to fetch data for class schedules, modules, and detailed class information from an API.
+    - Displays loading indicators while data is being fetched.
+    - Shows an error component if data fetching fails.
+
+  - **Class Modules Section**:
+
+    - Displays available class modules in a **grid layout** with responsive design.
+    - Each module has a **hover effect** that reveals a "Join Now" button.
+    - Clicking a module redirects users to its respective class details page.
+    - If a module has an associated icon, it is displayed above the module name.
+
+  - **All Classes Component**:
+    - Passes fetched class schedule data to the `AllClasses` component for further display.
+
+- **Suggestions**:
+  - Improve **mobile responsiveness** by adjusting the grid layout for smaller screens.
+  - Enhance the **hover effect** by adding a smooth scale animation when users hover over a module.
+  - Display a **brief description** of each module to help users quickly understand what each class offers.
+  - Include a **search or filter option** to allow users to find specific classes faster.
+
+### All Classes Component
+
+- **Description**:  
+  The All Classes page provides a **detailed schedule** of all available gym classes. It dynamically updates in real-time, displaying the **current time** and **ongoing, upcoming, or completed classes**.
+
+- **Objective**:
+
+  - Organize and display the class schedule in a **user-friendly** format.
+  - Show real-time class status (**ongoing, upcoming, or completed**).
+  - Enhance **user engagement** with visual elements like icons and progress bars.
+
+- **Functionality**:
+
+  - **Real-Time Clock & Date**:
+
+    - Uses `useState` and `useEffect` to **update the time every second**.
+    - Displays **current day and live time** at the top of the page.
+
+  - **Class Sorting**:
+
+    - Classes are sorted so that **today’s classes appear first**, followed by the rest of the week.
+    - Uses `date-fns` to handle **date/time parsing, formatting, and comparisons**.
+
+  - **Class Status & Progress**:
+
+    - Determines if a class is **ongoing, upcoming, or completed** based on the current time.
+    - If a class is ongoing, a **progress bar** visually indicates its completion percentage.
+    - Highlights classes that start **within the next 60 minutes** as **“Starting Soon”**.
+
+  - **Class Display & Styling**:
+
+    - Each class module has an **icon** (if available) and **time slot**.
+    - **Color-coded backgrounds**:
+      - **Green** for ongoing classes.
+      - **Gray** for completed classes.
+      - **White** for upcoming classes.
+    - **Hover Effect**: Enlarges the class card slightly when hovered over on larger screens.
+
+  - **Prop Validation**:
+    - Uses `PropTypes` to **ensure correct data structure**, preventing errors.
+
+- **Suggestions**:
+  - Add a **filter or search bar** so users can quickly find specific classes.
+  - Implement a **weekly view toggle** to allow users to switch between **daily and weekly schedules**.
+  - Improve **mobile responsiveness** by adjusting the grid layout for smaller screens.
+  - Add **clickable class cards** that navigate to detailed class descriptions.
+
+## 3.6 Classes Details Page
+
+- **Description**:  
+  Displays detailed information about a selected class, including description, key features, pricing, schedule, trainers, and reviews, fetched dynamically using React Query.
+
+- **Objectives**:
+
+  - Display detailed class data with an appealing layout (background image, banner, structured sections).
+  - Fetch data for class, schedule, trainers, and users.
+  - Handle loading and error states.
+
+- **Functionality**:
+
+  - **Dynamic Data Fetching**:
+
+    - Use `useParams` for class selection.
+    - Fetch data using `useQuery` from multiple endpoints:
+      - `Class_Details`: Class data
+      - `Our_Classes_Schedule`: Schedule info
+      - `Trainers/SearchTrainersByNames`: Trainer details
+      - `Users`: User data (if logged in).
+
+  - **Loading & Error Handling**:
+
+    - Show `Loading` component during fetch.
+    - Display `FetchingError` if any request fails.
+
+  - **Sections**:
+    - **Class Header**: Banner image with dark gradient, class title centered with bold font.
+    - **Content Sections**:
+      - `ClassesDetailsContent`: General class info.
+      - `ClassesDetailsDescription`: Class overview.
+      - `ClassesDetailsKeyFeatures`: Main benefits and features.
+      - `ClassesDetailsPrice`: Pricing and membership.
+      - `ClassesDetailsSchedule`: Schedule and time slots.
+      - `ClassesDetailsTrainers`: Trainers and expertise.
+      - `ClassesDetailsMore`: Additional info.
+      - `ClassesDetailsReview`: User reviews and ratings.
+
+- **Suggestions**:
+  - Add **“Enroll Now” button**, **Q&A section**, **save favorite classes** option.
+  - Provide **trainer profile links** and **gym map/virtual tour**.
+
+### 3.6.1 Classes Details Content Component
+
+- **Description**:  
+  A detailed section within the Class Details page that provides information about a specific class module, including its **description, additional info, difficulty level, and prerequisites**. It also features a **module overview** with an icon and brief summary.
+
+- **Objective**:
+
+  - Display key details about the selected class in a structured and visually appealing format.
+  - Enhance readability with icons, headings, and layout divisions.
+  - Provide an engaging hover effect on the module overview section.
+
+- **Functionality**:
+
+  - **Dynamic Data Handling**:
+
+    - Uses `ThisModule` prop to dynamically fetch and display class details.
+    - Displays **default messages** if data is missing.
+
+  - **Content Sections**:
+    - **Description**: General overview of the class module.
+    - **Additional Info**: Any extra details about the module.
+    - **Difficulty Level**: Indicates how challenging the module is.
+    - **Prerequisites**: Lists any required prior knowledge or skills.
+    - **Module Overview**:
+      - Displays a **module icon** (fetched dynamically).
+      - Shows the **module name** and a **brief engaging summary**.
+      - Uses **hover effects** for interactivity.
+
+- **Suggestions**:
+  - Add a **“Enroll Now” button** for user engagement.
+  - Include **tags or categories** for better module classification.
+  - Allow users to **rate or bookmark** the module for future reference.
+  - Implement a **collapsible section** for additional information.
+
+### 3.6.2 Classes Details Description Component
+
+- **Page Description**:  
+  A component within the Class Details page that displays a **detailed description** of the selected class module. It ensures users get an in-depth understanding of the class content.
+
+- **Objective**:
+
+  - Present a **well-structured, readable, and visually appealing** description section.
+  - Ensure a **fallback mechanism** if the primary description is unavailable.
+  - Maintain a **consistent design** with the overall Class Details page.
+
+- **Functionality**:
+
+  - **Dynamic Data Handling**:
+
+    - Retrieves the **detailed description** from `ThisModule`.
+    - Uses `bigDescription` as a secondary fallback.
+    - Displays a **default message** if no description is available.
+
+  - **Content Structure**:
+    - **Title Section**: "Detailed Description" with a **subtle underline**.
+    - **Description Content**:
+      - Uses **italic styling** for a smooth reading experience.
+      - Maintains a **relaxed line spacing** for better readability.
+
+- **Suggestions**:
+  - Add a **“Read More”** feature for expandable content.
+  - Include **bullet points or highlights** for key takeaways.
+  - Allow users to **leave comments or ask questions** about the class.
+  - Enhance accessibility with **text-to-speech support**.
+
+### 3.6.3 Classes Details Key Features Component
+
+- **Description**:  
+  A component within the Class Details page that highlights the **key features** of the selected class module using dynamically styled tags.
+
+- **Objective**:
+
+  - Display **important class features** in an eye-catching, structured way.
+  - Use **color-coded tags** to enhance readability and engagement.
+  - Ensure **adaptive text contrast** for accessibility and clarity.
+
+- **Functionality**:
+
+  - **Dynamic Tag Rendering**:
+
+    - Retrieves key features from `ThisModule.tags`.
+    - Displays each feature as a **distinct tag** with unique styling.
+    - If no features exist, the section remains hidden.
+
+  - **Color Customization**:
+
+    - Uses a **predefined color palette** for variety.
+    - Cycles through colors to prevent repetition.
+    - Adjusts **text contrast** based on background brightness for readability.
+
+  - **Interactive Styling**:
+    - Each tag has a **hover effect**, scaling up slightly for a dynamic feel.
+    - Uses a **flexbox layout** for an adaptive, responsive design.
+
+- **Suggestions**:
+  - Allow **users to suggest or up vote features** they find most valuable.
+  - Introduce **icons or tooltips** for feature explanations.
+  - Add **filtering options** for users to explore relevant features.
+  - Implement **animation effects** for smoother transitions.
+
+### 3.6.4 Classes Details Price Component
+
+- **Page Description**:  
+  A component within the Class Details page that **displays the pricing structure** for different subscription durations and allows users to book a class.
+
+- **Objective**:
+
+  - Provide **clear and structured pricing** for users.
+  - Offer **various pricing options** (daily, weekly, monthly, yearly).
+  - Allow users to **easily book a class** via a modal form.
+
+- **Functionality**:
+
+  - **Dynamic Pricing Calculation**:
+
+    - Extracts `dailyClassFee` from `ThisModule`.
+    - Computes **weekly, monthly, and yearly fees** by multiplying the daily rate and adding a **flat $20 extra fee**.
+
+  - **Pricing Display with Cards**:
+
+    - Uses the **PriceCard** component for a **uniform look**.
+    - Applies **hover effects** to enhance engagement.
+    - Adopts a **grid layout** for responsive design.
+
+  - **Join Class Button & Booking Modal**:
+    - Clicking **"Join Class"** opens a modal (`ClassBookingFormModal`).
+    - If the modal **fails to open**, an error is logged.
+    - The modal form **collects user data** for booking.
+
+- **Suggestions**:
+  - Implement **discounted pricing** based on **membership tiers or promotions**.
+  - Show **real-time pricing updates** if discounts or dynamic rates apply.
+  - Add **icons or tooltips** explaining price variations.
+  - Integrate **payment gateway options** for direct booking.
+
+### 3.6.5 Classes Details Schedule Component
+
+- **Page Description**:  
+  A component within the Class Details page that **displays the weekly schedule** for a class in a **structured table format**.
+
+- **Objective**:
+
+  - Present the **weekly schedule in a readable and organized** manner.
+  - Ensure days are **sorted correctly** starting from **Friday**.
+  - Convert **24-hour time format** to **12-hour AM/PM format** for better readability.
+
+- **Functionality**:
+
+  - **Sorting Days in Custom Order**:
+
+    - Days are ordered manually in the sequence: **Friday → Thursday**.
+    - Sorting ensures consistency, even if data is **unsorted from the backend**.
+
+  - **Time Conversion for Better Readability**:
+
+    - The function `convertTo12HourFormat()` transforms **"14:30"** into **"2:30 PM"**.
+    - Ensures a **standardized and user-friendly** format.
+
+  - **Dynamic Schedule Table Rendering**:
+    - Iterates over `ClassScheduleData` and generates **table rows dynamically**.
+    - Applies **striped row styling** for better readability (`gray-100` for even rows, `white` for odd rows).
+    - Displays **serial numbers**, **day names**, **start times**, and **end times** in separate columns.
+
+- **Suggestions**:
+  - Highlight **ongoing classes** dynamically by **adding real-time indicators**.
+  - Show **class duration** by calculating the time difference.
+  - Implement **filters** to allow users to view only **specific days** or **time ranges**.
+  - Add a **tooltip or modal** to provide **additional details** about each session.
+
+### 3.6.6 Classes Details Trainers Component
+
+- **Description**:  
+  A section within the **Class Details page** that **introduces the trainers** assigned to the class, displaying their names, roles, and other details.
+
+- **Objective**:
+
+  - Provide a **structured and visually appealing** layout for trainers.
+  - Categorize trainers into **roles**:
+    - **Class Teacher**
+    - **Helper Teacher**
+    - **Fallback Teacher**
+    - **General Trainer**
+
+- **Functionality**:
+
+  - **Assigning Roles Dynamically**:
+
+    - Uses `getTrainerRole(trainer)` to determine the trainer’s **role based on `ThisModule`** data.
+    - Prioritizes role assignment:
+      - If the trainer is the **class teacher**, they get the **"Class Teacher"** role.
+      - If listed in `helperTeachers`, they are marked as **"Helper"**.
+      - If the trainer is assigned as `fallbackTeacher`, they get the **"Fallback Teacher"** role.
+      - Any other trainer defaults to **"Trainer"**.
+
+  - **Handling Empty Data Gracefully**:
+
+    - If `TrainersData` is empty, it **displays a user-friendly message** instead of leaving the section blank.
+
+  - **Dynamic Trainer Card Rendering**:
+    - Uses `TrainerPublicIdCard` component to display **individual trainer profiles**.
+    - Organizes the cards in a **responsive grid layout**.
+    - Supports **1-4 column layouts** based on screen size.
+
+- **Suggestions**:
+  - Display **additional trainer details** (e.g., certifications, specialties).
+  - Add **profile pictures** for better visualization.
+  - Implement **filters/search** for trainers based on role or expertise.
+  - Include **ratings or testimonials** for trainers from students.
+    s
+
+### 3.6.7 Classes Details More Component
+
+- **Description**:  
+  A section within the **Class Details page** that provides **additional insights** about the class, including its goals, benefits, feedback process, and milestones.
+
+- **Objective**:
+
+  - Display **key class-related information** in an **organized** and **visually appealing** way.
+  - Ensure **data clarity** with structured **categories**.
+
+- **Functionality**:
+
+  - **Modular Information Display**:
+
+    - Organizes details into **four distinct sections**:
+      1. **Class Goals** → The main objectives of the class.
+      2. **Fitness Benefits** → Health and fitness advantages for participants.
+      3. **Feedback Mechanism** → How feedback is collected and utilized.
+      4. **Class Milestones** → Key achievements and progress markers.
+
+  - **Dynamic Content Rendering**:
+
+    - Each section **only displays if data is available**.
+    - If a section is empty, it shows **"No data available"** instead of leaving it blank.
+
+  - **Enhanced UI Elements**:
+    - **Icons for each section** to improve readability and engagement.
+    - **Gradient background and hover effect** to make each section interactive.
+
+- **Suggestions**:
+  - Add **clickable tooltips or modals** for in-depth explanations.
+  - Implement an **expand/collapse feature** for a cleaner layout.
+  - Include **progress tracking** for class milestones with visual indicators (bars, charts).
+  - Introduce **user-submitted feedback visibility** for transparency and improvement tracking.
+
+### 3.6.8 Classes Details Review Component
+
+- **Description**:  
+  A **dynamic review section** within the **Class Details page** that displays **feedback** from participants and highlights the class's **overall rating**.
+
+- **Objective**:
+
+  - Showcase **real user experiences** to **build trust** and **credibility**.
+  - Provide a **clear visual representation** of class quality using **ratings and reviews**.
+
+- **Functionality**:
+
+  - **Star Rating Calculation**:
+
+    - Computes **average rating** from all reviews.
+    - Displays **stars dynamically** based on the computed rating.
+
+  - **Review Carousel (Auto-Scrolling)**:
+
+    - Uses **react-slick** for a smooth **horizontal review slider**.
+    - Adjusts the number of visible reviews based on **screen size** (desktop, tablet, mobile).
+
+  - **User-Friendly Review Display**:
+
+    - Shows **reviewer name** (or **"Anonymous"** if undefined).
+    - Displays **rating with stars**.
+    - Ensures comments are visible (defaults to **"No comment provided."** if empty).
+
+  - **Handles No Reviews Case**:
+    - If there are **no reviews**, it shows **"No reviews available yet."** instead of leaving an empty section.
+
+- **Suggestions**:
+  - Add a **"Write a Review"** button to allow users to submit feedback.
+  - Display a **breakdown of ratings** (e.g., number of 5-star, 4-star, etc.).
+  - Implement a **sorting/filtering option** (e.g., most recent, highest-rated).
+  - Highlight **featured reviews** at the top for better engagement.
+
 # 4. User Pages
 
 # 5 Page Not Found (404)
