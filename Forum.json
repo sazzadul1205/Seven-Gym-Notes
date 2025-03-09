@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Welcome to FitLife Community!",
+    "description": "Welcome to the ultimate fitness community where we share tips, success stories, and support each other on our fitness journeys. Whether you're just starting out or you're a seasoned athlete, this is the place to connect, learn, and grow together.",
+    "likes": 20,
+    "likedBy": {},
+    "category": "Community",
+    "tags": ["Introduction", "Fitness Community", "Motivation"],
+    "author": {
+      "name": "Admin",
+      "profileUrl": "/profile/admin"
+    },
+    "createdAt": "2024-12-15T10:00:00Z",
+    "comments": [
+      {
+        "name": "Alice",
+        "comment": "Excited to be part of this community!",
+        "commentedAt": "2024-12-15T11:15:00Z"
+      },
+      {
+        "name": "John",
+        "comment": "Looking forward to sharing tips and learning.",
+        "commentedAt": "2024-12-15T11:45:00Z"
+      },
+      {
+        "name": "Sophia",
+        "comment": "Great to join this forum, let's get started!",
+        "commentedAt": "2024-12-15T12:05:00Z"
+      }
+    ]
+  },
+  {
+    "title": "Best exercises for beginners",
+    "description": "Starting your fitness journey can be overwhelming. In this thread, we discuss the best exercises for beginners, focusing on proper form, low-impact options, and building a solid foundation. Let’s help each other start strong and avoid injuries!",
+    "likes": 34,
+    "likedBy": {},
+    "category": "Workouts",
+    "tags": ["Beginner Exercises", "Workouts", "Fitness Tips"],
+    "author": {
+      "name": "CoachMike",
+      "profileUrl": "/profile/coachmike"
+    },
+    "createdAt": "2024-12-14T14:30:00Z",
+    "comments": [
+      {
+        "name": "Emma",
+        "comment": "Bodyweight exercises are a great start!",
+        "commentedAt": "2024-12-14T15:10:00Z"
+      },
+      {
+        "name": "Liam",
+        "comment": "Focus on consistency over intensity.",
+        "commentedAt": "2024-12-14T15:25:00Z"
+      },
+      {
+        "name": "Sophia",
+        "comment": "Planks and squats helped me early on.",
+        "commentedAt": "2024-12-14T15:45:00Z"
+      }
+    ]
+  },
+  {
+    "title": "Meal prep tips for busy schedules",
+    "description": "Meal prep can save time, money, and ensure you’re eating healthy. Share your favorite recipes, storage hacks, and strategies for prepping meals for the week. Whether it’s high-protein meals or quick snacks, let’s simplify healthy eating!",
+    "likes": 40,
+    "likedBy": {},
+    "category": "Nutrition",
+    "tags": ["Meal Prep", "Healthy Eating", "Recipes"],
+    "author": {
+      "name": "FitnessFoodie",
+      "profileUrl": "/profile/fitnessfoodie"
+    },
+    "createdAt": "2024-12-13T09:20:00Z",
+    "comments": [
+      {
+        "name": "Ethan",
+        "comment": "Grilled chicken and veggies are my go-to.",
+        "commentedAt": "2024-12-13T10:00:00Z"
+      },
+      {
+        "name": "Mia",
+        "comment": "Mason jar salads are game-changers!",
+        "commentedAt": "2024-12-13T10:30:00Z"
+      },
+      {
+        "name": "Olivia",
+        "comment": "Investing in quality containers is key.",
+        "commentedAt": "2024-12-13T10:50:00Z"
+      }
+    ]
+  },
+  {
+    "title": "Overcoming fitness plateaus",
+    "description": "Hitting a plateau can be frustrating, but it’s also a normal part of the fitness journey. Share your experiences and strategies for breaking through plateaus, whether it’s adjusting your routine, trying new workouts, or tweaking your diet.",
+    "likes": 52,
+    "likedBy": {},
+    "category": "Challenges",
+    "tags": ["Fitness Plateaus", "Motivation", "Progress"],
+    "author": {
+      "name": "GoalCrusher",
+      "profileUrl": "/profile/goalcrusher"
+    },
+    "createdAt": "2024-12-12T16:40:00Z",
+    "comments": [
+      {
+        "name": "Sophia",
+        "comment": "Switching to interval training helped me!",
+        "commentedAt": "2024-12-12T17:05:00Z"
+      },
+      {
+        "name": "Noah",
+        "comment": "Tracking macros gave me new insights.",
+        "commentedAt": "2024-12-12T17:20:00Z"
+      },
+      {
+        "name": "Isabella",
+        "comment": "Rest days are just as important!",
+        "commentedAt": "2024-12-12T17:35:00Z"
+      }
+    ]
+  },
+  {
+    "title": "Staying motivated on tough days",
+    "description": "We all have days when motivation is low, and the couch seems more appealing than the gym. Share your go-to strategies for staying motivated, from setting goals to finding a workout buddy or just showing up, even when you don’t feel like it.",
+    "likes": 18,
+    "likedBy": {},
+    "category": "Motivation",
+    "tags": ["Motivation", "Mental Health", "Persistence"],
+    "author": {
+      "name": "FitnessGuru",
+      "profileUrl": "/profile/fitnessguru"
+    },
+    "createdAt": "2024-12-10T08:00:00Z",
+    "comments": [
+      {
+        "name": "Ella",
+        "comment": "Music pumps me up every time!",
+        "commentedAt": "2024-12-10T08:15:00Z"
+      },
+      {
+        "name": "Liam",
+        "comment": "I remind myself why I started.",
+        "commentedAt": "2024-12-10T08:30:00Z"
+      },
+      {
+        "name": "Charlotte",
+        "comment": "Visualizing progress helps me push through.",
+        "commentedAt": "2024-12-10T08:45:00Z"
+      }
+    ]
+  },
+  {
+    "title": "Cardio vs. strength training",
+    "description": "Both cardio and strength training have unique benefits for your fitness journey. Discuss your preferences, the pros and cons of each, and how to balance them for optimal results. Whether you love running or lifting, let’s share insights!",
+    "likes": 22,
+    "likedBy": {},
+    "category": "Workouts",
+    "tags": ["Cardio", "Strength Training", "Fitness Balance"],
+    "author": {
+      "name": "ActiveLife",
+      "profileUrl": "/profile/activelife"
+    },
+    "createdAt": "2024-12-09T14:30:00Z",
+    "comments": [
+      {
+        "name": "Daniel",
+        "comment": "Strength training for me, every time!",
+        "commentedAt": "2024-12-09T14:45:00Z"
+      },
+      {
+        "name": "Sophia",
+        "comment": "I love mixing HIIT with weightlifting.",
+        "commentedAt": "2024-12-09T15:00:00Z"
+      },
+      {
+        "name": "Ava",
+        "comment": "Cardio clears my mind, but I also lift.",
+        "commentedAt": "2024-12-09T15:15:00Z"
+      }
+    ]
+  },
+  {
+    "title": "Recovery and stretching routines",
+    "description": "Recovery is just as important as the workout itself. Share your favorite stretching routines, recovery tools, and strategies for reducing soreness and preventing injuries. Let’s help each other prioritize recovery and stay injury-free.",
+    "likes": 60,
+    "likedBy": {},
+    "category": "Recovery",
+    "tags": ["Recovery", "Stretching", "Injury Prevention"],
+    "author": {
+      "name": "StretchMaster",
+      "profileUrl": "/profile/stretchmaster"
+    },
+    "createdAt": "2024-12-08T11:00:00Z",
+    "comments": [
+      {
+        "name": "Ethan",
+        "comment": "Foam rolling has been a lifesaver.",
+        "commentedAt": "2024-12-08T11:15:00Z"
+      },
+      {
+        "name": "Amelia",
+        "comment": "Stretching before bed really helps.",
+        "commentedAt": "2024-12-08T11:30:00Z"
+      },
+      {
+        "name": "Lucas",
+        "comment": "Ice baths work wonders for recovery.",
+        "commentedAt": "2024-12-08T11:45:00Z"
+      }
+    ]
+  },
+  {
+    "title": "Best gym gear and equipment",
+    "description": "From shoes to gloves to fitness trackers, the right gear can make all the difference in your workout. Share your recommendations for the best gym equipment, accessories, and brands that have improved your fitness experience.",
+    "likes": 35,
+    "likedBy": {},
+    "category": "Gear & Equipment",
+    "tags": ["Gym Gear", "Fitness Equipment", "Accessories"],
+    "author": {
+      "name": "GearHead",
+      "profileUrl": "/profile/gearhead"
+    },
+    "createdAt": "2024-12-07T17:00:00Z",
+    "comments": [
+      {
+        "name": "Emily",
+        "comment": "I love my fitness tracker for monitoring progress.",
+        "commentedAt": "2024-12-07T17:15:00Z"
+      },
+      {
+        "name": "Henry",
+        "comment": "Lifting shoes are worth the investment!",
+        "commentedAt": "2024-12-07T17:30:00Z"
+      },
+      {
+        "name": "Sophia",
+        "comment": "A good pair of gloves saved my hands.",
+        "commentedAt": "2024-12-07T17:45:00Z"
+      }
+    ]
+  },
+  {
+    "title": "Group classes vs. solo workouts",
+    "description": "Do you prefer the energy and camaraderie of group fitness classes, or the focus and solitude of solo workouts? Share your experiences, the pros and cons of each, and how you balance the two for the best results.",
+    "likes": 50,
+    "likedBy": {},
+    "category": "Workouts",
+    "tags": ["Group Classes", "Solo Workouts", "Fitness Preferences"],
+    "author": {
+      "name": "FitClassFan",
+      "profileUrl": "/profile/fitclassfan"
+    },
+    "createdAt": "2024-12-06T13:20:00Z",
+    "comments": [
+      {
+        "name": "Ella",
+        "comment": "Group classes keep me motivated!",
+        "commentedAt": "2024-12-06T13:40:00Z"
+      },
+      {
+        "name": "Leo",
+        "comment": "Solo workouts let me focus better.",
+        "commentedAt": "2024-12-06T13:55:00Z"
+      },
+      {
+        "name": "Sophia",
+        "comment": "I mix both to keep things interesting.",
+        "commentedAt": "2024-12-06T14:10:00Z"
+      }
+    ]
+  },
+  {
+    "title": "Top supplements for muscle growth",
+    "description": "Supplements can be a helpful addition to your diet for building muscle and improving recovery. Share your experiences with protein powders, creatine, BCAAs, and more. Let’s discuss what works, what doesn’t, and how to use supplements effectively.",
+    "likes": 75,
+    "likedBy": {},
+    "category": "Nutrition",
+    "tags": ["Supplements", "Muscle Growth", "Protein"],
+    "author": {
+      "name": "SupplementKing",
+      "profileUrl": "/profile/supplementking"
+    },
+    "createdAt": "2024-12-05T12:40:00Z",
+    "comments": [
+      {
+        "name": "James",
+        "comment": "Creatine has been a game-changer for me.",
+        "commentedAt": "2024-12-05T13:00:00Z"
+      },
+      {
+        "name": "Luna",
+        "comment": "Protein shakes are my post-workout staple.",
+        "commentedAt": "2024-12-05T13:15:00Z"
+      },
+      {
+        "name": "Oliver",
+        "comment": "Always consult a nutritionist first!",
+        "commentedAt": "2024-12-05T13:30:00Z"
+      }
+    ]
+  }
+]
