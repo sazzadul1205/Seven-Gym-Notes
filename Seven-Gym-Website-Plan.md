@@ -1239,6 +1239,191 @@
   - Implement a **sorting/filtering option** (e.g., most recent, highest-rated).
   - Highlight **featured reviews** at the top for better engagement.
 
+## 3.7 Forum Page
+
+- **Description**:  
+  A community forum page where users can browse, search, and filter discussion threads. It provides an interactive space for users to engage in conversations based on different categories.
+
+- **Objective**:
+
+  - Allow users to **view, search, and filter** forum threads.
+  - Ensure **real-time updates** using **React Query**.
+  - Provide a **structured and easy-to-navigate** discussion platform.
+
+- **Functionality**:
+
+  - **Data Fetching**:
+
+    - Retrieves **forum threads** (`/Forums`).
+    - Fetches **user data** (`/Users?email=${user?.email}`) if logged in.
+    - Loads **forum categories** (`/Forums/categories`).
+    - Uses `refetch` to update the displayed threads dynamically.
+
+  - **State Management**:
+
+    - `searchQuery`: Stores **user input** for searching threads.
+    - `selectedCategory`: Manages **forum category selection** for filtering.
+    - `visibleThreadsCount`: Controls the **number of displayed threads** (pagination-like behavior).
+
+  - **Loading & Error Handling**:
+
+    - Displays a **loading screen** if any API request is still pending.
+    - Shows an **error component** if a request fails.
+
+  - **Component Breakdown**:
+    - **`ForumBanner`** → Displays the **search bar** and **forum header**.
+    - **`ForumCategory`** → Provides a **category filter** for browsing topics.
+    - **`ForumThreads`** → Lists **forum threads**, handling **search and category filtering**.
+
+- **Suggestion**:
+  - Implement **infinite scrolling** or a "Load More" button instead of a static thread count.
+  - Add **thread creation functionality** for users.
+  - Include **sorting options** (e.g., most recent, most commented).
+  - Enhance **search functionality** with keyword highlighting.
+
+### 3.7.1 Forum Banner Component
+
+- **Description**:  
+  A **banner component** for the forum category page that provides a **search bar** to filter discussion threads. It enhances **user experience** by displaying a visually appealing **background image** with an overlay.
+
+- **Objective**:
+
+  - Offer a **clear and structured** search interface for forum users.
+  - Improve **thread discoverability** through **search functionality**.
+  - Maintain a **consistent design** with a **background image overlay**.
+
+- **Functionality**:
+
+  - **Background & Overlay**:
+
+    - Displays a **full-width background image** (`Wall`).
+    - Uses a **semi-transparent gradient overlay** for better text readability.
+
+  - **Search Bar**:
+    - Allows users to **search forum threads** by title.
+    - Contains a **search icon (`FaSearch`)** for intuitive design.
+    - Updates `searchQuery` state dynamically via `setSearchQuery`.
+
+- **Suggestion**:
+  - Improve **mobile responsiveness** by adjusting input width (`w-1/4` → `w-full sm:w-1/2`).
+  - Implement **debouncing** to optimize search performance and reduce unnecessary API calls.
+  - Consider adding **category filters** within the search bar for a **better user experience**.
+
+### 3.7.2 Forum Category Component
+
+- **Description**:  
+  A **category selection component** for the forum page that enables users to **filter discussion threads** by category. It features a **responsive horizontal slider** to display category buttons and enhance navigation.
+
+- **Objective**:
+
+  - Offer a **clear and interactive** interface for browsing forum categories.
+  - Improve **thread discoverability** by allowing users to filter discussions based on categories.
+  - Ensure **smooth navigation** with a responsive slider optimized for various screen sizes.
+
+- **Functionality**:
+
+  - **Category List**:
+
+    - Uses `useMemo` to **memoize** the category list, combining the default `"All"` option with fetched categories.
+    - Reduces unnecessary re-renders for better performance.
+
+  - **Slider Navigation**:
+
+    - Implements **React Slick Carousel** for horizontal scrolling of category buttons.
+    - Configures **responsive breakpoints** (1024px, 600px, 480px) to adjust the number of visible slides on different devices.
+
+  - **Category Buttons**:
+    - Each button **updates the selected category** via `setSelectedCategory` on click.
+    - Highlights the **active category** using conditional styling.
+    - Applies smooth transition effects for an enhanced user experience.
+
+- **Suggestion**:
+  - Enhance **accessibility** by adding ARIA labels to the category buttons.
+  - Consider adding **tooltips** for additional context on each category.
+  - Optimize the slider further by integrating lazy-loading if visuals or icons are added in the future.
+
+### 3.7.3 Forum Threads Component
+
+- **Description**:  
+  A **threads listing component** for the forum page that displays discussion threads in a structured grid layout. It allows users to **browse**, **filter**, and **view detailed** information about threads via a modal dialog.
+
+- **Objective**:
+
+  - Enable users to **view and filter** forum threads based on search queries and selected categories.
+  - Provide a **dynamic "Show More" functionality** to progressively load additional threads.
+  - Allow users to **access detailed thread information** through an interactive modal.
+
+- **Functionality**:
+
+  - **Data Sorting & Filtering**:
+
+    - **Sorts threads** by creation date (newest first) to ensure fresh content is prioritized.
+    - **Filters threads** based on the thread title matching the `searchQuery` and the `selectedCategory` (with "All" showing every thread).
+
+  - **Thread Display**:
+
+    - Displays threads in a **grid layout** with key details: title, description, number of comments, likes, and a "time ago" indicator computed via a utility function.
+    - Implements a **"Show More" button** that increases the `visibleThreadsCount`, allowing additional threads to be displayed when available.
+
+  - **Top Threads Section**:
+
+    - Separately identifies **top threads** by sorting based on the number of comments (and likes as a secondary criterion) and limiting the display to the **top 5 threads**.
+
+  - **Modal Dialog for Thread Details**:
+    - Uses a **state variable (`selectedThread`)** to track which thread is selected for a detailed view.
+    - Opens a modal dialog (via `ViewDetailsThreadsModal`) to present **in-depth thread details**.
+    - Utilizes **useEffect** to update the selected thread if the underlying forums data changes.
+
+- **Suggestion**:
+  - Implement **debouncing** on the search input to improve performance and reduce unnecessary filtering.
+  - Optimize the **timeAgo** utility by memoizing results or using a dedicated time library.
+  - Enhance accessibility by adding **ARIA labels** and enabling keyboard navigation for thread items.
+  - Consider lazy-loading modal content for better performance when displaying thread details.
+
+#### 3.7.3.1 View Details Component
+
+- **Description**:  
+  A **modal component** that displays detailed information about a selected forum thread. It shows the thread’s title, description, metadata (author, category, and creation time), likes, and comments. It also enables logged-in users to like the thread and add comments.
+
+- **Objective**:
+
+  - Provide a **comprehensive view** of a forum thread with all relevant details.
+  - Allow authenticated users to **engage** with the thread by liking and commenting.
+  - Facilitate **real-time updates** by re-fetching data after user interactions.
+
+- **Functionality**:
+
+  - **Thread Details Display**:
+
+    - Shows thread title, description, and metadata including author (with a link), category, and relative creation time (using a **time ago** utility).
+
+  - **Like Button**:
+
+    - Implements a like feature that updates the like count via an asynchronous patch request.
+    - Displays different icons based on whether the user has already liked the thread.
+    - Prevents multiple rapid clicks by managing a loading state.
+
+  - **Comment Section**:
+
+    - Provides an input box for logged-in users to add new comments.
+    - Disables the comment box if the user has already commented.
+    - Displays existing comments with author names and relative times.
+
+  - **Modal Control**:
+
+    - Includes a close button to exit the modal view.
+    - Uses a dedicated modal dialog element and integrates with the **ViewDetailsThreadsModal** component.
+
+  - **State Management & Side Effects**:
+    - Manages various states such as loading indicators, like loading, new comment input, and modal visibility.
+    - Uses `useEffect` to update the selected thread if the underlying forum data changes.
+
+- **Suggestion**:
+  - Enhance error handling by providing more detailed feedback on failed like or comment operations.
+  - Implement a **debounce mechanism** to prevent rapid-fire like requests.
+  - Consider adding a toggle to **show all comments** versus a truncated list for improved usability.
+  - Optimize the UI by integrating animations or transitions when the modal opens and closes.
+
 # 4. User Pages
 
 # 5 Page Not Found (404)
