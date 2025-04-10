@@ -1,85 +1,103 @@
 {
-    "_id": "67c6ae37d66c28029f3310f9",
-    "trainerName": "Sophia Miller",
-    "trainerSchedule": {
-      "Monday": {
-        "08:00": {
-          "id": "Sophia_Miller-Monday-08:00",
-          "classType": "Yoga Class",
-          "participant": {},
-          "participantLimit": 5,
-          "classPrice": 12,
-          "start": "08:00",
-          "end": "08:59"
-        },
-        "09:00": {
-          "id": "Sophia_Miller-Monday-09:00",
-          "classType": "Partner Workout",
-          "participant": {},
-          "participantLimit": 2,
-          "classPrice": "free",
-          "start": "09:00",
-          "end": "09:59"
-        },
-        "10:00": {
-          "id": "Sophia_Miller-Monday-10:00",
-          "classType": "Drop-In Class",
-          "participant": {},
-          "participantLimit": 20,
-          "classPrice": 33,
-          "start": "10:00",
-          "end": "10:59"
-        },
-        "11:00": {
-          "id": "Sophia_Miller-Monday-11:00",
-          "classType": "Private Session",
-          "participant": {},
-          "participantLimit": 5,
-          "classPrice": "free",
-          "start": "11:00",
-          "end": "11:59"
-        },
-        "12:00": {
-          "id": "Sophia_Miller-Monday-12:00",
-          "classType": "Drop-In Class",
-          "participant": {},
-          "participantLimit": 18,
-          "classPrice": 47,
-          "start": "12:00",
-          "end": "12:59"
-        },
-        "13:00": {
-          "id": "Sophia_Miller-Monday-13:00",
-          "classType": "Workshops",
-          "participant": {},
-          "participantLimit": 12,
-          "classPrice": 34,
-          "start": "13:00",
-          "end": "13:59"
-        }
+  "_id": "67c6ae37d66c28029f3310f9",
+  "trainerName": "Sophia Miller",
+  "trainerSchedule": {
+    "Monday": {
+      "08:00": {
+        "id": "Sophia_Miller-Monday-08:00",
+        "classType": "Yoga Class",
+        "participant": {},
+        "participantLimit": 5,
+        "classPrice": 12,
+        "start": "08:00",
+        "end": "08:59"
       },
-      "Tuesday": {
-        "08:00": {
-          "id": "Sophia_Miller-Tuesday-08:00",
-          "classType": "Yoga Class",
-          "participant": {},
-          "participantLimit": 14,
-          "classPrice": 39,
-          "start": "08:00",
-          "end": "08:59"
-        },
-        "09:00": {
-          "id": "Sophia_Miller-Tuesday-09:00",
-          "classType": "Private Session",
-          "participant": {},
-          "participantLimit": 3,
-          "classPrice": 32,
-          "start": "09:00",
-          "end": "09:59"
-        },
-// Rest of the Time
+      "09:00": {
+        "id": "Sophia_Miller-Monday-09:00",
+        "classType": "Partner Workout",
+        "participant": {},
+        "participantLimit": 2,
+        "classPrice": "free",
+        "start": "09:00",
+        "end": "09:59"
+      },
+      "10:00": {
+        "id": "Sophia_Miller-Monday-10:00",
+        "classType": "Drop-In Class",
+        "participant": {},
+        "participantLimit": 20,
+        "classPrice": 33,
+        "start": "10:00",
+        "end": "10:59"
+      },
+      "11:00": {
+        "id": "Sophia_Miller-Monday-11:00",
+        "classType": "Private Session",
+        "participant": {},
+        "participantLimit": 5,
+        "classPrice": "free",
+        "start": "11:00",
+        "end": "11:59"
+      },
+      "12:00": {
+        "id": "Sophia_Miller-Monday-12:00",
+        "classType": "Drop-In Class",
+        "participant": {},
+        "participantLimit": 18,
+        "classPrice": 47,
+        "start": "12:00",
+        "end": "12:59"
+      },
+      "13:00": {
+        "id": "Sophia_Miller-Monday-13:00",
+        "classType": "Workshops",
+        "participant": {},
+        "participantLimit": 12,
+        "classPrice": 34,
+        "start": "13:00",
+        "end": "13:59"
       }
-    //   Rest of the days
-
+    },
+    "Tuesday": {
+      "08:00": {
+        "id": "Sophia_Miller-Tuesday-08:00",
+        "classType": "Yoga Class",
+        "participant": {},
+        "participantLimit": 14,
+        "classPrice": 39,
+        "start": "08:00",
+        "end": "08:59"
+      },
+      "09:00": {
+        "id": "Sophia_Miller-Tuesday-09:00",
+        "classType": "Private Session",
+        "participant": {},
+        "participantLimit": 3,
+        "classPrice": 32,
+        "start": "09:00",
+        "end": "09:59"
+      },
+      "13:00": {
+        "day": "Thursday",
+        "time": "13:00",
+        "id": "Thomas_King-Thursday-13:00",
+        "classType": "Private Training",
+        "participant": [
+          {
+            "bookerEmail": "user@gmail.com",
+            "duration": 4,
+            "bookingReqID": "67f7b8a5cf40cf2447232cf3",
+            "acceptedAt": "10-04-2025T19:12",
+            "paid": false
+          }
+        ],
+        "participantLimit": 1,
+        "classPrice": 100,
+        "start": "13:00",
+        "end": "13:59"
+      }
+      // Rest of the Time
     }
+    //   Rest of the days
   }
+}
