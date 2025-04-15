@@ -16,7 +16,8 @@
               "bookingReqID": "67fd5548034666adef3ce4c7",
               "acceptedAt": "15-04-2025T00:35",
               "paid": true,
-              "stripePaymentID": "pi_3RDrrEJHBytQdKdK06H6D4kd"
+              "stripePaymentID": "pi_3RDrrEJHBytQdKdK06H6D4kd",
+              "startAt": "16-April-2025"
             }
           ],
           "participantLimit": 1,
@@ -29,7 +30,15 @@
           "time": "09:00",
           "id": "Thomas_King-Monday-09:00",
           "classType": "Group Classes",
-          "participant": {},
+          "participant": [
+            {
+              "bookerEmail": "demo@gmail.com",
+              "duration": 2,
+              "bookingReqID": "67fd61eb4c910110f3600dce",
+              "acceptedAt": "15-04-2025T01:28",
+              "paid": false
+            }
+          ],
           "participantLimit": 20,
           "classPrice": 50,
           "start": "09:00",
@@ -112,37 +121,6 @@
           "classPrice": 36,
           "start": "10:00",
           "end": "10:59"
-        },
-        "11:00": {
-          "day": "Tuesday",
-          "time": "11:00",
-          "id": "Thomas_King-Tuesday-11:00",
-          "classType": "Private Training",
-          "participant": {},
-          "participantLimit": 1,
-          "classPrice": 100,
-          "start": "11:00",
-          "end": "11:59"
-        },
-        "12:00": {
-          "id": "Thomas_King-Tuesday-12:00",
-          "classType": "Dance Class",
-          "participant": {},
-          "participantLimit": 20,
-          "classPrice": "free",
-          "start": "12:00",
-          "end": "12:59"
-        },
-        "13:00": {
-          "day": "Tuesday",
-          "time": "13:00",
-          "id": "Thomas_King-Tuesday-13:00",
-          "classType": "Group Classes",
-          "participant": {},
-          "participantLimit": 20,
-          "classPrice": 32,
-          "start": "13:00",
-          "end": "13:59"
         }
       }
     }
