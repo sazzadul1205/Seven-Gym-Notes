@@ -1,3 +1,65 @@
-1. add refund vlnk and refund stripe hook TrainerScheduleParticipantAccepted
+- make payment history withy refund
+- connect tro Home Page
+- Testimonial Part
+- Student Log
+- add to user tier payment / refund recept viewer
+- trainer Dashboard
+    - Total Earned
+    - Customer Served
 
-. add a payment reseat after successfull implementation at UserTrainerSessionPayment after success
+
+┌────────────────────────────────────────────────────────────────────────────────────┐
+│  Thomas King               |  Dance Instructor        |     Gold Tier     │ Log Out│
+└────────────────────────────────────────────────────────────────────────────────────┘
+│ Sidebar Navigation                                                                 │
+│ ┌─────────────────────────────────────────────┐   ┌─────────────────────────────┐  │
+│ │  ■ Trainer Dashboard (active)               │   │  ■ Trainer Profile          │  │
+│ │  ■ Trainer Schedule                         │   │  ■ Trainer Booking Request  │  │
+│ │  ■ Session History                          │   │  ■ Schedule Participant     │  │
+│ │  ■ Resource Library                         │   │  ■ Settings                 │  │
+│ │  ■ Notifications                            │   │  ■ Help & Support           │  │
+│ └─────────────────────────────────────────────┘   └─────────────────────────────┘  │
+│                                                                                    │
+│                       ┌────────────────────────────┐                               │
+│                       │    Dashboard Overview      │                               │
+│                       └────────────────────────────┘                               │
+│                                                                                    │
+│  ┌─────────────────────┐    ┌─────────────────────┐   ┌─────────────────────┐      │
+│  │   Total Earned      │    │   Customers Served  │   │   Upcoming Sessions │      │
+│  │   $1,200 this week  │    │    15 this week     │   │     4 sessions      │      │
+│  └─────────────────────┘    └─────────────────────┘   └─────────────────────┘      │
+│                                                                                    │
+│  ┌────────────────────────────────────────────┐                                    │
+│  │                Revenue Trends              │                                    │
+│  │ [Line Chart / Bar Chart: Weekly & Monthly] │                                    │
+│  └────────────────────────────────────────────┘                                    │
+│                                                                                    │
+│  ┌────────────────────────────────────────────┐   ┌────────────────────────────┐   │
+│  │         Next Scheduled Session             │   │  Notifications & Messages  │   │
+│  │  ----------------------------------------  │   │  -----------------------   │   | 
+│  │  Client: Jane Doe                          │   │  •  New Booking Request    │   │
+│  │  Date: 2025-04-20, 10:00 AM                │   │  •  Cancellation Notice    │   │
+│  │  Class: Salsa Intermediate                 │   │  •  Client Feedback Alert  │   │
+│  │  Location: Studio 2                        │   │  •  System Announcement    │   │
+│  └────────────────────────────────────────────┘   └────────────────────────────┘   │
+│                                                                                    │
+│  ┌────────────────────────────────────────────────────────────────────────────┐    │
+│  │                             Recent Booking History                         │    │
+│  │ ┌────────────────────────────────────────────────────────────────────────┐ │    │
+│  │ │ Booking #12345 - John Smith - 2025-04-19 - Completed                   │ │    │
+│  │ │ Booking #12346 - Sarah Taylor - 2025-04-19 - Cancelled                 │ │    │
+│  │ │ Booking #12347 - Robert Adams - 2025-04-20 - Pending Payment           │ │    │
+│  │ │ Booking #12348 - Emily White - 2025-04-20 - Completed                  │ │    │
+│  │ └────────────────────────────────────────────────────────────────────────┘ │    │
+│  └────────────────────────────────────────────────────────────────────────────┘    │
+│                                                                                    │
+│  ┌────────────────────────────────────────────┐   ┌────────────────────────────┐   │
+│  │             Client Feedback                │   │       Quick Actions        │   │
+│  │ ┌────────────────────────────────────────┐ │   │  • Add New Session         │   │
+│  │ │ "Great session! Inspiring trainer!"    │ │   │  • Manage Bookings         │   │
+│  │ │ - Jane Doe (5 stars)                   │ │   │  • Update Availability     │   │
+│  │ └────────────────────────────────────────┘ │   │  • View Detailed Reports   │   │
+│  │                                            │   │  • Help & Support          │   │
+│  └────────────────────────────────────────────┘   └────────────────────────────┘   │
+│                                                                                    │
+└────────────────────────────────────────────────────────────────────────────────────┘
