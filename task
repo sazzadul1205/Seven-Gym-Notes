@@ -34,7 +34,7 @@
 │                                                                                    │
 │  ┌────────────────────────────────────────────┐   ┌────────────────────────────┐   │
 │  │         Next Scheduled Session             │   │  Notifications & Messages  │   │
-│  │  ----------------------------------------  │   │  -----------------------   │   | 
+│  │  ----------------------------------------  │   │  -----------------------   │   |
 │  │  Client: Jane Doe                          │   │  •  New Booking Request    │   │
 │  │  Date: 2025-04-20, 10:00 AM                │   │  •  Cancellation Notice    │   │
 │  │  Class: Salsa Intermediate                 │   │  •  Client Feedback Alert  │   │
