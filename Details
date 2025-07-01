@@ -1,0 +1,91 @@
+Here’s your updated **README.md starter** including:
+
+* 🔗 GitHub server link
+* 🌐 Live project (Vercel) link
+* 🔐 Demo credentials section
+
+You can replace the placeholder URLs and credentials when ready.
+
+---
+
+# 🏋️‍♂️ Gym Management Web Platform
+
+A full-featured fitness and training platform built with modern technologies, providing tailored experiences for **Members**, **Trainers**, **Class Managers**, and **Admins**. This system includes dynamic scheduling, session booking, tier management, invoicing, community interaction, and content management.
+
+---
+
+## 📚 Overview
+
+This web application is designed to streamline and automate operations for a modern gym or fitness organization. It supports multiple user roles, each with their own layouts, tools, and controls, ensuring a customized and efficient experience for all participants.
+
+---
+
+## 🔗 Project Links
+
+| Type                      | Link                                                                                     |
+| ------------------------  | ---------------------------------------------------------------------------------------- |
+| 🖥️ **Frontend (Live)**   | [https://your-gym-app.vercel.app](https://your-gym-app.vercel.app)                       |
+| 🧠 **Backend (GitHub)**  | [https://github.com/yourusername/gym-server](https://github.com/yourusername/gym-server) |
+| 💻 **Frontend (GitHub)** | [https://github.com/yourusername/gym-client](https://github.com/yourusername/gym-client) |
+
+> Replace these with your actual links before publishing.
+
+---
+
+## 🔐 Demo Access
+
+To explore full functionality for all user roles, use the following credentials:
+
+### ▶️ Member Access
+
+* **Email:** `member@example.com`
+* **Password:** `member123`
+
+### ▶️ Trainer Access
+
+* **Email:** `trainer@example.com`
+* **Password:** `trainer123`
+
+### ▶️ Class Manager Access
+
+* **Email:** `manager@example.com`
+* **Password:** `manager123`
+
+### ▶️ Admin Access
+
+* **Email:** `admin@example.com`
+* **Password:** `admin123`
+
+> 🔒 *These accounts include access to all working features for testing and demonstration purposes.*
+
+---
+
+## ⚙️ Technologies Used
+
+* **Frontend**: React, React Router, React Query, TailwindCSS, TipTap
+* **State Management**: React Context, React Query
+* **Auth & Security**: JWT, Role-based Access Control
+* **Backend (assumed)**: Node.js / Express
+* **Payments**: Stripe
+* **Other**: SweetAlert2, Axios, Day.js, UUID
+
+---
+
+## 📄 Layout Descriptions
+
+> ✅ [Jump to Public Layout »](#-public-layout)
+> ✅ [Jump to Member Layout »](#-member-layout)
+> ✅ [Jump to Trainer Layout »](#-trainer-layout)
+> ✅ [Jump to Admin Layout »](#-admin-layout)
+
+---
+
+Let me know if you’d like:
+
+* Copy-paste markdown version
+* Auto-generated table of contents
+* Deployment setup steps (e.g., Vercel, .env config)
+* Private route protection/guard instructions
+
+
+Just say the word.
